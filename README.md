@@ -6,6 +6,37 @@
 - 만든 과정 (블로그): https://blog.naver.com/finepix401
 - **원작 게임 파일은 들어 있지 않습니다.** 히어로즈 2 원작(정품)을 갖고 계셔야 합니다.
 
+## 원작과 비교 (왼쪽 원작 / 오른쪽 이 판)
+
+**주 메뉴**
+![주 메뉴](docs/screenshots/01_menu.png)
+
+**시나리오 창** — 왼쪽 위 "확장 게임" 칸을 켜면 확장 모드, 끄면 원작 그대로. 켜면 "무작위 지도" 버튼도 생깁니다.
+![시나리오 창](docs/screenshots/02_scenario.png)
+
+**모험 화면**
+![모험 화면](docs/screenshots/03_adventure.png)
+
+**영웅 화면 → 3편식 장비 창** — 끼운 아이템만 효과가 납니다.
+![영웅 화면과 장비 창](docs/screenshots/04_hero_equip.png)
+
+## 새로 생긴 것
+
+**우물: 등급마다 기본 | 갈래 1 | 갈래 2** — 업그레이드 건물을 지으면 두 갈래 중 하나를 골라 고용
+![우물](docs/screenshots/05_well.png)
+
+**세트 도감** — 가진 조각은 밝게, 끼운 조각은 금빛 테
+![세트 도감](docs/screenshots/06_set_catalog.png)
+
+**전투: 대기·방어, 다음 차례 표시, 유닛 머리 위 마법 표시** — 파랑은 이로운 마법, 빨강은 해로운 마법, 숫자는 남은 턴. 마우스를 대면 전체 목록
+![전투](docs/screenshots/07_battle.png)
+
+**캠페인 동영상 한글 자막** — 장면 색에 맞춘 글자와 어두운 띠
+![자막](docs/screenshots/08_subtitles.png)
+
+**무작위 지도** — 광산·건물·자원을 원래보다 더 채움
+![무작위 지도](docs/screenshots/09_random_map.png)
+
 ## 무엇이 들어 있나
 
 ### 한국어
