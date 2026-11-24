@@ -490,9 +490,11 @@ namespace H2Ext
         fheroes2::Button buttonExit( roi.x + 632 - exitReleased.width(), roi.y + 2, ICN::BUTTON_SMALL_EXIT_GOOD, 0, 1 );
 
         const std::vector<SetDefinition> & sets = artifactSets();
-        // 3 columns x 6 rows of sets
+        // 3 columns x 7 rows of sets (6 rows of 73 until set 19 "Wind Step" was added on 2026-11-21: it did not fit and was not shown;
+        // owner 2026-11-24 21:02 "일부로 빼진 않았을텐데")
+        const size_t maxShownSets = 21;
         auto cellRect = [&roi]( const size_t i ) {
-            return fheroes2::Rect( roi.x + 8 + static_cast<int32_t>( i % 3 ) * 208, roi.y + 24 + static_cast<int32_t>( i / 3 ) * 73, 204, 70 );
+            return fheroes2::Rect( roi.x + 8 + static_cast<int32_t>( i % 3 ) * 208, roi.y + 24 + static_cast<int32_t>( i / 3 ) * 62, 204, 60 );
         };
         auto owned = [&bag]( const int id ) {
             for ( size_t i = 0; i < bag.size(); ++i ) {
@@ -509,7 +511,7 @@ namespace H2Ext
         const fheroes2::Text title( std::string( _( "Set catalog" ) ) + " - " + hero.GetName(), fheroes2::FontType::smallYellow() );
         title.draw( roi.x + ( roi.width - title.width() ) / 2, roi.y + 7, display );
 
-        for ( size_t si = 0; si < sets.size() && si < 18; ++si ) {
+        for ( size_t si = 0; si < sets.size() && si < maxShownSets; ++si ) {
             const SetDefinition & set = sets[si];
             const fheroes2::Rect cell = cellRect( si );
             const int worn = wornPieces( bag, static_cast<int>( si ) );
@@ -527,7 +529,7 @@ namespace H2Ext
             name.draw( cell.x + 20, cell.y + 5, cell.width - 24, display );
 
             for ( size_t pi = 0; pi < set.pieces.size(); ++pi ) {
-                const fheroes2::Rect r( cell.x + 6 + static_cast<int32_t>( pi ) * 39, cell.y + 22, 32, 32 );
+                const fheroes2::Rect r( cell.x + 6 + static_cast<int32_t>( pi ) * 39, cell.y + 21, 32, 32 );
                 const int state = owned( set.pieces[pi] );
                 fheroes2::DrawRect( display, { r.x - 1, r.y - 1, r.width + 2, r.height + 2 }, state == 2 ? goldLight : slotDark );
                 const fheroes2::Sprite & sprite = Assets::getImage( ICN::ARTFX, Artifact( set.pieces[pi] ).IndexSprite32() );
@@ -544,7 +546,8 @@ namespace H2Ext
             }
             const fheroes2::Text tiers( std::to_string( tiersOn ) + "/" + std::to_string( set.tiers.size() ), tiersOn > 0 ? fheroes2::FontType::smallYellow()
                                                                                                                        : fheroes2::FontType{ fheroes2::FontSize::SMALL, fheroes2::FontColor::GRAY } );
-            tiers.draw( cell.x + cell.width - tiers.width() - 6, cell.y + 57, display );
+            // on the name line: the 60 point cell has no free line under the pieces
+            tiers.draw( cell.x + cell.width - tiers.width() - 6, cell.y + 5, display );
         }
         const fheroes2::Text hint( _( "Right click a set: its effects. Bright = owned, gold frame = worn." ), fheroes2::FontType::smallWhite() );
         hint.draw( roi.x + ( roi.width - hint.width() ) / 2, roi.y + 464, display );
@@ -557,7 +560,7 @@ namespace H2Ext
             if ( le.MouseClickLeft( buttonExit.area() ) || Game::HotKeyCloseWindow() || le.isKeyPressed( fheroes2::Key::KEY_S ) ) {
                 break;
             }
-            for ( size_t si = 0; si < sets.size() && si < 18; ++si ) {
+            for ( size_t si = 0; si < sets.size() && si < maxShownSets; ++si ) {
                 if ( le.isMouseRightButtonPressedInArea( cellRect( si ) ) || le.MouseClickLeft( cellRect( si ) ) ) {
                     // the set text as in the artifact information, coloured for this hero
                     // (owner 2026-11-23 14:50: the name once, as "Set N: name"; the pieces as pictures; no empty lines)
