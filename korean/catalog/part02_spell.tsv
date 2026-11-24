@@ -1,0 +1,159 @@
+# 마법 (spell/). 1편 한글판에 있는 이름은 그대로
+Causes a giant fireball to strike the selected area, damaging all nearby creatures.	거대한 불덩이를 고른 곳에 떨어뜨려 주변의 모든 크리처에게 피해를 줍니다.
+Fireball	파이어볼
+Fireblast	화염 폭발
+An improved version of fireball, fireblast affects two hexes around the center point of the spell, rather than one.	파이어볼의 강화판으로, 중심에서 한 칸이 아니라 두 칸 범위까지 피해를 줍니다.
+Causes a bolt of electrical energy to strike the selected creature.	고른 크리처에게 번개를 내리칩니다.
+Lightning Bolt	번개
+Chain Lightning	연쇄 번개
+Causes a bolt of electrical energy to strike a selected creature, then strike the nearest creature with half damage, then strike the NEXT nearest creature with half again damage, and so on, until it becomes too weak to be harmful. Warning: This spell can hit your own creatures!	고른 크리처에게 번개를 내리친 뒤, 가장 가까운 크리처에게 절반의 피해로, 그다음 가까운 크리처에게 다시 절반의 피해로 이어지며 약해져 사라질 때까지 계속됩니다. 주의: 아군 크리처도 맞을 수 있습니다!
+Teleport	순간이동
+Teleports the creature you select to any open position on the battlefield.	고른 크리처를 전장의 빈자리 어디로든 순간이동시킵니다.
+Cure	치료
+Removes all negative spells cast upon one of your units, and restores up to %{count} HP per level of spell power.	아군 부대 하나에 걸린 해로운 마법을 모두 없애고, 마법력 1당 체력을 최대 %{count}만큼 되살립니다.
+Mass Cure	집단 치료
+Removes all negative spells cast upon your forces, and restores up to %{count} HP per level of spell power, per creature.	아군 전체에 걸린 해로운 마법을 모두 없애고, 크리처마다 마법력 1당 체력을 최대 %{count}만큼 되살립니다.
+Resurrect	부활
+Resurrects creatures from a damaged or dead unit until end of combat.	다치거나 죽은 부대의 크리처를 전투가 끝날 때까지 되살립니다.
+Resurrect True	완전 부활
+Resurrects creatures from a damaged or dead unit permanently.	다치거나 죽은 부대의 크리처를 영구히 되살립니다.
+Haste	가속
+Increases the speed of any creature by %{count}.	크리처 하나의 속도를 %{count}만큼 올립니다.
+Increases the speed of all of your creatures by %{count}.	아군 크리처 모두의 속도를 %{count}만큼 올립니다.
+Mass Haste	집단 가속
+Slows target to half movement rate.	대상의 이동 속도를 절반으로 줄입니다.
+spell|Slow	둔화
+Mass Slow	집단 둔화
+Slows all enemies to half movement rate.	모든 적의 이동 속도를 절반으로 줄입니다.
+spell|Blind	실명
+Clouds the affected creatures' eyes, preventing them from moving and reduces the damage when retaliating by %{count} percent.	대상 크리처의 눈을 가려 움직이지 못하게 하고, 반격할 때의 피해를 %{count}% 줄입니다.
+Bless	축복
+Causes the selected creatures to inflict maximum damage.	고른 크리처가 언제나 최대 피해를 줍니다.
+Causes all of your units to inflict maximum damage.	아군 부대 모두가 언제나 최대 피해를 줍니다.
+Mass Bless	집단 축복
+Magically increases the defense skill of the selected creatures.	고른 크리처의 방어력을 마법으로 높입니다.
+Stoneskin	돌 피부
+Steelskin	강철 피부
+Increases the defense skill of the targeted creatures. This is an improved version of Stoneskin.	대상 크리처의 방어력을 높입니다. 돌 피부의 강화판입니다.
+Causes the selected creatures to inflict minimum damage.	고른 크리처가 언제나 최소 피해만 줍니다.
+Curse	저주
+Causes all enemy troops to inflict minimum damage.	모든 적 부대가 언제나 최소 피해만 줍니다.
+Mass Curse	집단 저주
+Damages all undead in the battle.	전장의 모든 언데드에게 피해를 줍니다.
+Holy Word	성스러운 말씀
+Damages all undead in the battle. This is an improved version of Holy Word.	전장의 모든 언데드에게 피해를 줍니다. 성스러운 말씀의 강화판입니다.
+Holy Shout	성스러운 외침
+Anti-Magic	마법 거부
+Prevents any magic against the selected creatures.	고른 크리처에게 어떤 마법도 걸리지 않게 합니다.
+Dispel Magic	해제
+Removes all magic spells from a single target.	대상 하나에 걸린 마법을 모두 없앱니다.
+Mass Dispel	집단 해제
+Removes all magic spells from all creatures.	모든 크리처에 걸린 마법을 모두 없앱니다.
+Causes a magic arrow to strike the selected target.	고른 대상에게 마법 화살을 쏩니다.
+Magic Arrow	마법 화살
+Berserker	광폭
+Causes a creature to attack its nearest neighbor.	크리처가 가장 가까운 옆 부대를 공격하게 만듭니다.
+Armageddon	아마겟돈
+Holy terror strikes the battlefield, causing severe damage to all creatures.	신성한 공포가 전장을 덮쳐 모든 크리처에게 큰 피해를 줍니다.
+Elemental Storm	폭풍
+Magical elements pour down on the battlefield, damaging all creatures.	마법의 원소가 전장에 쏟아져 모든 크리처에게 피해를 줍니다.
+A rain of rocks strikes an area of the battlefield, damaging all nearby creatures.	바위 비가 전장의 한 곳에 쏟아져 주변의 모든 크리처에게 피해를 줍니다.
+Meteor Shower	유성 폭풍
+Paralyze	마비
+The targeted creatures are paralyzed, unable to move or retaliate.	대상 크리처가 마비되어 움직이지도 반격하지도 못합니다.
+Hypnotize	최면
+Brings a single enemy unit under your control if its hits are less than %{count} times the caster's spell power.	적 부대 하나의 체력이 시전자 마법력의 %{count}배보다 적으면 그 부대를 내 편으로 부립니다.
+Cold Ray	냉기 광선
+Drains body heat from a single enemy unit.	적 부대 하나의 체온을 빼앗아 피해를 줍니다.
+Cold Ring	냉기 고리
+Drains body heat from all units surrounding the center point, but not including the center point.	중심을 둘러싼 모든 부대의 체온을 빼앗아 피해를 줍니다. 중심 칸은 빠집니다.
+Disrupting Ray	분열 광선
+Reduces the defense rating of an enemy unit by three.	적 부대 하나의 방어력을 3 낮춥니다.
+Damages all living (non-undead) units in the battle.	전장의 살아 있는(언데드가 아닌) 부대 모두에게 피해를 줍니다.
+Death Ripple	죽음의 파문
+Death Wave	죽음의 물결
+Damages all living (non-undead) units in the battle. This spell is an improved version of Death Ripple.	전장의 살아 있는(언데드가 아닌) 부대 모두에게 피해를 줍니다. 죽음의 파문의 강화판입니다.
+Dragon Slayer	드래곤 슬레이어
+Greatly increases a unit's attack skill vs. Dragons.	부대가 드래곤을 상대할 때 공격력을 크게 높입니다.
+Blood Lust	피의 갈망
+Increases a unit's attack skill by 3. The effect lasts for 3 rounds of combat, regardless of spell power.	부대의 공격력을 3 높입니다. 마법력과 상관없이 3턴 동안 이어집니다.
+Animate Dead	사자 소생
+Resurrects creatures from a damaged or dead undead unit permanently.	다치거나 죽은 언데드 부대의 크리처를 영구히 되살립니다.
+Mirror Image	분신
+Creates an illusionary unit that duplicates one of your existing units. This illusionary unit does the same damages as the original, but will vanish if it takes any damage.	아군 부대 하나를 똑같이 본뜬 환영 부대를 만듭니다. 환영은 원래 부대와 같은 피해를 주지만, 조금이라도 피해를 받으면 사라집니다.
+Shield	방패
+Halves damage received from ranged attacks for a single unit. Does not affect damage received from Turrets or Ballistae.	부대 하나가 받는 원거리 공격 피해를 절반으로 줄입니다. 포탑과 발리스타의 공격에는 효과가 없습니다.
+Mass Shield	집단 방패
+Halves damage received from ranged attacks for all of your units. Does not affect damage received from Turrets or Ballistae.	아군 부대 모두가 받는 원거리 공격 피해를 절반으로 줄입니다. 포탑과 발리스타의 공격에는 효과가 없습니다.
+Summon Earth Elemental	대지 정령 소환
+Summons Earth Elementals to fight for your army.	대지 정령을 불러내 아군으로 싸우게 합니다.
+Summon Air Elemental	공기 정령 소환
+Summons Air Elementals to fight for your army.	공기 정령을 불러내 아군으로 싸우게 합니다.
+Summon Fire Elemental	불 정령 소환
+Summons Fire Elementals to fight for your army.	불 정령을 불러내 아군으로 싸우게 합니다.
+Summon Water Elemental	물 정령 소환
+Summons Water Elementals to fight for your army.	물 정령을 불러내 아군으로 싸우게 합니다.
+Damages castle walls.	성벽에 피해를 줍니다.
+Earthquake	지진
+Causes all mines across the land to become visible.	온 땅의 광산을 모두 보이게 합니다.
+View Mines	광산 조망
+Causes all resources across the land to become visible.	온 땅의 자원을 모두 보이게 합니다.
+View Resources	자원 조망
+Causes all artifacts across the land to become visible.	온 땅의 아티팩트를 모두 보이게 합니다.
+View Artifacts	아티팩트 조망
+Causes all towns and castles across the land to become visible.	온 땅의 마을과 성을 모두 보이게 합니다.
+View Towns	마을 조망
+Causes all Heroes across the land to become visible.	온 땅의 영웅을 모두 보이게 합니다.
+View Heroes	영웅 조망
+Causes the entire land to become visible.	온 땅을 모두 보이게 합니다.
+View All	전체 조망
+Allows the caster to view detailed information on enemy Heroes.	적 영웅의 자세한 정보를 볼 수 있게 합니다.
+Summon Boat	배 소환
+Summons the nearest unoccupied and either friendly or neutral boat to an adjacent shore location. A friendly boat is one which you just built or were the most recent player to occupy. A neutral boat is one which no player has occupied yet.	비어 있는 가장 가까운 아군 배나 중립 배를 바로 옆 물가로 불러옵니다. 아군 배란 방금 지었거나 마지막으로 내가 탔던 배이고, 중립 배란 아직 아무도 타지 않은 배입니다.
+Allows the caster to magically transport to a nearby location.	시전자를 마법으로 가까운 곳에 옮겨 줍니다.
+Dimension Door	차원의 문
+Town Gate	귀환
+Returns the caster to the nearest town or castle currently owned. This spell cannot be cast if the hero is already in a town or a castle.	시전자를 지금 가진 가장 가까운 마을이나 성으로 돌려보냅니다. 영웅이 이미 마을이나 성에 있으면 쓸 수 없습니다.
+Returns the hero to the town or castle of choice, provided it is controlled by you.	내가 가진 마을이나 성 가운데 고른 곳으로 영웅을 돌려보냅니다.
+Visions	예견
+Visions predicts the likely outcome of an encounter with a neutral army camp.	중립 군대와 맞닥뜨렸을 때 어떻게 될지 미리 알려 줍니다.
+Haunt	유령 출몰
+Haunts a mine you control with Ghosts. This mine stops producing resources. (If I can't keep it, nobody will!)	내 광산에 유령을 풀어 놓습니다. 그 광산은 자원을 더 내지 않습니다. (내가 못 가질 바엔 아무도 못 가진다!)
+Set Earth Guardian	대지 수호자 배치
+Sets Earth Elementals to guard a mine against enemy armies.	대지 정령을 광산에 두어 적 군대로부터 지키게 합니다.
+Set Air Guardian	공기 수호자 배치
+Sets Air Elementals to guard a mine against enemy armies.	공기 정령을 광산에 두어 적 군대로부터 지키게 합니다.
+Set Fire Guardian	불 수호자 배치
+Sets Fire Elementals to guard a mine against enemy armies.	불 정령을 광산에 두어 적 군대로부터 지키게 합니다.
+Set Water Guardian	물 수호자 배치
+Sets Water Elementals to guard a mine against enemy armies.	물 정령을 광산에 두어 적 군대로부터 지키게 합니다.
+Random Spell	무작위 마법
+Randomly selected spell of any level.	아무 단계에서 무작위로 고른 마법입니다.
+Random 1st Level Spell	무작위 1단계 마법
+Randomly selected 1st level spell.	1단계에서 무작위로 고른 마법입니다.
+Random 2nd Level Spell	무작위 2단계 마법
+Randomly selected 2nd level spell.	2단계에서 무작위로 고른 마법입니다.
+Random 3rd Level Spell	무작위 3단계 마법
+Randomly selected 3rd level spell.	3단계에서 무작위로 고른 마법입니다.
+Random 4th Level Spell	무작위 4단계 마법
+Randomly selected 4th level spell.	4단계에서 무작위로 고른 마법입니다.
+Random 5th Level Spell	무작위 5단계 마법
+Randomly selected 5th level spell.	5단계에서 무작위로 고른 마법입니다.
+Petrification	석화
+Turns the affected creature into stone. A petrified creature receives half damage from a direct attack.	대상 크리처를 돌로 만듭니다. 돌이 된 크리처는 직접 공격을 받을 때 피해가 절반입니다.
+You have no Magic Book, so you cannot cast a spell.	마법책이 없어서 마법을 쓸 수 없습니다.
+No spell to cast.	쓸 수 있는 마법이 없습니다.
+Your hero has %{sp} spell points remaining out of %{max}.	영웅의 마법 점수가 %{max} 중 %{sp} 남았습니다.
+View Adventure Spells	모험 마법 보기
+View Combat Spells	전투 마법 보기
+View previous page	앞 쪽 보기
+View next page	다음 쪽 보기
+Close Spellbook	마법책 닫기
+View %{spell}	%{spell} 보기
+This spell does %{damage} points of damage.	이 마법은 피해를 %{damage} 줍니다.
+This spell summons\n%{count} %{monster}.	이 마법은\n%{monster} %{count}마리를 불러냅니다.
+This spell restores %{hp} HP.	이 마법은 체력을 %{hp} 되살립니다.
+This spell summons %{count} %{monster} to guard the mine.	이 마법은 %{monster} %{count}마리를 불러내 광산을 지키게 합니다.
+The nearest town is %{town}.	가장 가까운 마을은 %{town}입니다.
+This town is occupied by your hero %{hero}.	이 마을에는 아군 영웅 %{hero}이(가) 있습니다.
+This spell controls up to\n%{hp} HP.	이 마법은 체력\n%{hp}까지 부릴 수 있습니다.

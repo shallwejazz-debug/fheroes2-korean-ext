@@ -1,0 +1,265 @@
+# 전투 (battle/), 부대 (army/), 세계·소문 (world/), 컴퓨터 성향 (ai/)
+%{name} destroys half the enemy troops!	%{name}이(가) 적 부대의 절반을 없앱니다!
+%{name} destroy half the enemy troops!	%{name}이(가) 적 부대의 절반을 없앱니다!
+%{name} has turned off the auto combat	%{name}이(가) 자동 전투를 껐습니다
+%{name} has turned on the auto combat	%{name}이(가) 자동 전투를 켰습니다
+Spell failed!	마법이 실패했습니다!
+The Sphere of Negation artifact is in effect for this battle, disabling all combat spells.	이 전투에는 부정의 구슬이 작용하여 전투 마법을 모두 쓸 수 없습니다.
+You cannot cast spells without a commanding hero.	이끄는 영웅이 없으면 마법을 쓸 수 없습니다.
+You have already cast a spell this round.	이번 턴에는 이미 마법을 썼습니다.
+That spell will have no effect!	그 마법은 아무 효과가 없습니다!
+You may only summon one type of elemental per combat.	전투마다 한 종류의 정령만 불러낼 수 있습니다.
+There is no open space adjacent to your hero where you can summon an Elemental to.	영웅 옆에 정령을 불러낼 빈자리가 없습니다.
+The Moat interrupts any movement through it and reduces the defense skill of troops present in it by %{count}.	해자는 지나가는 움직임을 막고, 그 안에 있는 부대의 방어력을 %{count} 떨어뜨립니다.
+battleAnimation|Speed: %{speed}	속도: %{speed}
+battleAnimation|Speed	속도
+Interface	화면
+Settings	설정
+Auto Spell Casting	자동 마법
+Off	끔
+On	켬
+Set the speed of combat actions and animations.	전투 동작과 움직임의 속도를 정합니다.
+Change the interface settings of the game.	게임의 화면 설정을 바꿉니다.
+Interface Settings	화면 설정
+Toggle whether or not the computer will cast spells for you when auto combat is on. (Note: This does not affect spell casting for computer players in any way, nor does it affect quick combat.)	자동 전투일 때 컴퓨터가 대신 마법을 쓸지 정합니다. (컴퓨터 플레이어의 마법이나 빠른 전투에는 영향이 없습니다.)
+Audio	소리
+Change the audio settings of the game.	게임의 소리 설정을 바꿉니다.
+Check and configure all the hot keys present in the game.	게임의 단축키를 모두 보고 바꿉니다.
+Hot Keys	단축키
+Exit this menu.	이 창을 닫습니다.
+Okay	확인
+The enemy has surrendered!	적이 항복했습니다!
+Their cowardice costs them %{gold} gold.	비겁한 대가로 금 %{gold}을(를) 냅니다.
+The enemy has fled!	적이 달아났습니다!
+A glorious victory!	영광스러운 승리!
+For valor in combat, %{name} receives %{exp} experience.	전투에서 용맹을 떨친 %{name}이(가) 경험치 %{exp}을(를) 얻습니다.
+The cowardly %{name} flees from battle.	비겁한 %{name}이(가) 전투에서 달아납니다.
+%{name} surrenders to the enemy, and departs in shame.	%{name}이(가) 적에게 항복하고 부끄럽게 물러납니다.
+Your forces suffer a bitter defeat, and %{name} abandons your cause.	당신의 군대가 쓰라린 패배를 겪고, %{name}이(가) 당신을 떠납니다.
+Your forces suffer a bitter defeat.	당신의 군대가 쓰라린 패배를 겪습니다.
+Battlefield Casualties	전투 피해
+Attacker	공격 측
+Defender	방어 측
+Click to leave the battle results.	누르면 전투 결과 창을 나갑니다.
+Click to restart the battle in manual mode.	누르면 직접 조작으로 전투를 다시 시작합니다.
+Restart	다시 시작
+You have captured an enemy artifact!	적의 아티팩트를 빼앗았습니다!
+As you reach for the %{name}, it mysteriously disappears.	%{name}에 손을 뻗자, 그것이 신비롭게 사라집니다.
+As your enemy reaches for the %{name}, it mysteriously disappears.	적이 %{name}에 손을 뻗자, 그것이 신비롭게 사라집니다.
+Necromancy!	사령술!
+Practicing the dark arts of necromancy, you are able to raise %{count} of the enemy's dead to return under your service as %{monster}.	어둠의 사령술로 적의 시체 %{count}구를 %{monster}(으)로 일으켜 부하로 삼습니다.
+%{name} the %{race}	%{race} %{name}
+Captain of %{name}	%{name}의 대장
+Attack	공격력
+Defense	방어력
+Spell Power	마법력
+Knowledge	지력
+Morale	사기
+Luck	행운
+Spell Points	마법 점수
+Cast Spell	마법 쓰기
+Retreat	후퇴
+Surrender	항복
+Cancel	취소
+Hero Screen	영웅 화면
+Captain's Options	대장 설정
+Hero's Options	영웅 설정
+Cast a magical spell. You may only cast one spell per combat round. The round is reset when every creature has had a turn.	마법을 씁니다. 전투 턴마다 마법은 한 번만 쓸 수 있습니다. 모든 크리처가 한 번씩 움직이면 새 턴이 됩니다.
+Retreat your hero, abandoning your creatures. Your hero will be available for you to recruit again, however, the hero will have only a novice hero's forces.	크리처를 버리고 영웅만 후퇴합니다. 영웅은 다시 고용할 수 있지만, 초보 영웅의 병력만 가지게 됩니다.
+Surrendering costs gold. However if you pay the ransom, the hero and all of his or her surviving creatures will be available to recruit again. The cost of surrender is half of the total cost of the non-temporary troops remaining in the army.	항복하려면 금이 듭니다. 몸값을 내면 영웅과 살아남은 크리처를 모두 다시 고용할 수 있습니다. 항복 비용은 남은 부대(소환된 것 빼고) 전체 값의 절반입니다.
+Open Hero Screen to view full information about the hero.	영웅 화면을 열어 영웅의 모든 정보를 봅니다.
+Return to the battle.	전투로 돌아갑니다.
+Not enough gold (%{gold})	금이 모자랍니다 (%{gold})
+%{name} states:	%{name}의 말:
+Captain of %{name} states:	%{name} 대장의 말:
+"I will accept your surrender and grant you and your troops safe passage for the price of %{price} gold."	"금 %{price}을(를) 내면 항복을 받아들이고, 당신과 부대를 무사히 보내 주겠다."
+View %{monster} info	%{monster} 정보 보기
+Fly %{monster} here	%{monster}을(를) 여기로 날리기
+Move %{monster} here	%{monster}을(를) 여기로 옮기기
+Shoot %{monster}	%{monster} 쏘기
+(1 shot left)	(1발 남음)
+(%{count} shots left)	(%{count}발 남음)
+Attack %{monster}	%{monster} 공격
+Turn %{turn}	%{turn}턴
+Teleport here	여기로 순간이동
+Invalid teleport destination	순간이동할 수 없는 곳
+Cast %{spell} on %{monster}	%{monster}에게 %{spell} 쓰기
+Cast %{spell}	%{spell} 쓰기
+Select spell target	마법 대상 고르기
+Are you sure you want to enable the auto combat mode?	정말 자동 전투를 켜시겠습니까?
+Are you sure you want to resolve the battle in the quick combat mode?	정말 빠른 전투로 결판을 내시겠습니까?
+View Ballista info	발리스타 정보 보기
+Ballista	발리스타
+Automatic combat modes	자동 전투 방식
+Automatic Combat Modes	자동 전투 방식
+Choose between proceeding the combat in auto combat mode or in quick combat mode.	자동 전투로 계속할지, 빠른 전투로 끝낼지 고릅니다.
+Customize system options	시스템 설정 바꾸기
+Allows you to customize the combat screen.	전투 화면을 원하는 대로 바꿉니다.
+System Options	시스템 설정
+Skip this unit	이 부대 넘기기
+Skip	넘기기
+Skips the current creature. The current creature ends its turn and does not get to go again until the next round.	지금 크리처를 넘깁니다. 이 크리처는 차례를 마치고 다음 턴까지 움직이지 않습니다.
+View Captain's options	대장 설정 보기
+View Hero's options	영웅 설정 보기
+View opposing Captain	상대 대장 보기
+View opposing Hero	상대 영웅 보기
+Hide logs	기록 숨기기
+Show logs	기록 보기
+Message Bar	알림 줄
+Shows the results of individual monster's actions.	크리처 하나하나의 행동 결과를 보여 줍니다.
+AUTO\nCOMBAT	자동\n전투
+QUICK\nCOMBAT	빠른\n전투
+The computer continues the combat for you.	컴퓨터가 대신 전투를 이어 갑니다.
+autoCombat|This can be interrupted at any moment by pressing the Auto Combat hotkey or the default Cancel key, or by performing a left or right click anywhere on the game screen.	자동 전투 단축키나 취소 키를 누르거나, 게임 화면 아무 데나 왼쪽, 오른쪽 클릭하면 언제든 멈출 수 있습니다.
+Auto Combat	자동 전투
+The combat is resolved from the current state.	지금 상태에서 전투의 결판을 냅니다.
+quickCombat|This cannot be undone.	되돌릴 수 없습니다.
+Quick Combat	빠른 전투
+The %{name} skips their turn.	%{name}이(가) 차례를 넘깁니다.
+The %{name} skip their turn.	%{name}이(가) 차례를 넘깁니다.
+%{attacker} does %{damage} damage.	%{attacker}이(가) 피해를 %{damage} 줍니다.
+%{attacker} do %{damage} damage.	%{attacker}이(가) 피해를 %{damage} 줍니다.
+1 creature perishes.	1마리가 죽습니다.
+%{count} creatures perish.	%{count}마리가 죽습니다.
+1 %{defender} perishes.	%{defender} 1마리가 죽습니다.
+%{count} %{defender} perish.	%{defender} %{count}마리가 죽습니다.
+1 soul is incorporated.	영혼 1개를 흡수합니다.
+%{count} souls are incorporated.	영혼 %{count}개를 흡수합니다.
+1 %{unit} is revived.	%{unit} 1마리가 되살아납니다.
+%{count} %{unit} are revived.	%{unit} %{count}마리가 되살아납니다.
+Moved %{monster}: from [%{src}] to [%{dst}].	%{monster} 이동: [%{src}]에서 [%{dst}]로.
+The %{name} resists the spell!	%{name}이(가) 마법을 견뎌 냅니다!
+The %{name} resist the spell!	%{name}이(가) 마법을 견뎌 냅니다!
+%{name} casts %{spell} on the %{troop}.	%{name}이(가) %{troop}에게 %{spell}을(를) 씁니다.
+%{name} casts %{spell}.	%{name}이(가) %{spell}을(를) 씁니다.
+The %{spell} does %{damage} damage to one undead creature.	%{spell}이(가) 언데드 하나에게 피해를 %{damage} 줍니다.
+The %{spell} does %{damage} damage to all undead creatures.	%{spell}이(가) 모든 언데드에게 피해를 %{damage} 줍니다.
+The %{spell} does %{damage} damage, %{count} creatures perish.	%{spell}이(가) 피해를 %{damage} 주어, %{count}마리가 죽습니다.
+The %{spell} does %{damage} damage.	%{spell}이(가) 피해를 %{damage} 줍니다.
+The %{spell} does %{damage} damage to one living creature.	%{spell}이(가) 살아 있는 크리처 하나에게 피해를 %{damage} 줍니다.
+The %{spell} does %{damage} damage to all living creatures.	%{spell}이(가) 살아 있는 모든 크리처에게 피해를 %{damage} 줍니다.
+The %{attacker}'s attack blinds the %{target}!	%{attacker}의 공격에 %{target}이(가) 눈이 멉니다!
+The %{attacker}' attack blinds the %{target}!	%{attacker}의 공격에 %{target}이(가) 눈이 멉니다!
+The %{attacker}'s gaze turns the %{target} to stone!	%{attacker}의 눈빛에 %{target}이(가) 돌이 됩니다!
+The %{attacker}' gaze turns the %{target} to stone!	%{attacker}의 눈빛에 %{target}이(가) 돌이 됩니다!
+The %{attacker}'s curse falls upon the %{target}!	%{attacker}의 저주가 %{target}에게 내립니다!
+The %{attacker}' curse falls upon the %{target}!	%{attacker}의 저주가 %{target}에게 내립니다!
+The %{target} is paralyzed by the %{attacker}!	%{attacker}이(가) %{target}을(를) 마비시킵니다!
+The %{target} are paralyzed by the %{attacker}!	%{attacker}이(가) %{target}을(를) 마비시킵니다!
+The %{attacker} dispels all good spells on your %{target}!	%{attacker}이(가) 아군 %{target}에 걸린 이로운 마법을 모두 없앱니다!
+The %{attacker} dispel all good spells on your %{target}!	%{attacker}이(가) 아군 %{target}에 걸린 이로운 마법을 모두 없앱니다!
+The %{attacker} casts %{spell} on the %{target}!	%{attacker}이(가) %{target}에게 %{spell}을(를) 씁니다!
+The %{attacker} cast %{spell} on the %{target}!	%{attacker}이(가) %{target}에게 %{spell}을(를) 씁니다!
+Bad luck descends on the %{attacker}.	%{attacker}에게 불운이 닥칩니다.
+Good luck shines on the %{attacker}.	%{attacker}에게 행운이 비칩니다.
+High morale enables the %{monster} to attack again.	사기가 높아 %{monster}이(가) 한 번 더 공격합니다.
+Low morale causes the %{monster} to freeze in panic.	사기가 낮아 %{monster}이(가) 겁에 질려 얼어붙습니다.
+%{tower} does %{damage} damage.	%{tower}이(가) 피해를 %{damage} 줍니다.
+The mirror image is created.	분신이 생겨납니다.
+The mirror image is destroyed!	분신이 사라집니다!
+Are you sure you want to interrupt the auto combat mode?	정말 자동 전투를 멈추시겠습니까?
+Error	오류
+No spells to cast.	쓸 마법이 없습니다.
+Are you sure you want to retreat?	정말 후퇴하시겠습니까?
+Retreat disabled	후퇴 불가
+Surrender disabled	항복 불가
+Damage: %{max}	피해: %{max}
+Damage: %{min} - %{max}	피해: %{min} - %{max}
+Perish: %{max}	죽음: %{max}
+Perish: %{min} - %{max}	죽음: %{min} - %{max}
+battle_turn_order|Top	위
+battle_turn_order|Bottom	아래
+Turn Order	차례 순서
+Grid	격자
+Damage Info	피해 정보
+Shadow Movement	이동 그림자
+Shadow Cursor	커서 그림자
+Movement Area	이동 범위
+Hit Points	체력
+Toggle to display the turn order during the battle.	전투 중 차례 순서를 보이거나 숨깁니다.
+Toggle the hex grid on or off. The hex grid always underlies movement, even if turned off. This switch only determines if the grid is visible.	육각 격자를 켜고 끕니다. 꺼도 움직임은 늘 격자를 따릅니다. 격자가 보이는지만 정합니다.
+Toggle to display damage information during the battle.	전투 중 피해 정보를 보이거나 숨깁니다.
+Toggle on or off shadows showing where your creatures can move and attack.	아군 크리처가 움직이고 공격할 수 있는 곳을 그림자로 보이거나 숨깁니다.
+Toggle on or off a shadow showing the current hex location of the mouse cursor.	마우스 커서가 있는 칸을 그림자로 보이거나 숨깁니다.
+Toggle showing the movement area of a highlighted creature on or off.	고른 크리처의 이동 범위를 보이거나 숨깁니다.
+Toggle the hit points bar above each troop counter. The bar shows the remaining hit points of the top creature in the stack.	부대 수 위의 체력 막대를 보이거나 숨깁니다. 막대는 부대 맨 앞 크리처의 남은 체력입니다.
+Through eagle-eyed observation, %{name} is able to learn the magic spell %{spell}.	매의 눈으로 지켜본 %{name}이(가) %{spell} 마법을 배웁니다.
+Human	사람
+Terrain	지형
+Battle Only	전투만
+Start	시작
+Start the battle.	전투를 시작합니다.
+Exit	나가기
+Reset	되돌리기
+Reset to default settings.	기본 설정으로 되돌립니다.
+The battle will take place on a randomly selected terrain. Click to change the terrain type.	전투는 무작위로 고른 지형에서 벌어집니다. 누르면 지형을 바꿉니다.
+The battle will take place on %{terrain-type} terrain. Click to change the terrain type.	전투는 %{terrain-type} 지형에서 벌어집니다. 누르면 지형을 바꿉니다.
+Please select another hero.	다른 영웅을 고르세요.
+Click to select a hero.	누르면 영웅을 고릅니다.
+Hero	영웅
+If this checkbox is checked, the defending hero is going be human-controlled.	이 칸에 표시하면 방어하는 영웅을 사람이 조작합니다.
+%{race1} %{name1} vs %{race2} %{name2}	%{race1} %{name1} 대 %{race2} %{name2}
+Monsters	크리처
+N/A	없음
+Left Turret	왼쪽 포탑
+Right Turret	오른쪽 포탑
+The %{name} fires with the strength of %{count} Archers	%{name}은(는) 궁수 %{count}명의 힘으로 쏩니다
+each with a +%{attack} bonus to their attack skill.	(궁수마다 공격력 +%{attack}).
+The %{name} is destroyed.	%{name}이(가) 부서졌습니다.
+%{count} %{name} rises from the dead!	%{name} %{count}마리가 죽음에서 일어납니다!
+%{count} %{name} rise from the dead!	%{name} %{count}마리가 죽음에서 일어납니다!
+%{monster}\n%{range}	%{monster}\n%{range}
+A few\n%{monster}	%{monster}\n조금
+Several\n%{monster}	%{monster}\n몇몇
+A pack of\n%{monster}	%{monster}\n한 무리
+Lots of\n%{monster}	%{monster}\n많이
+A horde of\n%{monster}	%{monster}\n큰 무리
+A throng of\n%{monster}	%{monster}\n떼
+A swarm of\n%{monster}	%{monster}\n큰 떼
+Zounds...\n%{monster}	%{monster}\n엄청나게
+A legion of\n%{monster}	%{monster}\n대군단
+army|Few	조금
+army|Several	몇몇
+army|Pack	한 무리
+army|Lots	많이
+army|Horde	큰 무리
+army|Throng	떼
+army|Swarm	큰 떼
+army|Zounds	엄청나게
+army|Legion	대군단
+All %{race} troops +1	모두 %{race} 부대 +1
+Troops of %{count} alignments -%{penalty}	%{count}종족 섞인 부대 -%{penalty}
+NeutralRaceTroops|Neutral	중립
+Some undead in army -1	부대에 언데드 섞임 -1
+Default\ntroop	기본\n부대
+View %{name}	%{name} 보기
+Move the %{name} 	%{name} 옮기기
+Move or right click to redistribute %{name}	옮기거나 오른쪽 클릭으로 %{name} 나누기
+Combine %{name} armies	%{name} 부대 합치기
+Exchange %{name2} with %{name}	%{name2}와(과) %{name} 바꾸기
+Select %{name}	%{name} 고르기
+Cannot move last troop	마지막 부대는 옮길 수 없습니다
+Move the %{name}	%{name} 옮기기
+Set %{monster} Count:	%{monster} 수 정하기:
+The ultimate artifact is really the %{name}.	궁극의 아티팩트는 사실 %{name}입니다.
+The ultimate artifact may be found in the %{name} regions of the world.	궁극의 아티팩트는 세상의 %{name} 지역에 있을지도 모릅니다.
+north-west	북서쪽
+north	북쪽
+north-east	북동쪽
+west	서쪽
+center	가운데
+east	동쪽
+south-west	남서쪽
+south	남쪽
+south-east	남동쪽
+The truth is out there.	진실은 저 너머에 있다.
+The dark side is stronger.	어둠의 편이 더 강하다.
+The end of the world is near.	세상의 끝이 가까웠다.
+The bones of Lord Slayer are buried in the foundation of the arena.	슬레이어 경의 뼈가 투기장 주춧돌 밑에 묻혀 있다.
+A Black Dragon will take out a Titan any day of the week.	블랙 드래곤은 언제든 타이탄을 이긴다.
+He told her: Yada yada yada... and then she said: Blah, blah, blah...	그가 그녀에게 말했다: 어쩌고저쩌고... 그러자 그녀가 말했다: 블라블라블라...
+An unknown force is being resurrected...	알 수 없는 힘이 되살아나고 있다...
+Warrior	전사형
+Builder	건설형
+Explorer	탐험형
+None	없음

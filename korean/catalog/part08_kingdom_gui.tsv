@@ -1,0 +1,211 @@
+# 왕국·색·종족·행운·사기·주 이름 (kingdom/), 화면 요소 (gui/)
+Blue	파랑
+Green	초록
+Red	빨강
+Yellow	노랑
+Orange	주황
+Purple	보라
+barrier|Aqua	청록
+barrier|Blue	파랑
+barrier|Brown	갈색
+barrier|Gold	금색
+barrier|Green	초록
+barrier|Orange	주황
+barrier|Purple	보라
+barrier|Red	빨강
+tent|Aqua	청록
+tent|Blue	파랑
+tent|Brown	갈색
+tent|Gold	금색
+tent|Green	초록
+tent|Orange	주황
+tent|Purple	보라
+tent|Red	빨강
+Experience	경험치
+Experience allows your heroes to gain levels, increasing their primary and secondary skills.	경험치가 쌓이면 영웅의 레벨이 올라 기본 능력과 보조 기술이 늘어납니다.
+Hero/Stats	영웅/능력치
+Skills	기술
+Town/Castle	마을/성
+Garrison	수비대
+Gold Per Day:	하루 금:
+View Heroes.	영웅을 봅니다.
+Towns/Castles	마을/성
+View Towns and Castles.	마을과 성을 봅니다.
+luck|Cursed	저주받음
+luck|Awful	끔찍함
+luck|Bad	나쁨
+luck|Normal	보통
+luck|Good	좋음
+luck|Great	아주 좋음
+luck|Irish	대박
+%{luck-type} luck sometimes falls on the hero's units in combat, causing their attacks to only do half damage.	행운이 %{luck-type}이면 전투에서 가끔 영웅의 부대에 불운이 닥쳐 공격 피해가 절반이 됩니다.
+%{luck-type} luck means the hero's units will never get lucky or unlucky attacks on the enemy.	행운이 %{luck-type}이면 영웅의 부대에 행운도 불운도 오지 않습니다.
+%{luck-type} luck sometimes lets the hero's units get lucky attacks (double strength) in combat.	행운이 %{luck-type}이면 전투에서 가끔 영웅의 부대가 운 좋은 공격(두 배 피해)을 합니다.
+morale|Treason	반역
+morale|Awful	끔찍함
+morale|Poor	낮음
+morale|Normal	보통
+morale|Good	좋음
+morale|Great	아주 좋음
+morale|Blood!	피의 광기!
+%{morale-type} morale may cause the hero's units to freeze in combat.	사기가 %{morale-type}이면 전투에서 영웅의 부대가 얼어붙을 수 있습니다.
+%{morale-type} morale means the hero's units will never be blessed with extra attacks or freeze in combat.	사기가 %{morale-type}이면 영웅의 부대가 전투에서 한 번 더 공격하지도 얼어붙지도 않습니다.
+%{morale-type} morale may give the hero's units extra attacks in combat.	사기가 %{morale-type}이면 전투에서 영웅의 부대가 한 번 더 공격할 수 있습니다.
+Blood	피
+Knight	기사
+Barbarian	바바리안
+Sorceress	소서리스
+Warlock	워록
+Wizard	위저드
+Necromancer	네크로맨서
+Multi	여러 종족
+doubleLined|Knight	기사
+doubleLined|Barbarian	바바리안
+doubleLined|Sorceress	소서리스
+doubleLined|Warlock	워록
+doubleLined|Wizard	위저드
+doubleLined|Necro-\nmancer	네크로\n맨서
+doubleLinedRace|Multi	여러\n종족
+doubleLinedRace|Random	무작위
+speed|Standing	멈춤
+speed|Crawling	기어감
+speed|Very Slow	아주 느림
+speed|Slow	느림
+speed|Average	보통
+speed|Fast	빠름
+speed|Very Fast	아주 빠름
+speed|Ultra Fast	엄청 빠름
+speed|Blazing	번개같음
+speed|Instant	순간
+Click this button to adjust the level of zoom.	이 버튼을 눌러 확대 정도를 바꿉니다.
+Zoom	확대
+week|Squirrel	다람쥐
+week|Rabbit	토끼
+week|Gopher	땅다람쥐
+week|Badger	오소리
+week|Rat	쥐
+week|Eagle	독수리
+week|Weasel	족제비
+week|Raven	까마귀
+week|Mongoose	몽구스
+week|Dog	개
+week|Aardvark	땅돼지
+week|Lizard	도마뱀
+week|Tortoise	거북
+week|Hedgehog	고슴도치
+week|Condor	콘도르
+week|Ant	개미
+week|Grasshopper	메뚜기
+week|Dragonfly	잠자리
+week|Spider	거미
+week|Butterfly	나비
+week|Bumblebee	호박벌
+week|Locust	풀무치
+week|Earthworm	지렁이
+week|Hornet	말벌
+week|Beetle	딱정벌레
+week|PLAGUE	역병
+week|Unnamed	이름 없음
+Next Hero	다음 영웅
+Select the next Hero.	다음 영웅을 고릅니다.
+Hero Movement	영웅 이동
+Start the Hero's movement along the current path or re-visit the object occupied by the Hero. Press and hold this button to reset the Hero's path.	정해 둔 길을 따라 영웅을 움직이거나, 영웅이 서 있는 곳을 다시 방문합니다. 길게 누르면 영웅의 길을 지웁니다.
+Kingdom Summary	왕국 현황
+View a summary of your Kingdom.	왕국 현황을 봅니다.
+Cast an adventure spell.	모험 마법을 씁니다.
+End Turn	차례 마침
+End your turn and let the computer take its turn.	차례를 마치고 컴퓨터에게 넘깁니다.
+Adventure Options	모험 설정
+Bring up the adventure options menu.	모험 설정 창을 엽니다.
+Bring up the file options menu, allowing you to load, save, start a new game or quit.	파일 설정 창을 엽니다. 불러오기, 저장, 새 게임, 끝내기를 할 수 있습니다.
+Bring up the system options menu, allowing you to customize your game.	시스템 설정 창을 엽니다. 게임을 원하는 대로 바꿀 수 있습니다.
+Hero Movement Points	영웅 이동 점수
+The hero's army cannot move anymore today. The movement points will be refilled tomorrow after you end your turn.	영웅 부대는 오늘 더 움직일 수 없습니다. 차례를 마치면 내일 이동 점수가 다시 찹니다.
+One or more heroes may still move, are you sure you want to end your turn?	아직 움직일 수 있는 영웅이 있습니다. 정말 차례를 마치시겠습니까?
+Are you sure you want to restart? (Your current game will be lost.)	정말 다시 시작하시겠습니까? (지금 게임은 사라집니다.)
+Are you sure you want to overwrite the save with this name?	정말 이 이름의 저장 파일을 덮어쓰시겠습니까?
+Game saved successfully.	게임을 저장했습니다.
+Are you sure you want to load a new game? (Your current game will be lost.)	정말 다른 게임을 불러오시겠습니까? (지금 게임은 사라집니다.)
+Try looking on land!!!	땅에서 찾아보세요!!!
+Searching for the Ultimate Artifact is fruitless. Your hero could not carry it even if he found it - all his artifact slots are full.	궁극의 아티팩트를 찾아도 소용없습니다. 영웅의 아티팩트 칸이 모두 차서 찾아도 들고 갈 수 없습니다.
+Digging for artifacts requires a whole day, try again tomorrow.	아티팩트를 파려면 하루가 꼬박 걸립니다. 내일 다시 해 보세요.
+After spending many hours digging here, you have uncovered the %{artifact}.	여기를 몇 시간이나 판 끝에 %{artifact}을(를) 찾아냈습니다.
+Congratulations!	축하합니다!
+Nothing here. Where could it be?	여기엔 없습니다. 어디 있을까요?
+Try searching on clear ground.	빈 땅에서 찾아보세요.
+A miniature view of the known world. Left click to move viewing area.	알려진 세상을 작게 보여 줍니다. 왼쪽 클릭하면 보는 곳을 옮깁니다.
+Month: %{month} Week: %{week}	%{month}달 %{week}주
+You find a small\nquantity of %{resource}.	%{resource}을(를)\n조금 찾았습니다.
+Status Window	상태 창
+This window provides information on the status of your hero or kingdom, and shows the date.	영웅이나 왕국의 상태와 날짜를 보여 주는 창입니다.
+This window provides information on the status of your hero or kingdom, and shows the date. Left click here to cycle through these windows.	영웅이나 왕국의 상태와 날짜를 보여 주는 창입니다. 왼쪽 클릭하면 창이 차례로 바뀝니다.
+This lets you change player starting positions and colors. A particular color will always start in a particular location. Some positions may only be played by a computer player or only by a human player.	플레이어의 시작 위치와 색을 바꿉니다. 색마다 시작 위치가 정해져 있습니다. 어떤 자리는 컴퓨터만, 또는 사람만 맡을 수 있습니다.
+Handicap	핸디캡
+This lets you change the handicap of a particular player. Only human players may have a handicap. Handicapped players start with fewer resources and earn 15 or 30% fewer resources per turn for mild and severe handicaps, respectively.	플레이어의 핸디캡을 바꿉니다. 사람 플레이어만 핸디캡을 가질 수 있습니다. 핸디캡이 있으면 자원을 적게 들고 시작하고, 가벼운 핸디캡은 15%, 무거운 핸디캡은 30% 적게 자원을 법니다.
+No Handicap	핸디캡 없음
+No special restrictions on starting resources and resource income per turn.	시작 자원과 차례마다 버는 자원에 제한이 없습니다.
+Mild Handicap	가벼운 핸디캡
+Players with mild handicap start with fewer resources and earn 15% fewer resources per turn.	가벼운 핸디캡이면 자원을 적게 들고 시작하고 차례마다 자원을 15% 적게 법니다.
+Severe Handicap	무거운 핸디캡
+Players with severe handicap start with fewer resources and earn 30% fewer resources per turn.	무거운 핸디캡이면 자원을 적게 들고 시작하고 차례마다 자원을 30% 적게 법니다.
+Default\nvalue	기본값
+Set %{skill} Skill:	%{skill} 정하기:
+Set %{skill} base value. Right-click to reset all skills to default.	%{skill} 기본값을 정합니다. 오른쪽 클릭하면 모든 능력을 기본으로 되돌립니다.
+View %{skill} Info	%{skill} 정보 보기
+Default\nskill	기본\n기술
+The available values range from %{min} to %{max}.	%{min}부터 %{max}까지 정할 수 있습니다.
+Uppercase	대문자
+Click to switch to uppercase letters.	누르면 대문자로 바꿉니다.
+Keyboard|123	123
+Keyboard type	자판 종류
+Click to switch between keyboard types.	누르면 자판 종류를 바꿉니다.
+Keyboard|SPACE	띄어쓰기
+Keyboard|ENTER	입력
+Change language	언어 바꾸기
+Click to switch between languages.	누르면 언어를 바꿉니다.
+Backspace	지우기
+Click to remove characters.	누르면 글자를 지웁니다.
+Lowercase	소문자
+Click to switch to lowercase letters.	누르면 소문자로 바꿉니다.
+Keyboard|ABC	ABC
+Swap sign	부호 바꾸기
+Click to switch between signed and unsigned numbers.	누르면 양수, 음수를 바꿉니다.
+The entered value is invalid.	넣은 값이 잘못되었습니다.
+The entered value is out of range.\nIt should be not less than %{minValue} and not more than %{maxValue}.	넣은 값이 범위를 벗어났습니다.\n%{minValue} 이상 %{maxValue} 이하여야 합니다.
+Kingdom Income	왕국 수입
+Kingdom Income per day.	왕국의 하루 수입입니다.
+For every lighthouse controlled, your ships will move further each day.	등대를 하나 가질 때마다 배가 날마다 더 멀리 갑니다.
+English	영어
+French	프랑스어
+Polish	폴란드어
+German	독일어
+Russian	러시아어
+Italian	이탈리아어
+Czech	체코어
+Norwegian	노르웨이어
+Belarusian	벨라루스어
+Bulgarian	불가리아어
+Ukrainian	우크라이나어
+Romanian	루마니아어
+Spanish	스페인어
+Swedish	스웨덴어
+Portuguese	포르투갈어
+Turkish	튀르키예어
+Dutch	네덜란드어
+Hungarian	헝가리어
+Danish	덴마크어
+Slovak	슬로바키아어
+Vietnamese	베트남어
+Greek	그리스어
+Esperanto	에스페란토
+Slow	느림
+Normal	보통
+Fast	빠름
+Very Fast	아주 빠름
+Dynamic	움직임
+Good	선
+Evil	악
+Black & White	흑백
+Color	컬러
+Configure	설정
+, FPS: 	, FPS:

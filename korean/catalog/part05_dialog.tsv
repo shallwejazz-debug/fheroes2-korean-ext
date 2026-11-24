@@ -1,0 +1,346 @@
+# 대화창 (dialog/)
+View World	세계 보기
+View the entire world.	온 세상을 봅니다.
+Puzzle	퍼즐
+View the obelisk puzzle.	오벨리스크 퍼즐을 봅니다.
+Scenario Information	시나리오 정보
+View information on the scenario you are currently playing.	지금 하고 있는 시나리오의 정보를 봅니다.
+Dig for the Ultimate Artifact.	궁극의 아티팩트를 찾아 땅을 팝니다.
+Digging	땅 파기
+Arena	투기장
+You enter the arena and face a pack of vicious lions. You handily defeat them, to the wild cheers of the crowd. Impressed by your skill, the aged trainer of gladiators agrees to train you in a skill of your choice.	투기장에 들어서자 사나운 사자 떼가 덤빕니다. 관중의 열광 속에 가볍게 물리치자, 솜씨에 감탄한 늙은 검투사 교관이 원하는 능력 하나를 훈련시켜 주겠다고 합니다.
+Attack Skill	공격력
+Defense Skill	방어력
+Shots	사격
+Shots Left	남은 사격
+Hit Points Left	남은 체력
+You can't afford to upgrade your troops!	부대를 업그레이드할 돈이 없습니다!
+Your troops can be upgraded, but it will cost you dearly. Do you wish to upgrade them?	부대를 업그레이드할 수 있지만 값이 비쌉니다. 업그레이드하시겠습니까?
+Are you sure you want to dismiss this army?	정말 이 부대를 해고하시겠습니까?
+Upgrade	업그레이드
+Upgrade your troops.	부대를 업그레이드합니다.
+Dismiss	해고
+Dismiss this army.	이 부대를 해고합니다.
+A group of %{monster} with a desire for greater glory wish to join you.\nDo you accept?	더 큰 영광을 바라는 %{monster} 무리가 합류하고 싶어 합니다.\n받아들이시겠습니까?
+Followers	추종자
+The %{monster} is swayed by your diplomatic tongue, and offers to join your army for the sum of %{gold} gold.\nDo you accept?	%{monster}이(가) 당신의 언변에 넘어가, 금 %{gold}을(를) 받고 부대에 합류하겠다고 합니다.\n받아들이시겠습니까?
+The creatures are swayed by your diplomatic\ntongue, and make you an offer:\n\n	크리처들이 당신의 언변에 넘어가\n제안을 합니다:\n\n
+%{offer} of the %{total} %{monster} will join your army, and the rest will leave you alone, for the sum of %{gold} gold.\nDo you accept?	금 %{gold}을(를) 주면 %{monster} %{total}마리 가운데 %{offer}마리가 합류하고, 나머지는 물러나겠다고 합니다.\n받아들이시겠습니까?
+All %{offer} of the %{monster} will join your army for the sum of %{gold} gold.\nDo you accept?	금 %{gold}을(를) 주면 %{monster} %{offer}마리가 모두 합류하겠다고 합니다.\n받아들이시겠습니까?
+off	끔
+Music	음악
+Effects	효과음
+MIDI	MIDI
+MIDI Expansion	MIDI 확장
+External	외부
+Music Type	음악 종류
+3D Audio	3D 소리
+Toggle ambient music level.	배경 음악 크기를 바꿉니다.
+Toggle foreground sounds level.	효과음 크기를 바꿉니다.
+Change the type of music.	음악 종류를 바꿉니다.
+Toggle the 3D effect of foreground sounds.	효과음의 3D 효과를 켜고 끕니다.
+Build a new ship:	새 배 짓기:
+Resource cost:	필요한 자원:
+Total: 	합계:
+Need: 	부족:
+Restart Game	다시 시작
+There was an issue during saving.	저장하는 중에 문제가 생겼습니다.
+New Game	새 게임
+Start a single or multi-player game.	혼자 하거나 여럿이 하는 게임을 시작합니다.
+Load Game	불러오기
+Load a previously saved game.	저장해 둔 게임을 불러옵니다.
+Restart the scenario.	시나리오를 다시 시작합니다.
+Save Game	저장하기
+Save the current game.	지금 게임을 저장합니다.
+Quick Save	빠른 저장
+Save the current game without name selection.	이름을 고르지 않고 지금 게임을 저장합니다.
+Quit	끝내기
+Quit out of Heroes of Might and Magic II.	히어로즈 오브 마이트 앤 매직 II를 끝냅니다.
+Change the language of the game.	게임 언어를 바꿉니다.
+Select Game Language	게임 언어 고르기
+Change the graphics settings of the game.	게임의 화면 설정을 바꿉니다.
+Graphics	화면
+Mouse Cursor	마우스 커서
+Toggle colored cursor on or off. This is only an aesthetic choice.	색깔 커서를 켜고 끕니다. 보기에만 달라집니다.
+Interface Type	화면 모양
+Toggle the type of interface you want to use.	쓰고 싶은 화면 모양을 바꿉니다.
+Text Support	글자 보조
+Toggle text support mode to output extra information about windows and events in the game.	창과 사건에 대한 정보를 글로 더 내보내는 글자 보조 모드를 켜고 끕니다.
+Map\nDifficulty	지도\n난이도
+Game\nDifficulty	게임\n난이도
+Rating	평가
+Map Size	지도 크기
+Opponents	상대
+Class	종족
+Victory\nConditions	승리\n조건
+Loss\nConditions	패배\n조건
+About	소개
+Click to read notes from the map creator.	누르면 지도 제작자의 메모를 읽습니다.
+Map Description	지도 설명
+First select recipients!	먼저 받을 사람을 고르세요!
+You cannot select %{resource}!	%{resource}은(는) 고를 수 없습니다!
+Set %{resource-type} Count	%{resource-type} 양 정하기
+Select Recipients	받을 사람 고르기
+Your Funds	가진 자원
+Planned Gift	보낼 선물
+Gift from %{name}	%{name}의 선물
+Resolution	해상도
+Fullscreen	전체 화면
+window|Mode	창 모드
+Windowed	창
+V-Sync	수직 동기화
+FPS	FPS
+System Info	시스템 정보
+Nearest	최근접
+Screen Scaling Type	화면 확대 방식
+Linear	선형
+Change the resolution of the game.	게임 해상도를 바꿉니다.
+Select Game Resolution	게임 해상도 고르기
+Toggle between fullscreen and windowed modes.	전체 화면과 창 모드를 바꿉니다.
+Toggle the type of screen scaling you want to use. Linear scaling makes the resized screen image blurry while nearest scaling preserves the sharpness of the original game. The nearest scaling looks best on integer scales, for example 2.0x or 3.0x.	화면 확대 방식을 바꿉니다. 선형은 확대한 화면이 흐릿해지고, 최근접은 원작의 선명함을 살립니다. 최근접은 2.0배, 3.0배처럼 딱 떨어지는 배율에서 가장 보기 좋습니다.
+The V-Sync option can be enabled to resolve flickering issues on some monitors.	일부 모니터에서 화면이 깜빡이면 수직 동기화를 켜 보세요.
+Show extra information such as FPS and current time.	FPS와 지금 시각 같은 정보를 더 보여 줍니다.
+hotkeys|All Categories	모든 분류
+Hotkey: 	단축키:
+Category: 	분류:
+Event: 	동작:
+Hot Keys:	단축키:
+Click here to select:\n	여기를 눌러 고르세요:\n
+Select hotkeys category	단축키 분류 고르기
+Hide	숨김
+Show	보임
+Army Estimation	부대 규모 표시
+Canonical	원작식
+Numeric	숫자
+Toggle interface visibility.	화면 요소를 보이거나 숨깁니다.
+Scroll Speed	넘기기 속도
+Sets the speed at which you scroll the window.	화면을 넘기는 속도를 정합니다.
+Toggle how army sizes are displayed when right-clicking armies on the adventure map. \n\nCanonical: Army sizes are shown as descriptive text (e.g. "Few").\n\nNumeric: Army sizes are shown as numeric ranges (e.g. "1-4").	모험 지도에서 부대를 오른쪽 클릭할 때 부대 규모를 어떻게 보여 줄지 바꿉니다.\n\n원작식: 말로 보여 줍니다(예: "조금").\n\n숫자: 숫자 범위로 보여 줍니다(예: "1-4").
+Select Game Language:	게임 언어 고르기:
+Select Language:	언어 고르기:
+Click to choose the selected language.	누르면 고른 언어로 바꿉니다.
+%{name} has gained a level.	%{name}의 레벨이 올랐습니다.
+%{skill} +1	%{skill} +1
+You have learned %{skill}.	%{skill}을(를) 배웠습니다.
+%{name} has gained a level.\n\n%{skill} +1	%{name}의 레벨이 올랐습니다.\n\n%{skill} +1
+You may learn either:\n%{skill1}\nor\n%{skill2}	다음 가운데 하나를 배울 수 있습니다:\n%{skill1}\n또는\n%{skill2}
+Learn %{secondary-skill}	%{secondary-skill} 배우기
+n/a	없음
+The Trading Post provides exchange rates equivalent to %{count} marketplaces.	교역소의 교환 비율은 시장 %{count}개를 가진 것과 같습니다.
+You currently control 1 marketplace. The more marketplaces you control, the better the exchange rate.	지금 시장이 1개 있습니다. 시장이 많을수록 교환 비율이 좋아집니다.
+You currently control enough marketplaces that the exchange rate has peaked. Controlling additional marketplaces will not improve the exchange rate.	시장이 충분해서 교환 비율이 가장 좋습니다. 시장을 더 가져도 비율은 나아지지 않습니다.
+You currently control %{count} marketplaces. The more marketplaces you control, the better the exchange rate.	지금 시장이 %{count}개 있습니다. 시장이 많을수록 교환 비율이 좋아집니다.
+Please inspect our fine wares. If you feel like offering a trade, click on the items you wish to trade with and for.	좋은 물건들을 둘러보세요. 거래하고 싶으면 내줄 것과 받을 것을 누르세요.
+You have received quite a bargain. I expect to make no profit on the deal. Can I interest you in any of my other wares?	아주 싸게 사셨습니다. 저는 남는 게 없겠군요. 다른 물건도 보시겠습니까?
+I can offer you %{count} for 1 unit of %{resfrom}.	%{resfrom} 1개에 %{count}을(를) 드리겠습니다.
+I can offer you 1 unit of %{resto} for %{count} units of %{resfrom}.	%{resfrom} %{count}개에 %{resto} 1개를 드리겠습니다.
+Min	최소
+Qty to trade	거래할 양
+Trading Post	교역소
+Your Resources	가진 자원
+Available Trades	살 수 있는 것
+Exchange Rate	교환 비율
+guarded by %{count} %{monster}	지키는 자: %{monster} %{count}
+guarded by 	지키는 자:
+(available: %{count})	(남은 수: %{count})
+(empty)	(비었음)
+already learned	이미 배움
+treeOfKnowledge|free	무료
+already claimed	이미 받음
+not claimed	아직 안 받음
+already knows this skill	이미 아는 기술
+already has max skills	기술 칸이 가득 참
+(already visited)	(이미 방문함)
+(not visited)	(방문 안 함)
+%{color} Barrier	%{color} 장벽
+(tent visited)	(천막 방문함)
+%{color} Tent	%{color} 천막
+Road	길
+(digging ok)	(파기 가능)
+(no digging)	(파기 불가)
+penalty: %{cost}	이동 비용: %{cost}
+Defenders:	방어군:
+Unknown	알 수 없음
+heroQuickInfo|(Level %{level})	(%{level}레벨)
+Attack:	공격력:
+Defense:	방어력:
+Spell Power:	마법력:
+Knowledge:	지력:
+Spell Points:	마법 점수:
+Move Points:	이동 점수:
+Uncharted Territory	미지의 땅
+Random Map Generator	무작위 지도 만들기
+rmg|Player count:	플레이어 수:
+rmg|Map layout:	지도 배치:
+rmg|Water percentage:	물 비율:
+rmg|Monster strength:	괴물 세기:
+rmg|Resource availability:	자원 양:
+rmg|Map seed:	지도 씨앗:
+Click to generate a new map.	누르면 새 지도를 만듭니다.
+Return to the previous menu.	앞 메뉴로 돌아갑니다.
+Cost per troop:	한 마리 값:
+Available: %{count}	남은 수: %{count}
+Number to buy:	고용 수:
+Recruit selected monsters.	고른 크리처를 모집합니다.
+MAX	최대
+Select maximum monsters to be recruited.	모집할 수 있는 최대한을 고릅니다.
+MIN	최소
+Select only 1 monster to be recruited.	한 마리만 모집하도록 고릅니다.
+Select this game resolution.	이 해상도를 고릅니다.
+Selecting this resolution will set a resolution that is scaled from the original resolution (%{resolution}) by multiplying it with the number in the brackets (%{scale}).\n\nA resolution with a clean integer number (2.0x, 3.0x etc.) will usually look better because the pixels are upscaled evenly in both horizontal and vertical directions.	이 해상도는 원래 해상도(%{resolution})에 괄호 안의 수(%{scale})를 곱해 키운 것입니다.\n\n2.0배, 3.0배처럼 딱 떨어지는 배율이 가로세로로 고르게 커져서 보통 더 보기 좋습니다.
+Select Game Resolution:	게임 해상도 고르기:
+Click to apply the selected resolution.	누르면 고른 해상도를 적용합니다.
+Click to select the maximum amount.	누르면 최대로 고릅니다.
+Click to select the minimum amount.	누르면 최소로 고릅니다.
+Click to apply the entered number.	누르면 넣은 수를 적용합니다.
+Click to apply the entered text.	누르면 넣은 글을 적용합니다.
+Click to open the Virtual Keyboard dialog.	누르면 화면 자판을 엽니다.
+Open Virtual Keyboard	화면 자판 열기
+How many creatures do you wish to move?	크리처를 몇 마리 옮기시겠습니까?
+Select how many units to separate into:	몇 부대로 나눌지 고르세요:
+Map: 	지도:
+\n\nMonth: 	\n\n달:
+, Week: 	, 주:
+, Day: 	, 일:
+\n\nLocation: 	\n\n위치:
+saveLoadDialog|Name	이름
+saveLoadDialog|Date	날짜
+Are you sure you want to delete file:	정말 이 파일을 지우시겠습니까:
+Warning	경고
+Click to save the current game.	누르면 지금 게임을 저장합니다.
+Click to load a previously saved game.	누르면 저장해 둔 게임을 불러옵니다.
+Click here if you wish to sort save files by their name.	저장 파일을 이름 순으로 늘어놓으려면 누르세요.
+Sort by Name	이름 순
+Click here if you you wish to sort save files by their last modified date.	저장 파일을 마지막으로 고친 날짜 순으로 늘어놓으려면 누르세요.
+Sort by Date	날짜 순
+File to Save:	저장할 파일:
+File to Load:	불러올 파일:
+Terrain object	지형 오브젝트
+There is nothing to select from.	고를 것이 없습니다.
+There are no castles to select from.	고를 성이 없습니다.
+Accept the choice made.	고른 것을 받아들입니다.
+Click to enable all items.	누르면 모두 켭니다.
+Enable All Items	모두 켜기
+Click to disable all items.	누르면 모두 끕니다.
+Disable All Items	모두 끄기
+There are no secondary skills to select from.	고를 보조 기술이 없습니다.
+Select Skill:	기술 고르기:
+There are no spells to select.	고를 마법이 없습니다.
+Select Spell:	마법 고르기:
+There are no artifacts to select from.	고를 아티팩트가 없습니다.
+Select Artifact:	아티팩트 고르기:
+There are no monsters to select from.	고를 크리처가 없습니다.
+Select Monster:	크리처 고르기:
+There are no heroes to select from.	고를 영웅이 없습니다.
+Select Hero:	영웅 고르기:
+Select Monsters:	크리처 고르기:
+Select Artifacts:	아티팩트 고르기:
+race|Random	무작위
+Click to start placing the selected hero.	누르면 고른 영웅을 놓기 시작합니다.
+%{color} %{race}	%{color} %{race}
+You will place	놓을 것
+Click to select this class.	누르면 이 종족을 고릅니다.
+Click to select this color.	누르면 이 색을 고릅니다.
+Select Treasure:	보물 고르기:
+Select Ocean Object:	바다 오브젝트 고르기:
+Castle/town placing:	성/마을 놓기:
+doubleLinedRace|Neutral	중립
+TOWN	마을
+CASTLE	성
+Click to start placing the selected castle/town.	누르면 고른 성/마을을 놓기 시작합니다.
+Click to select town placing.	누르면 마을 놓기를 고릅니다.
+Click to select castle placing.	누르면 성 놓기를 고릅니다.
+%{color} %{race} %{townOrCastle}	%{color} %{race} %{townOrCastle}
+race|Neutral	중립
+Select Dwelling:	주거지 고르기:
+Select Landscape Object:	풍경 오브젝트 고르기:
+Mine placing:	광산 놓기:
+Resource\ntype:	자원\n종류:
+%{mineName} appearance:	%{mineName} 모양:
+Click to select the color.	누르면 색을 고릅니다.
+Click to select %{object} as the resource generator to be placed.	누르면 놓을 자원 생산지로 %{object}을(를) 고릅니다.
+Select Mountain Object:	산 오브젝트 고르기:
+Select Rock Object:	바위 오브젝트 고르기:
+Select Tree Object:	나무 오브젝트 고르기:
+Select Power Up Object:	능력 강화 오브젝트 고르기:
+Select Adventure Object:	모험 오브젝트 고르기:
+Select color:	색 고르기:
+Players Icon	플레이어 아이콘
+Indicates how many players total are in the scenario. Any positions not occupied by human players will be occupied by computer players.	시나리오의 전체 플레이어 수입니다. 사람이 맡지 않은 자리는 컴퓨터가 맡습니다.
+Indicates whether the map\nis small (36 x 36), medium\n(72 x 72), large (108 x 108),\nor extra large (144 x 144).	지도가 작음(36 x 36),\n보통(72 x 72), 큼(108 x 108),\n아주 큼(144 x 144) 가운데\n어느 것인지 나타냅니다.
+Size Icon	크기 아이콘
+The Succession Wars	계승 전쟁
+The Price of Loyalty	충성의 대가
+Resurrection	부활
+This map is made for "%{game-version}" version of the game.	이 지도는 "%{game-version}"판용으로 만들어졌습니다.
+Map Type	지도 종류
+Map Type:\n	지도 종류:\n
+\n\nSupported languages:\n	\n\n지원 언어:\n
+Lose all your heroes and towns.	영웅과 마을을 모두 잃습니다.
+Lose a specific town.	정해진 마을을 잃습니다.
+Lose a specific hero.	정해진 영웅을 잃습니다.
+Run out of time. Fail to win by a certain point.	시간이 다 됩니다. 정해진 때까지 이기지 못합니다.
+Loss Condition	패배 조건
+Defeat all enemy heroes and towns.	적 영웅과 마을을 모두 물리칩니다.
+Capture a specific town.	정해진 마을을 점령합니다.
+Defeat a specific hero.	정해진 영웅을 물리칩니다.
+Find a specific artifact.	정해진 아티팩트를 찾습니다.
+Your side must defeat the opposing side.	당신 편이 상대편을 물리쳐야 합니다.
+Accumulate a large amount of gold.	많은 금을 모읍니다.
+Victory Condition	승리 조건
+Map difficulty:	지도 난이도:
+N	보통
+Are you sure you want to delete the map:	정말 이 지도를 지우시겠습니까:
+No maps exist at that size.	그 크기의 지도가 없습니다.
+Small Maps	작은 지도
+View only maps of size small (36 x 36).	작은 지도(36 x 36)만 봅니다.
+Medium Maps	보통 지도
+View only maps of size medium (72 x 72).	보통 지도(72 x 72)만 봅니다.
+Large Maps	큰 지도
+View only maps of size large (108 x 108).	큰 지도(108 x 108)만 봅니다.
+Extra Large Maps	아주 큰 지도
+View only maps of size extra large (144 x 144).	아주 큰 지도(144 x 144)만 봅니다.
+All Maps	모든 지도
+View all maps, regardless of size.	크기와 상관없이 모든 지도를 봅니다.
+Selected Name	고른 지도 이름
+The name of the currently selected map.	지금 고른 지도의 이름입니다.
+Selected Map Difficulty	고른 지도 난이도
+The map difficulty of the currently selected map. The map difficulty is determined by the scenario designer. More difficult maps might include more or stronger enemies, fewer resources, or other special conditions making things tougher for the human player.	지금 고른 지도의 난이도입니다. 지도 난이도는 시나리오 제작자가 정합니다. 어려운 지도일수록 적이 많거나 강하고, 자원이 적거나, 사람 플레이어에게 불리한 다른 조건이 있을 수 있습니다.
+Selected Map Description	고른 지도 설명
+Jump	건너뜀
+Hero Speed	영웅 속도
+Don't Show	안 보기
+Enemy Speed	적 속도
+Auto Resolve	자동 해결
+Auto, No Spells	자동, 마법 없이
+Battles	전투
+combatMode|Manual	직접
+Change the speed at which your heroes move on the main screen.	모험 화면에서 아군 영웅이 움직이는 속도를 바꿉니다.
+Sets the speed that computer heroes move at. You can also elect not to view computer movement at all.	컴퓨터 영웅이 움직이는 속도를 정합니다. 컴퓨터의 움직임을 아예 안 보도록 할 수도 있습니다.
+Toggle instant battle mode.	즉시 전투 모드를 켜고 끕니다.
+Att.	공격
+Def.	방어
+Power	마법
+Knowl	지력
+1st	1등
+2nd	2등
+3rd	3등
+4th	4등
+5th	5등
+6th	6등
+Oracle: Player Rankings	신탁: 플레이어 순위
+Thieves' Guild: Player Rankings	도둑 소굴: 플레이어 순위
+Number of Towns:	마을 수:
+Number of Castles:	성 수:
+Number of Heroes:	영웅 수:
+Gold in Treasury:	금고의 금:
+Wood & Ore:	목재, 철광석:
+Gems, Cr, Slf & Mer:	보석, 수정, 유황, 수은:
+Obelisks Found:	찾은 오벨리스크:
+Artifacts:	아티팩트:
+Total Army Strength:	전체 부대 전력:
+Income:	수입:
+Best Hero:	최고 영웅:
+Best Hero Stats:	최고 영웅 능력치:
+Personality:	성향:
+Best Monster:	최강 크리처:

@@ -1,0 +1,198 @@
+# 크리처 이름·능력 (monster/). 1편 한글판과 같은 이름, 2편에만 있는 것은 3편 정품 한글판 용어를 따름. 한국어는 단수·복수 같음
+randomRace|level 1 creatures	1단계 크리처
+randomRace|level 2 creatures	2단계 크리처
+randomRace|level 3 creatures	3단계 크리처
+randomRace|level 4 creatures	4단계 크리처
+randomRace|level 5 creatures	5단계 크리처
+randomRace|level 6 creatures	6단계 크리처
+Unknown Monsters	알 수 없는 괴물
+Unknown Monster	알 수 없는 괴물
+Peasant	농부
+Peasants	농부
+Archer	궁수
+Archers	궁수
+Ranger	레인저
+Rangers	레인저
+Pikeman	창병
+Pikemen	창병
+Veteran Pikeman	베테랑 창병
+Veteran Pikemen	베테랑 창병
+Swordsman	검사
+Swordsmen	검사
+Master Swordsman	검술 달인
+Master Swordsmen	검술 달인
+Cavalries	기병
+Cavalry	기병
+Champion	챔피언
+Champions	챔피언
+Paladin	성기사
+Paladins	성기사
+Crusader	성전사
+Crusaders	성전사
+Goblin	고블린
+Goblins	고블린
+Orc	오크
+Orcs	오크
+Orc Chief	오크 족장
+Orc Chiefs	오크 족장
+Wolf	늑대
+Wolves	늑대
+Ogre	오우거
+Ogres	오우거
+Ogre Lord	오우거 군주
+Ogre Lords	오우거 군주
+Troll	트롤
+Trolls	트롤
+War Troll	전투 트롤
+War Trolls	전투 트롤
+Cyclopes	싸이클롭스
+Cyclops	싸이클롭스
+Sprite	스프라이트
+Sprites	스프라이트
+Dwarf	드워프
+Dwarves	드워프
+Battle Dwarf	전투 드워프
+Battle Dwarves	전투 드워프
+Elf	엘프
+Elves	엘프
+Grand Elf	그랜드 엘프
+Grand Elves	그랜드 엘프
+Druid	드루이드
+Druids	드루이드
+Greater Druid	대드루이드
+Greater Druids	대드루이드
+Unicorn	유니콘
+Unicorns	유니콘
+Phoenix	불새
+Phoenixes	불새
+Centaur	켄타우루스
+Centaurs	켄타우루스
+Gargoyle	가고일
+Gargoyles	가고일
+Griffin	그리핀
+Griffins	그리핀
+Minotaur	미노타우르스
+Minotaurs	미노타우르스
+Minotaur King	미노타우르스 왕
+Minotaur Kings	미노타우르스 왕
+Hydra	히드라
+Hydras	히드라
+Green Dragon	그린 드래곤
+Green Dragons	그린 드래곤
+Red Dragon	레드 드래곤
+Red Dragons	레드 드래곤
+Black Dragon	블랙 드래곤
+Black Dragons	블랙 드래곤
+Halfling	하플링
+Halflings	하플링
+Boar	멧돼지
+Boars	멧돼지
+Iron Golem	아이언 골렘
+Iron Golems	아이언 골렘
+Steel Golem	스틸 골렘
+Steel Golems	스틸 골렘
+Roc	로크
+Rocs	로크
+Mage	메이지
+Magi	메이지
+Archmage	아크메이지
+Archmagi	아크메이지
+Giant	자이언트
+Giants	자이언트
+Titan	타이탄
+Titans	타이탄
+Skeleton	해골
+Skeletons	해골
+Zombie	좀비
+Zombies	좀비
+Mutant Zombie	돌연변이 좀비
+Mutant Zombies	돌연변이 좀비
+Mummies	미라
+Mummy	미라
+Royal Mummies	왕족 미라
+Royal Mummy	왕족 미라
+Vampire	뱀파이어
+Vampires	뱀파이어
+Vampire Lord	뱀파이어 군주
+Vampire Lords	뱀파이어 군주
+Lich	리치
+Liches	리치
+Power Lich	파워 리치
+Power Liches	파워 리치
+Bone Dragon	해골 드래곤
+Bone Dragons	해골 드래곤
+Rogue	로그
+Rogues	로그
+Nomad	유목민
+Nomads	유목민
+Ghost	유령
+Ghosts	유령
+Genie	지니
+Genies	지니
+Medusa	메두사
+Medusas	메두사
+Earth Elemental	대지 정령
+Earth Elementals	대지 정령
+Air Elemental	공기 정령
+Air Elementals	공기 정령
+Fire Elemental	불 정령
+Fire Elementals	불 정령
+Water Elemental	물 정령
+Water Elementals	물 정령
+Random Monsters	무작위 괴물
+Random Monster 1	무작위 괴물 1
+Random Monsters 1	무작위 괴물 1
+Random Monster 2	무작위 괴물 2
+Random Monsters 2	무작위 괴물 2
+Random Monster 3	무작위 괴물 3
+Random Monsters 3	무작위 괴물 3
+Random Monster 4	무작위 괴물 4
+Random Monsters 4	무작위 괴물 4
+Double shot	두 번 쏘기
+2-hex monster	두 칸 크리처
+Double strike	두 번 공격
+Double damage to Undead	언데드에게 두 배 피해
+% magic resistance	% 마법 저항
+Immune to Mind spells	정신 마법에 면역
+Immune to Elemental spells	원소 마법에 면역
+Immune to Fire spells	불 마법에 면역
+Immune to Cold spells	냉기 마법에 면역
+Immune to 	면역:
+% immunity to %{spell} spell	% 확률로 %{spell} 마법에 면역
+% damage from Elemental spells	% 원소 마법 피해
+% damage from %{spell} spell	% %{spell} 마법 피해
+% chance to Dispel beneficial spells	% 확률로 이로운 마법 해제
+% chance to Paralyze	% 확률로 마비
+% chance to Petrify	% 확률로 석화
+% chance to Blind	% 확률로 실명
+% chance to Curse	% 확률로 저주
+% chance to cast %{spell} spell	% 확률로 %{spell} 마법 시전
+HP regeneration	체력 재생
+Two hexes attack	두 칸 공격
+Flyer	비행
+Unlimited retaliation	무제한 반격
+Attacks all adjacent enemies	주변의 모든 적 공격
+No melee penalty	근접전 불이익 없음
+Dragon	드래곤
+Undead	언데드
+No enemy retaliation	적이 반격하지 못함
+HP drain	체력 흡수
+Cloud attack	구름 공격
+Decreases enemy's morale by 	적의 사기를 낮춤:
+% chance to halve enemy	% 확률로 적을 절반으로
+Soul Eater	영혼을 먹는 자
+Elemental	정령
+No Morale	사기 없음
+Earth creature	대지 크리처
+Air creature	공기 크리처
+Fire creature	불 크리처
+Water creature	물 크리처
+Double damage from Fire spells	불 마법에 두 배 피해
+Double damage from Cold spells	냉기 마법에 두 배 피해
+Double damage from Earth creatures	대지 크리처에게 두 배 피해
+Double damage from Air creatures	공기 크리처에게 두 배 피해
+Double damage from Fire creatures	불 크리처에게 두 배 피해
+Double damage from Water creatures	물 크리처에게 두 배 피해
+Lightning	번개
+% immunity to 	% 면역:
+% damage from 	% 피해:

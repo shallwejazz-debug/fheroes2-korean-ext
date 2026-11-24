@@ -1,0 +1,188 @@
+Beware the edge of the world!	BELTWAY.MP2:bottle
+Look out!	BELTWAY.MP2:bottle
+Congratulations! After navigating the treacherous coast, you have established trade between the north and south.	BELTWAY.MP2:event
+What turns everything around but does not move?	BELTWAY.MP2:riddle
+Reinforcements have arrived, Gold from the homelands!	BELTWAY.MP2:day
+You found something!	BELTWAY.MP2:event
+Beware the moors and stick to the roads.	BELTWAY.MP2:sign
+The wizard has an island in the southeast.	BROKENA.MP2:rumor
+The center island is rumored to harbor great spells.	BROKENA.MP2:rumor
+Watch out for Purple!	BROKENA.MP2:rumor
+You face three opponents in this scenario. Capture their castles and their heroes to prove your worthiness to Archibald.	CAMPE01.H2C:day
+Well placed bribes have won you a stronghold near the warring Barbarians. Be advised that given their proximity an unguarded castle is an open invitation to defeat.	CAMPE02.H2C:day
+The Wizards who have captured the Necromancers' town have wasted no time in building defenses designed to stop you, and their last castle has just been completed. Fortunately only a Captain of the Guard and a small garrison are currently present.  If you hurry, you should be able to capture the castle before they have a chance to reinforce it!	CAMPE03.H2C:day
+	CAMPE04.H2C:rumor
+Danger, Dragons abound!	CAMPE04.H2C:sign
+Dwarf Hall, domain of the dwarf King.	CAMPE04.H2C:sign
+Scouts report the enemy's stronghold lies to the Southwest. Our swift arrival has caught them by surprise. If you move quickly their resistance will be minimal.	CAMPE04.H2C:day
+Long live Roland the true King!	CAMPE05.H2C:sign
+One of your "Allies" has joined Roland. You are now facing three castles, all belonging to the enemy. Good luck!	CAMPE05.H2C:day
+You have received a message from Archibald.  " HOW DARE YOU BETRAY ME! I will see your head on the block alongside your new master's once I have won.	CAMPE05B.H2C:day
+There's a Wizard living in the north who is behind this peasant revolt.	CAMPE06.H2C:rumor
+You have received a message from Archibald. "General, these peasants deserve punishment. Put them to the sword and let Corlagon have his way with them."	CAMPE06.H2C:day
+Dragon City lies beyond the Scorpion Hills.	CAMPE07.H2C:rumor
+The guardians of Dragon Isle reside in the jungle.	CAMPE07.H2C:rumor
+Powerful magic lies southwest of here in the Valley of the Kings.	CAMPE07.H2C:rumor
+Your arrival here was a surprise to those sworn to guard Dragon Isle, and you were able to quickly capture one of their castles.  Use caution, though, for two other guardians remain in this jungle.	CAMPE07.H2C:day
+Valley of the Kings.	CAMPE07.H2C:sign
+What is time spent poorly?	CAMPE07.H2C:riddle
+After a long search of the island, I have discovered that there is no way for me to escape without help.  I can not steal a ship from one of the coastal castles, and I dare not venture into the desert unless I wish to become Dragon food.  Should anyone find this, I beg of you, please send a ship and get me off this cursed island!  -Sir Christian	CAMPE07.H2C:bottle
+The North Road to Roland's castle.	CAMPE08.H2C:sign
+The country lords have allied and pooled their resources into one command. Not only have they massed their forces in the north, but they have sent a knight to the west to steal your supplies. Scouts report a castle to the east that would be ideal as a base of operations.	CAMPE08.H2C:day
+Spies report Roland has sent a hero to search for the Crown. If he finds it first, all is lost!	CAMPE09.H2C:day
+Message from Archibald. " Do not dare to return without my Crown."	CAMPE09.H2C:day
+You have just 8 weeks to build your army and conquer a town on the other side of a distant river.  There are three paths to take, which will you choose?	CAMPE10.H2C:day
+lagon	CAMPE10.H2C:day
+This way to the Necromancer Forest.	CAMPE10.H2C:sign
+You find an old signpost in the midst of a thicket that reads "Warlock Wood, West.  Barbarian Fields, East."	CAMPE10.H2C:event
+Just 30 days left!	CAMPE10.H2C:day
+Just ONE week left!	CAMPE10.H2C:day
+What are you doing here?	CAMPE11.H2C:bottle
+Do Not Enter!	CAMPE11.H2C:sign
+Turn Back Now!	CAMPE11.H2C:sign
+Abandon All Hope!	CAMPE11.H2C:sign
+Welcome to your DOOM!	CAMPE11.H2C:sign
+The Queen's Road.	CAMPE11.H2C:sign
+The Kings Road.	CAMPE11.H2C:sign
+You are now entering the domain of Prince Roland. Have a nice day.	CAMPE11.H2C:sign
+You are now entering the domain of Prince Roland. Have a pleasant stay.	CAMPE11.H2C:sign
+Message from Archibald. " General, thank you for bringing me this lovely gift. I have decided to participate directly in the capture of my brother Roland. Since your military advice has taken us this far, I will follow your orders to the letter."	CAMPE11.H2C:day
+fedx	CAMPE11.H2C:day
+There are three enemy castles to the north. Capture them in the name of Roland the true king!	CAMPG01.H2C:day
+You've received a message from Roland. "In the absence of a strong leader, the local lords have fallen to fighting. Uniting this area is critical to our cause, so we must not fail.  Leaving your castle undefended in this highly contested region will surely lead to defeat. I'm counting on you."	CAMPG02.H2C:day
+Dwarfhall, Domain of the dwarf King.	CAMPG03.H2C:sign
+Your forces are thinly spread in an effort to defend all the dwarf towns (which may not be transformed into castles). Consolidate your forces and smite the enemy before the towns fall.	CAMPG03.H2C:day
+A gift of gold, m'lord, from the people of Enroth, to the people of Enroth.  Good luck, and may God save true King Roland!	CAMPG04.H2C:sign
+This area is rich in resources. Explore, but beware, a castle left undefended will quickly fall.	CAMPG04.H2C:day
+Long live Roland the true King.	CAMPG05.H2C:sign
+One of your "allies" has joined Archibald.  You now face an opponent with three castles to your one.  Good luck!	CAMPG05.H2C:day
+You have received a message from Roland. " I am shocked! I had thought better of you, but I was terribly wrong. Now you'll have to live with your dark decision for the rest of your life."	CAMPG05B.H2C:day
+Barbarian's castle lies to the south.	CAMPG06.H2C:bottle
+Help!	CAMPG06.H2C:bottle
+Welcome to the sorceress' guild. 	CAMPG06.H2C:sign
+Keep Out!	CAMPG06.H2C:sign
+"8675309"	CAMPG06.H2C:sign
+Condemned!	CAMPG06.H2C:sign
+Fantasy Island.	CAMPG06.H2C:sign
+Murray's resort Isle!	CAMPG06.H2C:sign
+For sale.	CAMPG06.H2C:sign
+The Rock Store.	CAMPG06.H2C:sign
+The islands have much wealth.	CAMPG06.H2C:rumor
+There was a shipreck in the far east waters recently.	CAMPG06.H2C:rumor
+You've received a message from the guild. "Thank God you've arrived! We're under seige from two enemies from the north and one from across the sea. Please save us, you're our only hope."	CAMPG06.H2C:day
+Scouts report the notorious necromancer "Wyrm" has been sighted to the northeast.	CAMPG06.H2C:day
+You have just 8 weeks  to build your army and conquer a town on the other side of a distant river.  There are three paths to take, which will you choose?	CAMPG07.H2C:day
+ÿÿÿÿÿ	CAMPG07.H2C:rumor
+Sorceress Forest.  Show respect for nature!	CAMPG07.H2C:sign
+Knight's Trail.	CAMPG07.H2C:sign
+Wizardwood.  Magicians welcome!	CAMPG07.H2C:sign
+Archibald has also sent an army to find the Crown, you must find it first or all is lost.	CAMPG08.H2C:day
+Message from Roland. " We cannot hope to defeat Archibald without the Crown, I'm counting on you."	CAMPG08.H2C:day
+Message from Roland.  "General, I have sent most of our troops and material ahead to the region of the final conflict with Archibald.  Unfortunately, Lord Corlagon has cut us off from the rest of our army.  I will be awaiting your victory in a castle across the west river.  I should be safe from attack."	CAMPG09.H2C:day
+Who is the true King?	CAMPG10.H2C:riddle
+A Dragon, A Cyclops, or an Undead. King of the Centaurs, His name is ....?	CAMPG10.H2C:riddle
+Turn Back or DIE!	CAMPG10.H2C:bottle
+Turn Back Now or all will be LOST!	CAMPG10.H2C:bottle
+Restricted Area, Do Not Enter!	CAMPG10.H2C:bottle
+Trespassers will be EATEN!	CAMPG10.H2C:bottle
+Is it something I said? Go back and I will forget the whole thing.	CAMPG10.H2C:bottle
+So you think you're smart?	CAMPG10.H2C:bottle
+Archibald is hiding at the end of the river.	CAMPG10.H2C:bottle
+The River Styx	CAMPG10.H2C:sign
+Message from Roland. "General, circumstances permit me to take a hand in the events of this final conflict. I have your spoils of war with me and I will follow your advice explicitly."	CAMPG10.H2C:day
+Red player sympathizes with the undead cause.	DEATHG.MP2:rumor
+Peasantsville	DRAGONR.MP2:sign
+Orcville	DRAGONR.MP2:sign
+Fedx for comp	DRAGONR.MP2:day
+Dragons Everywhere!	DRAGONW.MP2:bottle
+Stick to the road!	DRAGONW.MP2:sign
+What goes up and down but never moves?	ENROTH.MP2:riddle
+Federal express, when it absolutely positively has to be there turn one.	FORSAKEN.MP2:day
+Ye old fish liver oil.	GOODVS.MP2:bottle
+Beyond the door, there be Dragons. BEWARE!	HOTSPOT.MP2:sign
+You have been ordered here to claim this land in the name of your King and recover any riches that you might find.  However, five other Kings and Queens have also sent their heroes to this land, so you must watch out for them as well as the natives!	LOSTCON.MP2:day
+Hungry dragons await.  Welcome, food.	LOSTCON.MP2:sign
+You are a fool to come here!	LOSTCON.MP2:sign
+Turn back, friend, while you still can!	LOSTCON.MP2:sign
+When you think yourself invincible, walk through this gate.  Even then, prepare to meet your bitter end.	LOSTCON.MP2:sign
+You will need a stronger army than that, mortal, to step through this portal.	LOSTCON.MP2:sign
+Beyond here be Dragons!	LOSTCON.MP2:sign
+A supply ship has arrived from the homeland!  You send word home that all is well.	LOSTCON.MP2:day
+Beware of thieves!	LOSTRELI.MP2:sign
+Robbers have looted your treasury, stealing valuable resources.	LOSTRELI.MP2:event
+Robbers have looted your treasury and you have lost valuable resources.	LOSTRELI.MP2:event
+Your treasury has been looted by robbers and you have lost valuable resources.	LOSTRELI.MP2:event
+Arr' Here be pirates gold buried.	LOSTRELI.MP2:event
+Ah, you stumble across something buried in the sand.  As you dig it up you discover a small pile of gems and crystal.	LOSTRELI.MP2:event
+It is said that King Zealot found the gods' artifact once and it let him rule for 100 years.	LOSTRELI.MP2:rumor
+The ancient King Zealot had the artifact of the gods and then hid it in his old age so that it could not be used by others.	LOSTRELI.MP2:rumor
+Bridge Out!	LOSTRELI.MP2:sign
+Turn Back or else!	LOSTRELI.MP2:sign
+Road Ends	LOSTRELI.MP2:sign
+It has become apparent that if all your enemies were eliminated, you would have all the time you need to find the Ultimate Artifact.	LOSTRELI.MP2:day
+comp fed-x	MIGHTV.MP2:day
+You see the remains of a burned out sawmill here.  All you can salvage is some ofwood left for scrap.	MINERALW.MP2:event
+There used to be a mine here, but it has long since run out of ore.  You are only able to scavenge 5 units of ore from the old site.	MINERALW.MP2:event
+It looks like there used to be an ore mine here but all you see now is a hole in the ground and some minerals scattered around.	MINERALW.MP2:event
+You see the remains of an old sawmill just to realize that it will no longer produce.  You gather the ramains and move on.	MINERALW.MP2:event
+You see the remains of an old sawmill, but it is obvious that you will not be able to make it work again.	MINERALW.MP2:event
+This spot overlooks an old quarry.  This was one of the only places in the world where ore could be taken right out of the ground.  Unfortunately the jungle has reclaimed the quarry and it is unusable.  You collect the last of the ore and depart.	MINERALW.MP2:event
+A Gift from your King, and a note that reads "Use these resources wisely, It's all we have left".	MINERALW.MP2:day
+fedx comp	MINERALW.MP2:day
+Mt Crodo Elev 5000ft.	MOUNT.MP2:sign
+Beware the rocks	OVERLORD.MP2:bottle
+You run aground on the rocks and have to use some wood to fix your boat.	OVERLORD.MP2:event
+Message from Overlord. "WHERE'S MY GOLD?"	OVERLORD.MP2:day
+Message from Overlord. "STILL WAITING FOR MY GOLD!"	OVERLORD.MP2:day
+Final message from Overlord. "The royal executioners are on their way. My gold, the land or your head- it's your choice."	OVERLORD.MP2:day
+Buried Treasure!	PANDAMON.MP2:event
+My leige, we have established a foothold (which we cannot afford to lose) and all of our Heroes have joined us. The king has made us the offer to purchase this land for 200,000 gold or we may take it by force. The local lords have been fighting and each wants to be the one that defeats us. Now all the local armies have arrived on the beach, creating a state of complete Pandemonium!	PANDAMON.MP2:day
+fedx yellow	PYRAMID.MP2:day
+fedx purple	PYRAMID.MP2:day
+For years, you've been able to keep your subjects "appeased."  Now however, you discover not only that your entire kingdom has turned against you, but most of your outer towns have fallen to the different factions.  To make matters worse, all your gold suddenly seems to be missing from the treasury!	REVOLU.MP2:day
+FedEx for computer.	REVOLU.MP2:day
+Rumors abound and your faithful hero Sandro is now highly regarded by the masses. Should Sandro desert you, all will be lost.	REVOLU.MP2:day
+Our reinforcements were lost in a storm, we salvaged all we could!	RIVER.MP2:event
+Many years ago, your father, the King, died in a freak hunting accident.  Since then, you and your brother have jointly ruled his kingdom, but both of you have been seeking a way to seize the throne for yourself.  You got your wish.  Attackers from across the sea have captured more than half your towns and castles, effectively dividing the continent in two.  Now is the time to repel these invaders and do away with your brother once and for all!	SCORCH.MP2:day
+A merchant caravan arrives, bringing gold and supplies, however, no one can seem to remember where they came from.  You silently praise this anonymous benefactor and continue your duties.	SCORCH.MP2:day
+Welcome to Power Island. He who controls this Isle controls the Seven Lakes!	SEVENL.MP2:sign
+What walks in the morning on four legs, two in the afternoon and three in the evening?	SEVENL.MP2:riddle
+What is always coming but never arrives?	SEVENL.MP2:riddle
+What cannot be seen but only heard, and will not speak until spoken to?	SEVENL.MP2:riddle
+The more there is the less you see.	SEVENL.MP2:riddle
+Four lakes have castles, three have treasure.	SEVENL.MP2:bottle
+Who am I?	SEVENL.MP2:bottle
+Find the center island.	SEVENL.MP2:bottle
+Where am I?	SEVENL.MP2:bottle
+fed-x comp	SEVENL.MP2:day
+Your Queen sent you here to explore this newly discovered territory, but a freak storm scattered your fleet and left you stranded.  You gather the survivors and form a small settlement, naming it New Vertigo.  This place is your home now, and survival is your highest priority, but remember, if you are captured or killed, it's over!	SHIPW.MP2:day
+Your scouts return with grim news.  The natives of this land are currently at war with each other, and they like outsiders even less than they like each other!  Congratulations, Commander, you're at war!	SHIPW.MP2:day
+Beware of Warlocks	SHIPW.MP2:sign
+What good fortune!  You've discovered a long-abandoned settlement.  To your surprise, you discover that the previous inhabitants left some of their resources behind when they departed!	SHIPW.MP2:event
+DANGER!  QUICKSAND!	SHIPW.MP2:sign
+Realm of the Undead.  Fresh blood welcome.	SHIPW.MP2:sign
+No tresspath...  No tree...  No thresh...  GO AWAY!	SHIPW.MP2:sign
+GO AWAY!	SHIPW.MP2:sign
+\t	SLUGFEST.MP2:rumor
+You find a gleaming gold medalion buried in the  snow.  As you move to put it on it changes to the Fizbin of Misfortune.	TELEPORT.MP2:event
+You find a beautiful helm buried in the lava.  As you move to put it on your head it turns into the Hideous mask and now you realize that no creature will join you.	TELEPORT.MP2:event
+A large contingent of the king's guard approaches you.  "Ahh, we have finally caught up to you.  The king requires tribute from all of his vassals and you have been negligent far too long."	TELEPORT.MP2:event
+After many years of peace, you discover that your sworn enemy from across the sea has chosen to invade your homeland by raising up the ocean floor to bridge the distance! You must not let them gain a foothold on this continent, in fact, your King has ordered you to establish a foothold on theirs!  To make matters worse, two of your OWN towns have thrown in their lots with the enemy...	TERRAF.MP2:day
+It is rumored that a bridge of land used to exist between the two continents, but that a wild magic caused it to sink into the sea, taking with it all those who used to inhabit it.  To try to raise this bridge is to invite a curse upon the world!  The spirits of the dead will haunt us all!	TERRAF.MP2:rumor
+We found a weakness my lord. Capture castle Black Fang and victory is ours.	TERRAF.MP2:day
+Your king has sent supplies to aid the war effort.	TERRAF.MP2:day
+Time is running out! The enemy's reinforcements are almost here.	THEOTHER.MP2:day
+Hurry up! Few days are left before the enemy's army arrives.	THEOTHER.MP2:day
+Lost Island.	WARIORK.MP2:sign
+Your subjects contribute to your war effort!	WASTL.MP2:day
+Detour! Troll bridge ahead!	WASTL.MP2:sign
+Danger! Troll bridge ahead!	WASTL.MP2:sign
+My leige, our scouts report three other lords are attacking from the south. They work in conjuction with each other to eliminate us! We must keep this castle and remove the threat of the enemy. We wish you luck!	WASTL.MP2:event
+Who am I?...  Where am I?...  Oh no! My Ship!  Well it's consigned to the ghosts of my dead crew now, at least I still have my lucky rabbits foot.	WHOAM.MP2:day
+Scouts have reported a town to the North.  They have also heard some disturbing news.  Their seems to be a war raging in this area.	WHOAM.MP2:day
+Go Home!	WHOAM.MP2:bottle
+Welcome back general.  Have you finished the conquest of the northern lands?  What? you still have not finished your mission!  Get back there and teach those rebels a lesson!	WHOAM.MP2:event
+The troops have sworn their allegiance, but should lose a battle they will lose faith and our cause will be lost.	WHOAM.MP2:day
+Icy lands ahead.	WINTERL.MP2:sign
+Bridge out!	WINTERL.MP2:sign
+Rest stop.	WINTERL.MP2:sign

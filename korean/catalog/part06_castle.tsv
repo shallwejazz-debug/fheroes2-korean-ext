@@ -1,0 +1,256 @@
+# 성 (castle/): 건물, 마을 이름(소리 나는 대로), 모집 창
+Cannot build. You have already built here today.	지을 수 없습니다. 오늘은 이미 여기에 지었습니다.
+For this action it is necessary to build a castle first.	이렇게 하려면 먼저 성을 지어야 합니다.
+The %{building} produces %{monster}.	%{building}에서 %{monster}이(가) 나옵니다.
+Requires:	필요한 것:
+Exit this menu without doing anything.	아무것도 하지 않고 이 창을 나갑니다.
+Cannot build %{name}. The castle is too far away from an ocean.	%{name}을(를) 지을 수 없습니다. 성이 바다에서 너무 멉니다.
+This building has been disabled.	이 건물은 지을 수 없게 되어 있습니다.
+Cannot afford the %{name}.	%{name}을(를) 지을 돈이 없습니다.
+The %{name} is already built.	%{name}은(는) 이미 지었습니다.
+Cannot build the %{name}.	%{name}을(를) 지을 수 없습니다.
+Build %{name}.	%{name} 짓기.
+Blackridge	블랙리지
+Hillstone	힐스톤
+Pinehurst	파인허스트
+Whiteshield	화이트실드
+Woodhaven	우드헤이븐
+Blackwind	블랙윈드
+Bloodreign	블러드레인
+Dragontooth	드래곤투스
+Greywind	그레이윈드
+Portsmith	포츠미스
+Atlantium	아틀란티움
+Middle Gate	미들 게이트
+Sansobar	산소바
+Tundara	툰다라
+Vulcania	불카니아
+Baywatch	베이워치
+Fountainhead	파운틴헤드
+Vertigo	버티고
+Wildabar	와일다바
+Winterkill	윈터킬
+Brindamoor	브린다무어
+Lakeside	레이크사이드
+Nightshadow	나이트섀도
+Olympus	올림푸스
+Sandcaster	샌드캐스터
+Alamar	알라마
+Burlock	벌록
+Dragadune	드라가둔
+Kalindra	칼린드라
+Xabran	자브란
+Algary	알가리
+Basenji	바센지
+Blackfang	블랙팽
+New Dawn	뉴 던
+Sorpigal	소피갈
+Avone	아본
+Big Oak	빅 오크
+Chandler	챈들러
+Erliquin	얼리퀸
+Hampshire	햄프셔
+Antioch	안티오크
+Avalon	아발론
+Roc Haven	로크 헤이븐
+South Mill	사우스 밀
+Weed Patch	위드 패치
+Brownston	브라운스턴
+Hilltop	힐톱
+Weddington	웨딩턴
+Westfork	웨스트포크
+Whittingham	휘팅엄
+Cathcart	캐스카트
+Elk's Head	엘크스 헤드
+Roscomon	로스커먼
+Sherman	셔먼
+Yorksford	요크스퍼드
+Blackburn	블랙번
+Blacksford	블랙스퍼드
+Burton	버턴
+Pig's Eye	피그스 아이
+Viper's Nest	바이퍼스 네스트
+Fenton	펜턴
+Lankershire	랭커셔
+Lombard	롬바드
+Timberhill	팀버힐
+Troy	트로이
+Forder Oaks	포더 오크스
+Meramec	메라맥
+Quick Silver	퀵실버
+Westmoor	웨스트무어
+Willow	윌로
+Corackston	코락스턴
+Sheltemburg	셸템버그
+Cannot recruit - you already have a Hero in this town.	고용할 수 없습니다. 이 마을에 이미 영웅이 있습니다.
+Cannot recruit - you have too many Heroes.	고용할 수 없습니다. 영웅이 너무 많습니다.
+Cannot afford a Hero.	영웅을 고용할 돈이 없습니다.
+There is no room in the garrison for this army.	수비대에 이 부대가 들어갈 자리가 없습니다.
+Fortifications	요새화
+Farm	농장
+Thatched Hut	초가집
+Archery Range	궁술장
+Upg. Archery Range	강화 궁술장
+Blacksmith	대장간
+Upg. Blacksmith	강화 대장간
+Armory	무기고
+Upg. Armory	강화 무기고
+Jousting Arena	마상 시합장
+Upg. Jousting Arena	강화 마상 시합장
+Cathedral	대성당
+Upg. Cathedral	강화 대성당
+Coliseum	콜로세움
+Garbage Heap	쓰레기 더미
+Hut	오두막
+Stick Hut	나무 오두막
+Upg. Stick Hut	강화 나무 오두막
+Den	굴
+Adobe	흙집
+Upg. Adobe	강화 흙집
+Bridge	다리
+Upg. Bridge	강화 다리
+Pyramid	피라미드
+Rainbow	무지개
+Crystal Garden	수정 정원
+Treehouse	나무 위 집
+Cottage	오두막집
+Upg. Cottage	강화 오두막집
+Stonehenge	스톤헨지
+Upg. Stonehenge	강화 스톤헨지
+Fenced Meadow	울타리 초원
+sorceress|Red Tower	붉은 탑
+Dungeon	지하 감옥
+Waterfall	폭포
+Cave	동굴
+Crypt	지하 묘지
+Nest	둥지
+Maze	미궁
+Upg. Maze	강화 미궁
+Swamp	늪
+Green Tower	녹색 탑
+warlock|Red Tower	붉은 탑
+Black Tower	검은 탑
+Library	도서관
+Orchard	과수원
+Habitat	서식지
+Pen	우리
+Foundry	주조소
+Upg. Foundry	강화 주조소
+Cliff Nest	절벽 둥지
+Ivory Tower	상아탑
+Upg. Ivory Tower	강화 상아탑
+Cloud Castle	구름 성
+Upg. Cloud Castle	강화 구름 성
+Storm	폭풍
+Skull Pile	해골 더미
+Excavation	발굴지
+Graveyard	묘지
+Upg. Graveyard	강화 묘지
+Upg. Pyramid	강화 피라미드
+Mansion	저택
+Upg. Mansion	강화 저택
+Mausoleum	영묘
+Upg. Mausoleum	강화 영묘
+Laboratory	연구소
+Shrine	성소
+Special	특수 건물
+Horde Building	무리 건물
+Dwelling 1	1단계 주거지
+Dwelling 2	2단계 주거지
+Upg. Dwelling 2	강화 2단계 주거지
+Dwelling 3	3단계 주거지
+Upg. Dwelling 3	강화 3단계 주거지
+Dwelling 4	4단계 주거지
+Upg. Dwelling 4	강화 4단계 주거지
+Dwelling 5	5단계 주거지
+Upg. Dwelling 5	강화 5단계 주거지
+Dwelling 6	6단계 주거지
+Upg. Dwelling 6	강화 6단계 주거지
+2x Upg. Dwelling 6	2차 강화 6단계 주거지
+The Fortifications increase the toughness of the walls, increasing the number of turns it takes to knock them down.	요새화를 하면 성벽이 튼튼해져 무너뜨리는 데 턴이 더 걸립니다.
+The Farm increases production of Peasants by %{count} per week.	농장은 농부를 한 주에 %{count} 더 늘려 줍니다.
+The Coliseum provides inspiring spectacles to defending troops, raising their morale by two during combat.	콜로세움은 방어하는 부대에 멋진 구경거리를 보여 주어, 전투 중 사기를 2 올려 줍니다.
+The Garbage Heap increases production of Goblins by %{count} per week.	쓰레기 더미는 고블린을 한 주에 %{count} 더 늘려 줍니다.
+The Rainbow increases the luck of the defending units by two.	무지개는 방어하는 부대의 행운을 2 올려 줍니다.
+The Crystal Garden increases production of Sprites by %{count} per week.	수정 정원은 스프라이트를 한 주에 %{count} 더 늘려 줍니다.
+The Dungeon increases the income of the town by %{count} gold per day.	지하 감옥은 마을 수입을 날마다 금 %{count} 늘려 줍니다.
+The Waterfall increases production of Centaurs by %{count} per week.	폭포는 켄타우루스를 한 주에 %{count} 더 늘려 줍니다.
+The Library increases the number of spells in the Guild by one for each level of the guild.	도서관은 마법 길드 층마다 마법을 하나씩 더해 줍니다.
+The Orchard increases production of Halflings by %{count} per week.	과수원은 하플링을 한 주에 %{count} 더 늘려 줍니다.
+The Storm adds +2 to the power of spells of a defending spell caster.	폭풍은 방어하는 시전자의 마법력에 2를 더해 줍니다.
+The Skull Pile increases production of Skeletons by %{count} per week.	해골 더미는 해골을 한 주에 %{count} 더 늘려 줍니다.
+The Special building gives a specific bonus to the chosen castle type.	특수 건물은 성의 종족에 따라 정해진 혜택을 줍니다.
+The Horde Building increases the growth rate of the level 1 creatures by 8 per week.	무리 건물은 1단계 크리처를 한 주에 8 더 늘려 줍니다.
+Thieves' Guild	도둑 소굴
+Tavern	선술집
+Shipyard	조선소
+Well	우물
+Statue	동상
+Marketplace	시장
+Moat	해자
+Castle	성
+Tent	천막
+Captain's Quarters	대장 숙소
+Mage Guild, Level 1	마법 길드 1층
+Mage Guild, Level 2	마법 길드 2층
+Mage Guild, Level 3	마법 길드 3층
+Mage Guild, Level 4	마법 길드 4층
+Mage Guild, Level 5	마법 길드 5층
+The Shrine increases the necromancy skill of all your necromancers by 10 percent.	성소는 아군 네크로맨서 모두의 사령술을 10% 높여 줍니다.
+The Thieves' Guild provides information on enemy players. Thieves' Guilds can also provide scouting information on enemy towns. Additional Guilds provide more information.	도둑 소굴은 적 플레이어의 정보를 알려 줍니다. 적 마을의 정찰 정보도 알려 줍니다. 도둑 소굴이 많을수록 더 많은 것을 알 수 있습니다.
+The Tavern increases morale for troops defending the castle.	선술집은 성을 지키는 부대의 사기를 높여 줍니다.
+The Shipyard allows ships to be built.	조선소가 있으면 배를 지을 수 있습니다.
+The Well increases the growth rate of all dwellings by %{count} creatures per week.	우물은 모든 주거지의 크리처를 한 주에 %{count} 더 늘려 줍니다.
+The Statue increases the town's income by %{count} gold per day.	동상은 마을 수입을 날마다 금 %{count} 늘려 줍니다.
+The Left Turret provides extra firepower during castle combat.	왼쪽 포탑은 공성전에서 화력을 더해 줍니다.
+The Right Turret provides extra firepower during castle combat.	오른쪽 포탑은 공성전에서 화력을 더해 줍니다.
+The Marketplace can be used to convert one type of resource into another. The more marketplaces you control, the better the exchange rate.	시장에서는 자원을 다른 자원으로 바꿀 수 있습니다. 시장이 많을수록 교환 비율이 좋아집니다.
+The Moat slows and weakens attacking units. Any walking unit entering the moat must end its turn there and can only move within the moat one hex at a time. Any creature present in the moat will have its defense skill reduced by %{count}.	해자는 공격하는 부대를 느리고 약하게 만듭니다. 걷는 부대가 해자에 들어가면 거기서 차례를 마쳐야 하고, 해자 안에서는 한 칸씩만 움직일 수 있습니다. 해자 안의 크리처는 방어력이 %{count} 떨어집니다.
+The Castle improves the town's defense and increases its income to %{count} gold per day.	성은 마을의 방어를 높이고 수입을 날마다 금 %{count}로 늘려 줍니다.
+The Tent provides workers to build a castle, provided the materials and the gold are available.	천막에는 재료와 금만 있으면 성을 지을 일꾼들이 있습니다.
+The Captain's Quarters provides a captain to assist in the castle's defense when no hero is present.	대장 숙소는 영웅이 없을 때 성의 방어를 도울 대장을 둡니다.
+The Mage Guild allows heroes to learn spells and replenish their spell points.	마법 길드에서 영웅이 마법을 배우고 마법 점수를 다시 채울 수 있습니다.
+Recruit %{name}	%{name} 고용
+Month: %{month}, Week: %{week}, Day: %{day}	%{month}달 %{week}주 %{day}일
+You must purchase a spell book to use the mage guild, but you currently have no room for a spell book. Try giving one of your artifacts to another hero.	마법 길드를 쓰려면 마법서를 사야 하는데, 지금은 마법서를 넣을 자리가 없습니다. 아티팩트 하나를 다른 영웅에게 넘겨 보세요.
+Exit Castle	성 나가기
+Exit Town	마을 나가기
+Show Income	수입 보기
+Show previous town	앞 마을 보기
+Show next town	다음 마을 보기
+View Hero	영웅 보기
+Click to show the next town.	누르면 다음 마을을 봅니다.
+Click to show the previous town.	누르면 앞 마을을 봅니다.
+This town may not be upgraded to a castle.	이 마을은 성으로 키울 수 없습니다.
+Town	마을
+The above spells are available here.	위의 마법들을 여기서 배울 수 있습니다.
+The spells the hero can learn have been added to their book.	영웅이 배울 수 있는 마법을 마법서에 넣었습니다.
+Exit Mage Guild	마법 길드 나가기
+A generous tip for the barkeep yields the following rumor:	술집 주인에게 팁을 두둑이 주자 이런 소문을 들려줍니다:
+Recruit Hero	영웅 고용
+%{name} is a level %{value} %{race} 	%{name}은(는) %{value}레벨 %{race}입니다.
+with %{count} artifacts.	아티팩트 %{count}개를 가졌습니다.
+with 1 artifact.	아티팩트 1개를 가졌습니다.
+without artifacts.	아티팩트가 없습니다.
+Recruit %{name} the %{race}	%{race} %{name} 고용
+'Spread' combat formation spreads the castle's units from the top to the bottom of the battlefield, with at least one empty space between each unit.	'펼침' 진형은 성의 부대를 전장 위에서 아래까지 사이에 적어도 한 칸씩 띄워 늘어놓습니다.
+'Grouped' combat formation bunches the castle's units together in the center of the castle's side of the battlefield.	'모음' 진형은 성의 부대를 성 쪽 전장 한가운데에 모아 둡니다.
+Castle Options. Month: %{month}, Week: %{week}, Day: %{day}	성 설정. %{month}달 %{week}주 %{day}일
+Set garrison combat formation to 'Spread'	수비대 진형을 '펼침'으로
+Set garrison combat formation to 'Grouped'	수비대 진형을 '모음'으로
+Exit Castle Options	성 설정 나가기
+Spread Formation	펼침 진형
+Grouped Formation	모음 진형
+Not enough resources to recruit creatures.	크리처를 모집할 자원이 모자랍니다.
+You are unable to recruit at this time, your ranks are full.	지금은 모집할 수 없습니다. 부대 칸이 가득 찼습니다.
+No creatures available for purchase.	살 수 있는 크리처가 없습니다.
+Recruit Creatures	크리처 모집
+Hire all creatures in the town.	마을의 크리처를 모두 고용합니다.
+Max	최대
+Available	남은 수
+Town Population Information and Statistics	마을 인구 정보와 통계
+Damage	피해
+HP	체력
+Speed	속도
+Growth	증가
+week	주

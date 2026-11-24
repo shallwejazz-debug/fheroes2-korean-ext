@@ -1,0 +1,157 @@
+# 지형·지도 오브젝트 (maps/). 1편 한글판에 있는 이름은 그대로
+Desert	사막
+Snow	눈밭
+Wasteland	황무지
+Beach	모래밭
+Lava	용암
+Dirt	흙땅
+Grass	풀밭
+Ocean	바다
+map_layout|Mirrored	대칭
+map_layout|Balanced	균형
+map_layout|Islands	섬
+map_layout|Pyramid	피라미드
+map_layout|Quest	퀘스트
+resource_density|Scarce	적음
+resource_density|Normal	보통
+resource_density|Abundant	많음
+monster_strength|Weak	약함
+monster_strength|Normal	보통
+monster_strength|Strong	강함
+monster_strength|Deadly	치명적
+maps|Small	작음
+maps|Medium	보통
+maps|Large	큼
+maps|Extra Large	아주 큼
+maps|Custom Size	직접 정한 크기
+Ore Mine	철광석 광산
+Sulfur Mine	유황 광산
+Crystal Mine	수정 광산
+Gems Mine	보석 광산
+Gold Mine	금광
+Mine	광산
+Burma shave.	면도는 버마 셰이브로.
+Next sign 50 miles.	다음 표지판 50마일.
+See Rock City.	록 시티를 구경하세요.
+This space for rent.	광고 자리 비었음.
+No object	오브젝트 없음
+Alchemist Lab	연금술사 연구소
+Sign	표지판
+Buoy	부표
+Skeleton	해골
+Daemon Cave	악마의 동굴
+Treasure Chest	보물상자
+Faerie Ring	요정의 고리
+Campfire	캠프화이어
+Fountain	샘
+Gazebo	정자
+Genie Lamp	지니의 램프
+Archer's House	궁수의 집
+Goblin Hut	고블린 오두막
+Dwarf Cottage	드워프 오두막
+Peasant Hut	농부의 오두막
+Stables	마구간
+Alchemist's Tower	연금술사의 탑
+Event	이벤트
+Dragon City	용의 도시
+Lighthouse	등대
+Lighthouses	등대
+Water Wheel	물레방아
+Water Wheels	물레방아
+Monster	괴물
+Obelisk	오벨리스크
+Oasis	오아시스
+Resource	자원
+Sawmill	목재소
+Oracle	신탁소
+Shrine of the First Circle	제1원의 성소
+Shipwreck	난파선
+Sea Chest	바다 상자
+Desert Tent	사막 천막
+Stone Liths	선돌
+Wagon Camp	마차 야영지
+Hut of the Magi	마법사의 오두막
+Whirlpool	소용돌이
+Windmill	풍차
+Windmills	풍차
+Mermaid	인어
+Boat	배
+Random Ultimate Artifact	무작위 궁극의 아티팩트
+Random Artifact	무작위 아티팩트
+Random Resource	무작위 자원
+Random Monster	무작위 괴물
+Random Town	무작위 마을
+Random Castle	무작위 성
+Eye of the Magi	마법사의 눈
+Random Monster - weak	무작위 괴물 - 약함
+Random Monster - medium	무작위 괴물 - 보통
+Random Monster - strong	무작위 괴물 - 강함
+Random Monster - very strong	무작위 괴물 - 아주 강함
+Nothing Special	별것 없음
+Mossy Rock	이끼 낀 바위
+Watch Tower	망루
+Tree House	나무 위 집
+Tree City	나무 도시
+Ruins	폐허
+Fort	요새
+Abandoned Mine	버려진 광산
+Sirens	세이렌
+Standing Stones	선돌 무리
+Idol	우상
+Tree of Knowledge	지식의 나무
+Witch Doctor's Hut	주술사의 오두막
+Temple	신전
+Hill Fort	언덕 요새
+Halfling Hole	하플링 굴
+Mercenary Camp	용병 야영지
+Shrine of the Second Circle	제2원의 성소
+Shrine of the Third Circle	제3원의 성소
+City of the Dead	죽은 자의 도시
+Sphinx	스핑크스
+Wagon	마차
+Tar Pit	타르 웅덩이
+Artesian Spring	샘물
+Troll Bridge	트롤 다리
+Watering Hole	물웅덩이
+Witch's Hut	마녀의 오두막
+Xanadu	제너두
+Lean-To	움막
+Magellan's Maps	마젤란의 지도
+Flotsam	표류물
+Derelict Ship	버려진 배
+Shipwreck Survivor	난파선 생존자
+Bottle	병
+Magic Well	마법의 우물
+Magic Garden	마법의 정원
+Magic Gardens	마법의 정원
+Observation Tower	관측탑
+Freeman's Foundry	자유민의 주조소
+Reefs	암초
+Volcano	화산
+Flowers	꽃
+Rock	바위
+Water Lake	호수
+Mandrake	맨드레이크
+Dead Tree	죽은 나무
+Stump	그루터기
+Crater	구덩이
+Cactus	선인장
+Mound	흙더미
+Dune	모래 언덕
+Lava Pool	용암 웅덩이
+Shrub	덤불
+Barrow Mounds	고분
+Random Artifact - Treasure	무작위 아티팩트 - 보물
+Random Artifact - Minor	무작위 아티팩트 - 하급
+Random Artifact - Major	무작위 아티팩트 - 상급
+Barrier	장벽
+Traveller's Tent	여행자의 천막
+Jail	감옥
+Fire Summoning Altar	불 소환 제단
+Air Summoning Altar	공기 소환 제단
+Earth Summoning Altar	대지 소환 제단
+Water Summoning Altar	물 소환 제단
+Swampy Lake	늪지 호수
+Frozen Lake	얼어붙은 호수
+Black Cat	검은 고양이
+Barrel	술통

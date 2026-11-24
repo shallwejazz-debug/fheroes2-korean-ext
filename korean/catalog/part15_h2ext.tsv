@@ -1,0 +1,285 @@
+# 2편 확장 모드 (H2-EXT, docs/H2_EXTENSION_DESIGN_v5.md)
+Extended Game	확장 게임
+Tick this box to play with the rules of the extension mode: more creature upgrades, new artifacts and more. Untick it to play the original game.	이 칸을 켜면 확장 모드 규칙으로 합니다: 크리처 업그레이드 갈래, 새 아이템 등. 끄면 원작 그대로 합니다.
+Obsidian Gargoyle	흑단 가고일
+Obsidian Gargoyles	흑단 가고일
+Stone Gargoyle	바위 가고일
+Stone Gargoyles	바위 가고일
+Royal Griffin	로열 그리핀
+Royal Griffins	로열 그리핀
+Battle Griffin	전투 그리핀
+Battle Griffins	전투 그리핀
+Minotaur Gladiator	미노타우르스 투사
+Minotaur Gladiators	미노타우르스 투사
+Chaos Hydra	카오스 히드라
+Chaos Hydras	카오스 히드라
+Acid Hydra	산성 히드라
+Acid Hydras	산성 히드라
+Upg. Crypt	강화 지하 묘지
+Upg. Nest	강화 둥지
+Upg. Swamp	강화 늪
+Upgrade to %{monster}?	%{monster}(으)로 업그레이드할까요?
+Takes half damage from shots.	원거리 공격 피해 절반.
+Luck +1.	행운 +1.
+Acid: lowers the defense of units it hits by 2 (up to 6).	산성: 공격한 상대 방어력 -2 (최대 -6).
+Hero's Fireball and Fireblast +20%.	영웅의 파이어볼, 화염 폭발 +20%.
+Crossbowman	석궁병
+Crossbowmen	석궁병
+Halberdier	미늘창병
+Halberdiers	미늘창병
+Shieldbearer	방패병
+Shieldbearers	방패병
+Lancer	창기병
+Lancers	창기병
+Guardian Knight	수호 기사
+Guardian Knights	수호 기사
+Orc Berserker	오크 광전사
+Orc Berserkers	오크 광전사
+Dire Wolf	흉포한 늑대
+Dire Wolves	흉포한 늑대
+Winter Wolf	겨울 늑대
+Winter Wolves	겨울 늑대
+Ogre Shaman	오우거 주술사
+Ogre Shamans	오우거 주술사
+Cave Troll	동굴 트롤
+Cave Trolls	동굴 트롤
+Cyclops King	싸이클롭스 왕
+Cyclops Kings	싸이클롭스 왕
+Ancient Cyclops	고대 싸이클롭스
+Ancient Cyclopes	고대 싸이클롭스
+Dwarf Guardian	드워프 수호자
+Dwarf Guardians	드워프 수호자
+Forest Sniper	숲의 저격수
+Forest Snipers	숲의 저격수
+Healing Druid	치유 드루이드
+Healing Druids	치유 드루이드
+Battle Unicorn	전투 유니콘
+Battle Unicorns	전투 유니콘
+Silver Unicorn	은빛 유니콘
+Silver Unicorns	은빛 유니콘
+Great Phoenix	피닉스
+Great Phoenixes	피닉스
+Firebird	화염갈퀴
+Firebirds	화염갈퀴
+Battle Boar	전투 멧돼지
+Battle Boars	전투 멧돼지
+Boar Rider	멧돼지 기수
+Boar Riders	멧돼지 기수
+Mithril Golem	미스릴 골렘
+Mithril Golems	미스릴 골렘
+Great Roc	큰 로크
+Great Rocs	큰 로크
+Storm Roc	폭풍 로크
+Storm Rocs	폭풍 로크
+Battle Mage	전투 메이지
+Battle Mages	전투 메이지
+Zeus	제우스
+Zeuses	제우스
+Plague Zombie	역병 좀비
+Plague Zombies	역병 좀비
+Mummy Priest	미라 사제
+Mummy Priests	미라 사제
+Nosferatu	노스페라투
+Nosferatus	노스페라투
+Demilich	데미리치
+Demiliches	데미리치
+Wraith Dragon	유령 드래곤
+Wraith Dragons	유령 드래곤
+Plague Dragon	역병 드래곤
+Plague Dragons	역병 드래곤
+Upg. Den	강화 굴
+sorceress|Upg. Red Tower	강화 붉은 탑
+Upg. Fenced Meadow	강화 울타리 초원
+Upg. Pen	강화 우리
+Upg. Cliff Nest	강화 절벽 둥지
+Upg. Laboratory	강화 연구소
+No penalty when shooting over castle walls.	성벽 너머로 쏠 때 벌칙 없음.
++50% damage against two-cell creatures.	두 칸 크리처에게 피해 +50%.
+Shield wall: it and the units next to it take 30% less damage from shots.	방패벽: 자신과 곁의 아군이 받는 원거리 피해 -30%.
+Charge: +5% damage for each cell walked before the attack.	돌격: 공격 전에 걸어온 칸마다 피해 +5%.
+Army morale +1.	군대 사기 +1.
+Aimed shot: counts half of the target's defense.	겨냥 사격: 상대 방어력을 절반만 셈.
+Rebirth: once a battle, a third of the stack rises when destroyed.	부활: 전투마다 한 번, 전멸하면 3분의 1이 되살아남.
+Damage from spells -75%.	주문 피해 -75%.
+30% chance of a lightning strike (10 damage per Zeus).	30% 확률로 번개 (제우스 한 명당 피해 10).
+Plague: lowers the attack of units it hits by 2 (up to 6).	역병: 공격한 상대 공격력 -2 (최대 -6).
+20% chance to frighten: the target loses its next turn.	20% 확률로 겁주기: 상대가 다음 차례를 잃음.
+Each turn casts %{spell} on an enemy.	차례마다 적에게 거는 주문: %{spell}.
+Each turn casts %{spell} on an ally.	차례마다 아군에게 거는 주문: %{spell}.
+Guardian Knight +1	수호 기사 +1
+Equipment	장비
+Misc.	기타
+Backpack (no effect)	가방 (효과 없음)
+Set effects	세트 효과
+Worn	끼운 아이템
+Backpack	가방
+Trade artifacts	아이템 교환
+Click an artifact to give it to the other hero.	아이템을 누르면 다른 영웅에게 넘어갑니다.
+Knight's Arms	기사의 무장
+Spiked Pair	가시 한 벌
+Mage's Attire	마법사의 차림
+Elemental Ward	원소 막이
+Elemental Power	원소 강화
+Four Medals	네 개의 훈장
+Four Charms	네 개의 행운
+Scrolls of Knowledge	지식의 두루마리
+Pair of Pearls	진주 한 쌍
+Rare Riches	귀한 자원
+Endless Gold	끝없는 금
+Pathfinder	길잡이
+Archer's Tools	사수의 도구
+Time Magic	시간의 마법
+Elixir of Life	생명의 영약
+Cursed Things	저주받은 물건
+2: Attack and Defense +1	2개: 공격력, 방어력 +1
+3: Attack and Defense +2	3개: 공격력, 방어력 +2
+5: battle start, allies get Bloodlust and Stoneskin	5개: 전투 시작에 아군 모두 피의 갈망과 돌 피부
+2: Attack and Defense +1, melee attackers take back 10% of their damage	2개: 공격력, 방어력 +1, 근접 공격한 적이 준 피해의 10%를 되받음
+2: Spell Power +1	2개: 마법력 +1
+3: Spell Power +2	3개: 마법력 +2
+5: spell points refilled every day	5개: 매일 마법 점수 가득 채움
+2: elemental spell damage -25% more	2개: 원소 주문 피해 -25% 더
+3: fire, cold and lightning spells +25% damage, half cost	3개: 불, 얼음, 번개 주문 피해 +25%, 값 절반
+2: Morale +1	2개: 사기 +1
+4: maximum morale, enemy morale -1	4개: 사기 늘 최대, 상대 사기 -1
+2: Luck +1	2개: 행운 +1
+4: maximum luck, enemy luck -1	4개: 행운 늘 최대, 상대 행운 -1
+2: Knowledge +1	2개: 지력 +1
+4: Knowledge +2, battle experience +25%	4개: 지력 +2, 전투 경험치 +25%
+2: Spell Power and Knowledge +1, spell points +3 a day	2개: 마법력, 지력 +1, 매일 마법 점수 +3
+2: gold +250 a day	2개: 매일 금 +250
+4: mercury, sulfur, crystal and gems +2 more a day	4개: 매일 수은, 유황, 수정, 보석 +2 더
+3: creature growth of your towns +20%	3개: 내 성의 크리처 생산 +20%
+2: land movement +100	2개: 땅 이동 +100
+3: no movement lost boarding or leaving a boat	3개: 배를 타고 내릴 때 이동을 잃지 않음
+3: shooting troops +20% damage, view +1	3개: 원거리 부대 피해 +20%, 시야 +1
+2: combat spells last 5 turns more	2개: 전투 주문 지속 +5
+2: resurrect spells +50%	2개: 부활 주문 +50%
+3: living troops +15% hit points, heal a little each turn	3개: 살아 있는 아군 생명 +15%, 차례마다 조금 회복
+3: battle start, enemies get Slow and Curse	3개: 전투 시작에 상대 모두 둔화와 저주
+Set	세트
+Giant's Belt	거인의 허리띠
+Sage's Spectacles	현자의 안경
+Cloak of the Wind	바람의 망토
+Champion's Ring	용사의 반지
+Merchant's Scales	상인의 저울
+Smith's Hammer	대장장이의 망치
+Hunter's Quiver	사냥꾼의 화살통
+Shaman's Skull	주술사의 해골
+The %{name} increases the hero's attack and defense skills by 2 each.	%{name}은(는) 영웅의 공격력과 방어력을 각각 2 올려 줍니다.
+The %{name} increases the hero's knowledge by 3 and spell power by 1.	%{name}은(는) 영웅의 지력을 3, 마법력을 1 올려 줍니다.
+The %{name} increases the morale and luck of the hero's army by 1 each.	%{name}은(는) 영웅 부대의 사기와 행운을 각각 1 올려 줍니다.
+The %{name} provides the hero's kingdom with 300 gold per day.	%{name}은(는) 영웅의 나라에 매일 금 300을 줍니다.
+The %{name} lowers the cost of upgrading the hero's troops by 25%.	%{name}은(는) 영웅 부대의 업그레이드 값을 25% 깎아 줍니다.
+The %{name} increases the attack skill of the hero's troops by 1 when they shoot.	%{name}은(는) 영웅 부대가 쏠 때 공격력을 1 올려 줍니다.
+The %{name} increases the chance of the hero's creatures to cast their spells when they attack by 10%.	%{name}은(는) 영웅의 크리처가 공격할 때 주문을 거는 확률을 10% 올려 줍니다.
+You find a huge leather belt lying in the grass. When you put it on, you feel the strength of the giant who once wore it.	풀숲에 커다란 가죽 허리띠가 놓여 있습니다. 차 보니 예전 주인이던 거인의 힘이 느껴집니다.
+An old pair of spectacles lies on a stone. Looking through them, the runes in your spell book become clear at last.	돌 위에 낡은 안경이 놓여 있습니다. 써 보니 마법서의 글자가 드디어 또렷이 보입니다.
+A light cloak flutters on a branch although there is no wind. When you take it, your steps become quick and your sails fill.	바람도 없는데 나뭇가지에 걸린 가벼운 망토가 펄럭입니다. 걸치자 걸음이 빨라지고 돛에 바람이 찹니다.
+You find a golden ring in the ruins of an old arena. The names of past champions are carved on it.	옛 투기장 터에서 금반지를 찾았습니다. 지난 용사들의 이름이 새겨져 있습니다.
+A merchant's scales stand by the road, still weighing coins that appear from nowhere.	길가에 상인의 저울이 서 있는데, 어디선가 나타나는 동전을 아직도 달고 있습니다.
+A blacksmith's hammer lies by a cold forge. In your hand it seems to know how to turn old arms into better ones.	식은 화덕 옆에 대장장이의 망치가 놓여 있습니다. 손에 쥐니 낡은 무기를 더 좋게 고치는 법을 아는 듯합니다.
+A quiver full of fine arrows hangs on a tree. The arrows fly straighter than any you have seen.	나무에 좋은 화살이 가득 든 화살통이 걸려 있습니다. 이제껏 본 어떤 화살보다 곧게 날아갑니다.
+A painted skull sits on a pole, humming softly. Creatures with magic grow bolder near it.	칠을 한 해골이 장대 위에서 낮게 웅웅거립니다. 마법을 쓰는 크리처들이 그 곁에서 대담해집니다.
+3: no damage from fire, cold and lightning spells	3개: 불, 얼음, 번개 주문 피해 없음
+Hand of Death	죽음의 손
+3: necromancy raises Zombies, no morale penalty from the Arm	3개: 사령술로 좀비가 일어남, 순교자의 팔 사기 벌칙 없음
+Anduran	안두란
+3: they join into the Battle Garb	3개: 안두란의 전투복으로 합쳐짐
+25% chance that an attack spell strikes the target as well (Magic Arrow, Cold Ray, Lightning Bolt or Fireball; spell power = half the number of Battle Mages).	25% 확률로 공격 마법 하나가 대상에게 더 터짐 (매직 애로, 냉기 광선, 라이트닝 볼트, 파이어볼 중 하나. 주문력 = 전투 메이지 수의 절반)
+Set catalog	세트 도감
+Right click a set: its effects. Bright = owned, gold frame = worn.	세트를 오른쪽 클릭하면 효과. 밝음 = 가진 조각, 금빛 테 = 끼운 조각.
+20% chance of a critical bite: double damage.	20% 확률로 급소 물기: 피해 두 배.
+20% chance that a blow does it no harm.	20% 확률로 맞아도 피해를 받지 않음.
+20% chance of double damage when it retaliates.	반격할 때 20% 확률로 피해 두 배.
+25% chance of acid: lowers the defense of units it hits by 2 (up to 6).	25% 확률로 산성: 맞은 부대의 방어력 2 낮춤 (6까지).
+20% chance to knock the target down: it skips its next turn.	20% 확률로 대상을 넘어뜨림: 대상은 다음 차례를 쉼.
+20% chance to slow the target.	20% 확률로 대상을 둔화.
+Hero's Medal	영웅의 훈장
+Lucky Charm	행운의 부적
+Tome of Knowledge	지식의 고서
+The %{name} is the four medals of honor joined into one: it gives all their morale and the whole set effect.	%{name}은(는) 훈장 네 개를 하나로 합친 것입니다. 네 훈장의 사기와 세트 효과를 모두 줍니다.
+The %{name} is the four lucky charms joined into one: it gives all their luck and the whole set effect.	%{name}은(는) 행운의 물건 네 개를 하나로 합친 것입니다. 네 물건의 행운과 세트 효과를 모두 줍니다.
+The %{name} is the four scrolls of knowledge joined into one: it gives all their knowledge and the whole set effect.	%{name}은(는) 지식의 두루마리 네 개를 하나로 합친 것입니다. 네 두루마리의 지력과 세트 효과를 모두 줍니다.
+Split	나누기
+Join set	합치기
+It is also a Week of Treasure: artifacts have appeared across the land!	또한 보물의 주입니다. 땅 곳곳에 아이템이 나타났습니다!
+RANDOM MAP	무작위 지도
+Random Map	무작위 지도
+Random map %{number}	무작위 지도 %{number}
+Random map of %{size} x %{size} squares for %{count} players.	%{size} x %{size} 칸, %{count}명이 하는 무작위 지도입니다.
+Click here to make a new random map with the map generator. The map is played with the rules of the original game and stays in the scenario list.	지도 생성기로 새 무작위 지도를 만들려면 누르세요. 만든 지도는 원작 규칙으로 하며, 시나리오 목록에 남습니다.
+Barrow	고분
+Hunters' Camp	사냥꾼 야영지
+Dragon Nest	용의 둥지
+An old barrow mound rises from the ground. Its dead do not rest. Do you want to enter the barrow?	오래된 고분이 땅 위로 솟아 있습니다. 그 안의 죽은 자들은 잠들지 못했습니다. 고분 안으로 들어가겠습니까?
+The barrow is empty. Nothing is left in it.	고분은 비어 있습니다. 남은 것이 없습니다.
+Upon defeating the restless dead you search the barrow and find something!	잠들지 못한 죽은 자들을 물리치고 고분을 뒤져 무언가를 찾았습니다!
+A camp of hunters watches the road with their bows ready. Do you want to attack the camp?	사냥꾼들이 활을 겨눈 채 길을 지키고 있습니다. 야영지를 공격하겠습니까?
+The camp is abandoned. Nothing is left in it.	야영지는 버려졌습니다. 남은 것이 없습니다.
+Upon defeating the hunters you search the camp and find something!	사냥꾼들을 물리치고 야영지를 뒤져 무언가를 찾았습니다!
+You have found the nest of the dead dragons, full of the gold of their victims. Do you want to attack the nest?	죽은 용들의 둥지를 찾았습니다. 그들에게 당한 자들의 금이 가득합니다. 둥지를 공격하겠습니까?
+The nest is empty. Nothing is left in it.	둥지는 비어 있습니다. 남은 것이 없습니다.
+Upon defeating the dragons you search the nest and find a great treasure!	용들을 물리치고 둥지를 뒤져 큰 보물을 찾았습니다!
+Head	머리
+Neck	목
+Cloak	망토
+Weapon	무기
+Body	몸
+Hands	손
+Feet	발
+Ring	반지
+Attention	알림
+Your version of Heroes of Might and Magic II does not support any other languages than English.	이 한글판은 한국어로만 나옵니다. 다른 언어는 고를 수 없습니다.
+Korean	한국어
+Korean patch and extension mode	한글판, 확장 모드
+< Set	< 세트
+Set >	세트 >
+Artifact set	아티팩트 세트
+Dress the attacking hero in a whole artifact set to try its set effects. Every other artifact except the Magic Book is taken off.	공격하는 영웅에게 세트 하나를 통째로 입혀 세트 효과를 시험합니다. 마법책 말고 다른 아티팩트는 모두 벗깁니다.
+Dress the defending hero in a whole artifact set to try its set effects. Every other artifact except the Magic Book is taken off.	방어하는 영웅에게 세트 하나를 통째로 입혀 세트 효과를 시험합니다. 마법책 말고 다른 아티팩트는 모두 벗깁니다.
+Please select a hero first.	먼저 영웅을 고르십시오.
+No set	세트 없음
+Select a set:	세트 고르기:
+Blood thirst: attack +1 each time its attack kills, up to +5 in a battle.	피의 갈증: 공격으로 적을 죽일 때마다 공격력 +1 (한 전투에 최대 +5)
+# 전투 대기/방어 (확장 게임, 2026-11-20)
+hotkey|wait in battle	전투 대기
+battle|Wait	대기
+battle|Defend	방어
+This creature has already waited this round.	이 부대는 이번 턴에 이미 대기했습니다.
+Wait: this creature acts again at the end of the round	대기: 이번 턴 마지막에 다시 움직입니다
+The current creature waits. It acts again after every other creature of this round has acted; waiting creatures act slowest first. A creature can wait once a round. Hotkey: W	지금 부대가 대기합니다. 이번 턴의 다른 부대가 모두 움직인 뒤에 다시 움직이며, 대기한 부대끼리는 느린 부대부터 움직입니다. 한 턴에 한 번만 대기할 수 있습니다. 단축키: W
+Defend: skip this unit and raise its defense	방어: 이 부대를 넘기고 방어력을 올립니다
+The current creature ends its turn and defends: its defense is raised by 20% (at least 1) until its next turn. Hotkey: Space	지금 부대가 차례를 마치고 방어합니다: 다음 차례가 올 때까지 방어력이 20% (최소 1) 오릅니다. 단축키: 스페이스
+The %{name} defends.	%{name}이(가) 방어합니다.
+The %{name} defend.	%{name}이(가) 방어합니다.
+The %{name} waits.	%{name}이(가) 대기합니다.
+The %{name} wait.	%{name}이(가) 대기합니다.
+# 전투 마법 표시 (2026-11-20)
+Defend: defense +20% (at least 1) until this creature's next turn	방어: 다음 차례까지 방어력 +20% (최소 1)
+%{spell}: %{count} turn left	%{spell}: %{count}턴 남음
+%{spell}: %{count} turns left	%{spell}: %{count}턴 남음
+# 전투 마법 목록 창 (2026-11-20)
+Attack +%{count}	공격력 +%{count}
+Attack +%{count} against dragons	드래곤 상대 공격력 +%{count}
+Takes 1/%{count} of the damage from shots	사격 피해를 1/%{count}만 받음
+Cannot act until attacked; retaliates with %{count}% less damage	공격받기 전까지 못 움직임, 반격 피해 -%{count}%
+Defense +%{count}	방어력 +%{count}
+Speed %{now} (normally %{normal})	속도 %{now} (원래 %{normal})
+Always deals the maximum damage	늘 최대 피해
+Always deals the minimum damage	늘 최소 피해
+Spells have no effect on it	주문이 통하지 않음
+Attacks the nearest creature, friend or foe	가장 가까운 부대를 공격 (아군도)
+Fights for the enemy	적의 편에서 싸움
+Cannot act or retaliate	움직이지도 반격하지도 못함
+Cannot act; takes half damage	못 움직임, 받는 피해 절반
+Defense +20% (at least 1) until its next turn	다음 차례까지 방어력 +20% (최소 1)
+%{count} %{name}	%{name} %{count}
+%{count} turn	%{count}턴
+%{count} turns	%{count}턴
+until next turn	다음 차례까지
+# 세트 19 바람의 걸음 (2026-11-21)
+Wind Step	바람의 걸음
+3: battle start, allies get Haste	3개: 전투 시작에 아군 모두 가속
+# HD 배경 (2026-11-21)
+hotkey|toggle HD backgrounds	HD 배경 켜기/끄기

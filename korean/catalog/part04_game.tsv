@@ -1,0 +1,438 @@
+# 게임 메뉴·버튼·승패·주간 알림·단축키 이름 (game/). 버튼 글자는 짧게, 세로 버튼은 한 글자씩 줄바꿈
+difficulty|Easy	쉬움
+difficulty|Normal	보통
+difficulty|Hard	어려움
+difficulty|Expert	전문가
+difficulty|Impossible	불가능
+ABOUT	소개
+S	소
+M	중
+L	대
+X-L	특대
+ALL	전체
+EXIT	나가기
+smallerButton|EXIT	나가기
+OKAY	확인
+HEROES	영웅
+TOWNS/\nCASTLES	마을/\n성
+CANCEL	취소
+ACCEPT	수락
+DECLINE	거절
+LEARN	배우기
+TRADE	교환
+YES	예
+NO	아니오
+DISMISS	해고
+UPGRADE	업그레이드
+GIFT	선물
+RESTART	다시 시작
+D\nI\nS\nM\nI\nS\nS	해\n고
+E\nX\nI\nT	나\n가\n기
+C\nA\nM\nP\nA\nI\nG\nN	캠\n페\n인
+S\nT\nA\nN\nD\nA\nR\nD	일\n반
+NEW\nGAME	새\n게임
+LOAD\nGAME	불러\n오기
+RESTART\nGAME	다시\n시작
+SAVE\nGAME	저장\n하기
+QUICK\nSAVE	빠른\n저장
+QUIT	끝내기
+NEW\nMAP	새\n지도
+LOAD\nMAP	지도\n불러오기
+START\nMAP	지도\n시작
+SAVE\nMAP	지도\n저장
+MAIN\nMENU	주\n메뉴
+AUTO\nPLAYTEST	자동\n시험 플레이
+INFO	정보
+BATTLE\nONLY	전투만
+SETTINGS	설정
+STANDARD\nGAME	일반\n게임
+CAMPAIGN\nGAME	캠페인\n게임
+MULTI-\nPLAYER\nGAME	여럿이\n하기
+HOT SEAT	핫 시트
+2 PLAYERS	2명
+3 PLAYERS	3명
+4 PLAYERS	4명
+5 PLAYERS	5명
+6 PLAYERS	6명
+ORIGINAL\nCAMPAIGN	원작\n캠페인
+EXPANSION\nCAMPAIGN	확장팩\n캠페인
+editorMainMenu|BACK	뒤로
+newMap|FROM\nSCRATCH	빈 지도로
+newMap|RANDOM	무작위
+DIFFICULTY	난이도
+VIEW INTRO	소개 영상
+RESET	되돌리기
+START	시작
+P\nA\nT\nR\nO\nL	순\n찰
+Auto Playtest Results	자동 시험 플레이 결과
+1 playthrough	1회 플레이
+%{count} playthroughs	%{count}회 플레이
+ playthrough(s) reached the specified time limit	회가 정한 시간 제한에 닿았습니다
+Click to close the dialog.	누르면 창을 닫습니다.
+%{color} player	%{color} 플레이어
+Won %{percent}% of playthroughs.	%{percent}%를 이겼습니다.
+Failed to prepare the map for auto playtest.	자동 시험 플레이용 지도를 준비하지 못했습니다.
+autoPlaytest|Number of playthroughs:	플레이 횟수:
+Set the number of playthroughs.	플레이 횟수를 정합니다.
+autoPlaytest|Max days per playthrough:	한 번에 최대 날 수:
+Set the maximum number of days that each playthrough is run for.	플레이 한 번을 최대 며칠 돌릴지 정합니다.
+autoPlaytest|Last day of playthrough:	플레이 마지막 날:
+autoPlaytest|Animation	움직임
+autoPlaytest|Animation speed:	움직임 속도:
+Set animation speed during playthrough.	플레이 중 움직임 속도를 정합니다.
+autoPlaytest|Sound Effects	효과음
+Left-clicking at any point will interrupt the playtest.	아무 데나 왼쪽 클릭하면 시험 플레이를 멈춥니다.
+This lets you change the class of a player. Classes are not always changeable. Depending on the scenario, a player may receive additional towns and/or heroes not of their primary alignment.	플레이어의 종족을 바꿉니다. 언제나 바꿀 수 있는 것은 아닙니다. 시나리오에 따라 주 종족이 아닌 마을이나 영웅을 더 받을 수도 있습니다.
+Click to run an automated map playtest.	누르면 지도를 자동으로 시험 플레이합니다.
+Toggle animation during playthroughs.	플레이 중 움직임을 켜고 끕니다.
+Toggle sound effects during playthroughs.	플레이 중 효과음을 켜고 끕니다.
+Auto playtest\n(playthrough %{current} of %{total})	자동 시험 플레이\n(%{total}회 중 %{current}회째)
+Do you want to interrupt the automatic playtest? The effect will take place only on the next turn.	자동 시험 플레이를 멈추시겠습니까? 다음 차례부터 적용됩니다.
+and more...	그 밖에...
+campaignDifficulty|Decreased	낮춤
+campaignDifficulty|Default	기본
+campaignDifficulty|Increased	높임
+Choose this difficulty to experience the game's story with decreased challenge. The AI will be weaker than at the default difficulty.	이야기를 더 쉽게 즐기려면 이 난이도를 고르세요. 컴퓨터가 기본 난이도보다 약합니다.
+Choose this difficulty to experience the campaign as close to the original design as possible with the fheroes2 AI.	fheroes2 컴퓨터로 원래 설계에 가장 가깝게 캠페인을 즐기려면 이 난이도를 고르세요.
+Choose this difficulty if you want more of a challenge. The AI will be stronger than at the default difficulty.	더 어려운 도전을 원하면 이 난이도를 고르세요. 컴퓨터가 기본 난이도보다 강합니다.
+Campaign Difficulty	캠페인 난이도
+Congratulations!\n\nDays: %{days}\n	축하합니다!\n\n날 수: %{days}\n
+\nDifficulty: %{difficulty}\n\n	\n난이도: %{difficulty}\n\n
+Score: %{score}\n\nRating:\n%{rating}	점수: %{score}\n\n등급:\n%{rating}
+Start the selected scenario.	고른 시나리오를 시작합니다.
+View Intro	소개 영상 보기
+View the intro video for the current state of the campaign.	캠페인 지금 단계의 소개 영상을 봅니다.
+Select the campaign difficulty. This can be changed at any point during the campaign. However, the final score will be calculated based solely on the lowest difficulty of a completed scenario during the campaign.	캠페인 난이도를 고릅니다. 캠페인 도중 언제든 바꿀 수 있습니다. 다만 최종 점수는 끝낸 시나리오 가운데 가장 낮은 난이도로만 계산합니다.
+Restart the current scenario.	지금 시나리오를 다시 시작합니다.
+Difficulty	난이도
+You have changed the campaign difficulty. The final high score will be calculated based solely on the lowest difficulty level for a completed scenario during the campaign. Do you want to proceed?	캠페인 난이도를 바꿨습니다. 최종 점수는 끝낸 시나리오 가운데 가장 낮은 난이도로만 계산합니다. 계속하시겠습니까?
+Are you sure you want to restart this scenario?	정말 이 시나리오를 다시 시작하시겠습니까?
+Campaign Scenario loading failure	캠페인 시나리오를 불러오지 못했습니다
+Please make sure that campaign files are correct and present.	캠페인 파일이 제대로 있는지 확인해 주세요.
+Days spent	지난 날 수
+The number of days spent on this campaign.	이 캠페인에 들인 날 수입니다.
+Scenario Title	시나리오 제목
+Project Coordination and Core Development	프로젝트 진행, 핵심 개발
+Development	개발
+Visit us at	방문하기
+QA and Support	품질 관리, 지원
+Dev and Support	개발, 지원
+Special Thanks to	특별히 감사한 분들
+and all the people who have helped make the project possible!	그리고 이 프로젝트를 도와준 모든 분들!
+Support us at	후원하기
+Connect with us at	함께하기
+Need help with the game?	게임에 도움이 필요하세요?
+Original project before 0.7	0.7 이전의 원래 프로젝트
+Heroes of Might and Magic II: The Succession Wars team	히어로즈 오브 마이트 앤 매직 II: 계승 전쟁 제작진
+Designed and Directed	기획, 감독
+Programming and Design	프로그래밍, 기획
+Executive Producer	총괄 프로듀서
+Producer	프로듀서
+Additional Design	추가 기획
+Additional Programming	추가 프로그래밍
+Musical Production	음악 제작
+Music and Sound Design	음악, 음향
+Vocalists	보컬
+Art Director	아트 디렉터
+Assistant Art Director	아트 디렉터 보조
+Artists	아티스트
+QA Manager	품질 관리 책임자
+QA	품질 관리
+Writing	글
+Manual and Helpfile	설명서, 도움말
+Scenarios	시나리오
+Heroes of Might and Magic II: The Price of Loyalty team	히어로즈 오브 마이트 앤 매직 II: 충성의 대가 제작진
+Design Lead	기획 책임
+Designers	기획
+Programming Lead	프로그래밍 책임
+Art Lead	아트 책임
+Playtesters	시험 플레이
+Designer	기획
+Producers	프로듀서
+QA Managers	품질 관리 책임자
+Sound Design	음향
+Town Themes	마을 음악
+Alto Sax	알토 색소폰
+Harpsichord and Piano	하프시코드, 피아노
+Basso Vocal	베이스 보컬
+Soprano Vocal	소프라노 보컬
+Recorded at %{recordingStudio}	녹음: %{recordingStudio}
+credits|Manual	설명서
+German Consultant	독일어 자문
+Map Designers	지도 제작
+Package Design	포장 디자인
+To exit fheroes2, press the Home button or swipe up.	fheroes2를 끝내려면 홈 버튼을 누르거나 위로 쓸어 올리세요.
+Are you sure you want to quit?	정말 끝내시겠습니까?
+High Scores	최고 점수
+Your Name	이름
+Unknown Hero	알 수 없는 영웅
+Standard	일반
+View High Scores for Standard Maps.	일반 지도의 최고 점수를 봅니다.
+Campaign	캠페인
+View High Scores for Campaigns.	캠페인의 최고 점수를 봅니다.
+hotkey|default okay event	확인
+hotkey|default cancel event	취소
+hotkey|default left	왼쪽
+hotkey|default right	오른쪽
+hotkey|default up	위
+hotkey|default down	아래
+hotkey|default delete	지우기
+hotkey|toggle fullscreen	전체 화면 켜고 끄기
+hotkey|toggle text support mode	글자 보조 모드 켜고 끄기
+hotkey|toggle developer mode	개발자 모드 켜고 끄기
+hotkey|quit	끝내기
+hotkey|new game	새 게임
+hotkey|load game	불러오기
+hotkey|high scores	최고 점수
+hotkey|credits	만든 사람들
+hotkey|standard game	일반 게임
+hotkey|campaign game	캠페인 게임
+hotkey|multi-player game	여럿이 하기
+hotkey|settings	설정
+hotkey|select map	지도 고르기
+hotkey|select small map size	작은 지도
+hotkey|select medium map size	보통 지도
+hotkey|select large map size	큰 지도
+hotkey|select extra large map size	아주 큰 지도
+hotkey|select all map sizes	모든 크기
+hotkey|hot seat game	핫 시트 게임
+hotkey|battle only game	전투만 하기
+hotkey|choose the original campaign	원작 캠페인 고르기
+hotkey|choose the expansion campaign	확장팩 캠페인 고르기
+hotkey|map editor main menu	지도 편집기 주 메뉴
+hotkey|new map menu	새 지도 메뉴
+hotkey|load map menu	지도 불러오기 메뉴
+hotkey|new map from scratch	빈 새 지도
+hotkey|new random map	새 무작위 지도
+hotkey|undo last action	되돌리기
+hotkey|redo last action	다시 하기
+hotkey|open game main menu	게임 주 메뉴 열기
+hotkey|toggle passability	지나갈 수 있는 곳 보기
+hotkey|auto playtest	자동 시험 플레이
+hotkey|re-generate random map	무작위 지도 다시 만들기
+hotkey|re-configure random map	무작위 지도 설정 바꾸기
+hotkey|output all text	모든 글 내보내기
+hotkey|roland campaign	롤랜드 캠페인
+hotkey|archibald campaign	아치볼드 캠페인
+hotkey|price of loyalty campaign	충성의 대가 캠페인
+hotkey|voyage home campaign	귀향 캠페인
+hotkey|wizard's isle campaign	위저드의 섬 캠페인
+hotkey|descendants campaign	후계자들 캠페인
+hotkey|select first campaign bonus	첫째 캠페인 보너스
+hotkey|select second campaign bonus	둘째 캠페인 보너스
+hotkey|select third campaign bonus	셋째 캠페인 보너스
+hotkey|view campaign intro	캠페인 소개 영상
+hotkey|select campaign difficulty	캠페인 난이도 고르기
+hotkey|restart campaign scenario	캠페인 시나리오 다시 시작
+hotkey|world map left	지도 왼쪽
+hotkey|world map right	지도 오른쪽
+hotkey|world map up	지도 위
+hotkey|world map down	지도 아래
+hotkey|world map up left	지도 왼쪽 위
+hotkey|world map up right	지도 오른쪽 위
+hotkey|world map down left	지도 왼쪽 아래
+hotkey|world map down right	지도 오른쪽 아래
+hotkey|save game	저장하기
+hotkey|quick save	빠른 저장
+hotkey|next hero	다음 영웅
+hotkey|change to hero under cursor	커서 아래 영웅으로 바꾸기
+hotkey|hold and left click to move hero portrait to top of list	누른 채 왼쪽 클릭하면 영웅 초상을 목록 맨 위로
+hotkey|start hero movement	영웅 움직이기
+hotkey|cast adventure spell	모험 마법 쓰기
+hotkey|put hero to sleep	영웅 재우기
+hotkey|next town	다음 마을
+hotkey|end turn	차례 마침
+hotkey|file options	파일 설정
+hotkey|adventure options	모험 설정
+hotkey|puzzle map	퍼즐 지도
+hotkey|scenario information	시나리오 정보
+hotkey|dig for artifact	아티팩트 파기
+hotkey|view world	세계 보기
+hotkey|kingdom summary	왕국 현황
+hotkey|default action	기본 행동
+hotkey|open focus	고른 것 열기
+hotkey|system options	시스템 설정
+hotkey|scroll left	왼쪽으로 넘기기
+hotkey|scroll right	오른쪽으로 넘기기
+hotkey|scroll up	위로 넘기기
+hotkey|scroll down	아래로 넘기기
+hotkey|toggle control panel	조작판 켜고 끄기
+hotkey|toggle radar	작은 지도 켜고 끄기
+hotkey|toggle buttons	버튼 켜고 끄기
+hotkey|toggle status	상태 창 켜고 끄기
+hotkey|toggle icons	아이콘 켜고 끄기
+hotkey|transfer control to ai	컴퓨터에게 조작 넘기기
+hotkey|retreat from battle	전투에서 후퇴
+hotkey|surrender during battle	전투에서 항복
+hotkey|toggle auto combat mode	자동 전투 켜고 끄기
+hotkey|quick combat	빠른 전투
+hotkey|battle options	전투 설정
+hotkey|skip turn in battle	전투 차례 넘기기
+hotkey|cast battle spell	전투 마법 쓰기
+hotkey|toggle display of battle turn order	전투 차례 순서 보기
+hotkey|dwelling level 1	1단계 주거지
+hotkey|dwelling level 2	2단계 주거지
+hotkey|dwelling level 3	3단계 주거지
+hotkey|dwelling level 4	4단계 주거지
+hotkey|dwelling level 5	5단계 주거지
+hotkey|dwelling level 6	6단계 주거지
+hotkey|well	우물
+hotkey|marketplace	시장
+hotkey|mage guild	마법 길드
+hotkey|shipyard	조선소
+hotkey|thieves guild	도둑 소굴
+hotkey|tavern	선술집
+hotkey|construction screen	건설 화면
+hotkey|buy all monsters in well	우물에서 모든 크리처 사기
+hotkey|merge troops with hero	영웅 부대에 합치기
+hotkey|merge troops with garrison	수비대에 합치기
+hotkey|split stack by half	부대 반으로 나누기
+hotkey|split stack by one	부대 하나씩 나누기
+hotkey|join stacks	부대 합치기
+hotkey|upgrade troop	부대 업그레이드
+hotkey|dismiss hero or troop	영웅, 부대 해고
+hotkey|exchange all troops	부대 모두 바꾸기
+Do you want to regain control from AI? The effect will take place only on the next turn.	컴퓨터에게서 조작을 되찾으시겠습니까? 다음 차례부터 적용됩니다.
+Do you want to transfer control from you to the AI? The effect will take place only on the next turn.	조작을 컴퓨터에게 넘기시겠습니까? 다음 차례부터 적용됩니다.
+Default Actions	기본 동작
+Global Actions	전체 동작
+World Map	모험 지도
+Battle Screen	전투 화면
+Town Screen	마을 화면
+Army Actions	부대 동작
+fheroes2 Resurrection Team presents	fheroes2 부활 팀 제공
+The save file is corrupted.	저장 파일이 망가졌습니다.
+Unsupported save format: 	지원하지 않는 저장 형식:
+Current game version: 	지금 게임 버전:
+Last supported version: 	지원하는 마지막 버전:
+This file contains a save with an invalid game type.	이 파일의 게임 종류가 잘못되었습니다.
+This save file requires "The Price of Loyalty" game assets, but they have not been provided to the engine.	이 저장 파일에는 "충성의 대가" 데이터가 필요한데, 엔진에 그 데이터가 없습니다.
+This saved game is localized to '	이 저장 게임의 언어는 '
+' language, but the current language of the game is '	'인데, 지금 게임의 언어는 '
+No save files to load.	불러올 저장 파일이 없습니다.
+A single player game playing out a single map.	혼자서 지도 하나를 플레이합니다.
+Standard Game	일반 게임
+A single player game playing through a series of maps.	혼자서 이어지는 지도들을 플레이합니다.
+Campaign Game	캠페인 게임
+Multi-Player Game	여럿이 하기
+A multi-player game, with several human players completing against each other on a single map.	여러 사람이 지도 하나에서 서로 겨루는 게임입니다.
+Hot Seat	핫 시트
+Play a Hot Seat game, where 2 to 6 players play around the same computer, switching into the 'Hot Seat' when it is their turn.	2~6명이 컴퓨터 한 대를 둘러앉아, 자기 차례가 되면 '핫 시트'에 앉아 플레이합니다.
+Cancel back to the main menu.	주 메뉴로 돌아갑니다.
+Welcome to Heroes of Might and Magic II powered by fheroes2 engine!	fheroes2 엔진으로 돌아가는 히어로즈 오브 마이트 앤 매직 II에 오신 것을 환영합니다!
+\n\nTo simulate a right-click with a touch to get info on various items, you need to first touch and keep touching on the item of interest and then touch anywhere else on the screen. While holding the second finger, you can remove the first one from the screen and keep viewing the information on the item.	\n\n터치로 오른쪽 클릭처럼 정보를 보려면, 보고 싶은 것을 누른 채로 화면 아무 데나 한 번 더 누르세요. 두 번째 손가락을 누르고 있는 동안에는 첫 손가락을 떼도 정보가 계속 보입니다.
+\n\nBefore starting the game, please select a game resolution.	\n\n게임을 시작하기 전에 화면 해상도를 골라 주세요.
+Greetings!	반갑습니다!
+Quit Heroes of Might and Magic II and return to the operating system.	히어로즈 오브 마이트 앤 매직 II를 끝내고 운영 체제로 돌아갑니다.
+Credits	만든 사람들
+View the credits screen.	만든 사람들 화면을 봅니다.
+View the high scores screen.	최고 점수 화면을 봅니다.
+Create new or modify existing maps.	새 지도를 만들거나 있는 지도를 고칩니다.
+Change language, resolution and settings of the game.	게임의 언어, 해상도, 설정을 바꿉니다.
+Game Settings	게임 설정
+The required video files for the campaign selection window are missing. Please make sure that all necessary files are present in the system.	캠페인 고르기 창에 필요한 영상 파일이 없습니다. 필요한 파일이 모두 있는지 확인해 주세요.
+Loading video. Please wait...	영상을 불러오는 중입니다. 잠시 기다려 주세요...
+fheroes2 needs data files from the original Heroes of Might and Magic II to operate. You appear to be using the demo version of Heroes of Might and Magic II for this purpose. Please note that only one scenario will be available in this setup.	fheroes2를 돌리려면 원작 히어로즈 오브 마이트 앤 매직 II의 데이터 파일이 필요합니다. 지금은 체험판 데이터를 쓰고 있는 것 같습니다. 이 경우 시나리오는 하나만 할 수 있습니다.
+A multi-player game, with several human players competing against each other on a single map.	여러 사람이 지도 하나에서 서로 겨루는 게임입니다.
+Setup and play a battle without loading any map.	지도 없이 전투만 차려서 해 봅니다.
+2 Players	2명
+Play with 2 human players, and optionally, up to 4 additional computer players.	사람 2명이 하고, 원하면 컴퓨터를 4명까지 더할 수 있습니다.
+3 Players	3명
+Play with 3 human players, and optionally, up to 3 additional computer players.	사람 3명이 하고, 원하면 컴퓨터를 3명까지 더할 수 있습니다.
+4 Players	4명
+Play with 4 human players, and optionally, up to 2 additional computer players.	사람 4명이 하고, 원하면 컴퓨터를 2명까지 더할 수 있습니다.
+5 Players	5명
+Play with 5 human players, and optionally, up to 1 additional computer player.	사람 5명이 하고, 원하면 컴퓨터를 1명 더할 수 있습니다.
+6 Players	6명
+Play with 6 human players.	사람 6명이 합니다.
+Original Campaign	원작 캠페인
+Either Roland's or Archibald's campaign from the original Heroes of Might and Magic II.	원작 히어로즈 오브 마이트 앤 매직 II의 롤랜드 또는 아치볼드 캠페인입니다.
+Expansion Campaign	확장팩 캠페인
+One of the four new campaigns from the Price of Loyalty expansion set.	충성의 대가 확장팩의 새 캠페인 네 개 가운데 하나입니다.
+Play a Hot Seat game, where 2 to 6 players play on the same device, switching into the 'Hot Seat' when it is their turn.	2~6명이 기기 하나로, 자기 차례가 되면 '핫 시트'에 앉아 플레이합니다.
+Dragon city has fallen! You are now the Master of the Dragons.	용의 도시가 함락되었습니다! 이제 당신이 용들의 주인입니다.
+You captured %{name}!\nYou are victorious.	%{name}을(를) 점령했습니다!\n당신이 이겼습니다.
+You have captured the enemy hero %{name}!\nYour quest is complete.	적 영웅 %{name}을(를) 붙잡았습니다!\n임무를 마쳤습니다.
+You have found the %{name}.\nYour quest is complete.	%{name}을(를) 찾았습니다.\n임무를 마쳤습니다.
+Ultimate Artifact	궁극의 아티팩트
+The enemy is beaten.\nYour side has triumphed!	적을 물리쳤습니다.\n당신 편이 이겼습니다!
+You have built up over %{count} gold in your treasury.\nAll enemies bow before your wealth and power.	금고에 금 %{count} 이상을 모았습니다.\n모든 적이 당신의 부와 힘 앞에 고개를 숙입니다.
+Victory!	승리!
+The enemy has captured %{name}!\nThey are triumphant.	적이 %{name}을(를) 점령했습니다!\n적이 이겼습니다.
+The enemy has found the %{name}.\nYour quest is a failure.	적이 %{name}을(를) 찾았습니다.\n임무에 실패했습니다.
+The enemy has built up over %{count} gold in his treasury.\nYou must bow done in defeat before his wealth and power.	적이 금고에 금 %{count} 이상을 모았습니다.\n당신은 적의 부와 힘 앞에 무릎을 꿇어야 합니다.
+You have been eliminated from the game!!!	게임에서 탈락했습니다!!!
+You have lost the hero %{name}.\nYour quest is over.	영웅 %{name}을(를) 잃었습니다.\n임무가 끝났습니다.
+You have failed to complete your quest in time.\nAll is lost.	정해진 때까지 임무를 마치지 못했습니다.\n모든 것을 잃었습니다.
+Defeat!	패배!
+Base score: %{score}\nDifficulty: %{difficulty}\n\n	기본 점수: %{score}\n난이도: %{difficulty}\n\n
+Defeat all enemy heroes and capture all enemy towns and castles.	적 영웅을 모두 물리치고 적의 마을과 성을 모두 점령합니다.
+Your side defeats the opposing side.	당신 편이 상대편을 물리칩니다.
+Run out of time. (Fail to win by a certain point.)	시간이 다 됩니다. (정해진 때까지 이기지 못함)
+You must defeat the enemy %{enemies}.	적 %{enemies}을(를) 물리쳐야 합니다.
+You must defeat the enemy alliance of %{enemies}.	적 동맹 %{enemies}을(를) 물리쳐야 합니다.
+The alliance consisting of %{allies} and you must defeat the enemy %{enemies}.	%{allies}와(과) 당신의 동맹이 적 %{enemies}을(를) 물리쳐야 합니다.
+The alliance consisting of %{allies} and you must defeat the enemy alliance of %{enemies}.	%{allies}와(과) 당신의 동맹이 적 동맹 %{enemies}을(를) 물리쳐야 합니다.
+Capture the castle '%{name}'.	'%{name}' 성을 점령합니다.
+Capture the town '%{name}'.	'%{name}' 마을을 점령합니다.
+Defeat the hero '%{name}'.	영웅 '%{name}'을(를) 물리칩니다.
+Find the ultimate artifact.	궁극의 아티팩트를 찾습니다.
+Find the '%{name}' artifact.	'%{name}' 아티팩트를 찾습니다.
+Accumulate %{count} gold.	금 %{count}을(를) 모읍니다.
+, or you may win by defeating all enemy heroes and capturing all enemy towns and castles.	. 또는 적 영웅을 모두 물리치고 적의 마을과 성을 모두 점령해도 이깁니다.
+Lose the castle '%{name}'.	'%{name}' 성을 잃습니다.
+Lose the town '%{name}'.	'%{name}' 마을을 잃습니다.
+Lose the hero: %{name}.	영웅을 잃습니다: %{name}.
+Fail to win by the end of month %{month}, week %{week}, day %{day}.	%{month}달 %{week}주 %{day}일이 끝날 때까지 이기지 못합니다.
+%{color} player has been vanquished!	%{color} 플레이어가 패배했습니다!
+Major Event!	큰 사건!
+Scenario:	시나리오:
+Game Difficulty:	게임 난이도:
+Opponents:	상대:
+Class:	종족:
+Rating %{rating}%	평가 %{rating}%
+Click here to select which scenario to play.	여기를 눌러 플레이할 시나리오를 고릅니다.
+Scenario	시나리오
+Game Difficulty	게임 난이도
+This lets you change the starting difficulty at which you will play. Higher difficulty levels start you off with fewer resources, and at the higher settings, give extra resources to the computer.	시작 난이도를 바꿉니다. 난이도가 높을수록 자원을 적게 들고 시작하며, 높은 난이도에서는 컴퓨터가 자원을 더 받습니다.
+Difficulty Rating	난이도 평가
+The difficulty rating reflects a combination of various settings for your game. This number will be applied to your final score.	난이도 평가는 게임의 여러 설정을 합쳐 나타낸 것입니다. 이 수가 최종 점수에 반영됩니다.
+Click to accept these settings and start a new game.	누르면 이 설정으로 새 게임을 시작합니다.
+Click to return to the main menu.	누르면 주 메뉴로 돌아갑니다.
+The map is corrupted or doesn't exist.	지도가 망가졌거나 없습니다.
+Astrologers proclaim the Month of the %{name}.	점성술사들이 %{name}의 달을 선포합니다.
+New Month!	새 달!
+Astrologers proclaim the Week of the %{name}.	점성술사들이 %{name}의 주를 선포합니다.
+New Week!	새 주!
+After regular growth, the population of %{monster} is doubled!	평소대로 늘어난 뒤, %{monster}의 수가 두 배가 됩니다!
+After regular growth, the population of %{monster} increases by %{count} percent!	평소대로 늘어난 뒤, %{monster}의 수가 %{count}% 더 늘어납니다!
+%{monster} growth +%{count}.	%{monster} 증가 +%{count}.
+All populations are halved.	모든 주거지의 수가 절반이 됩니다.
+All dwellings increase population.	모든 주거지의 수가 늘어납니다.
+Beware!	조심하세요!
+%{color} player, this is your last day to capture a town, or you will be banished from this land.	%{color} 플레이어, 오늘이 마을을 점령할 마지막 날입니다. 그러지 못하면 이 땅에서 쫓겨납니다.
+%{color} player, you only have %{day} days left to capture a town, or you will be banished from this land.	%{color} 플레이어, 마을을 점령할 날이 %{day}일밖에 남지 않았습니다. 그러지 못하면 이 땅에서 쫓겨납니다.
+%{color} player's turn.	%{color} 플레이어의 차례입니다.
+%{color} player, you have lost your last town. If you do not conquer another town in the next week, you will be eliminated.	%{color} 플레이어, 마지막 마을을 잃었습니다. 일주일 안에 다른 마을을 점령하지 못하면 탈락합니다.
+%{color} player, your heroes abandon you, and you are banished from this land.	%{color} 플레이어, 영웅들이 당신을 떠나고, 당신은 이 땅에서 쫓겨납니다.
+Day: %{day} Week: %{week} Month: %{month}	%{month}달 %{week}주 %{day}일
+Lord Kilburn	킬번 경
+Tsabu	차부
+Sir Galant	갤런트 경
+Thundax	선닥스
+Lord Haart	하트 경
+Ariel	아리엘
+Rebecca	레베카
+Sandro	산드로
+Crodo	크로도
+Barock	바록
+Antoine	앙투안
+Astra	아스트라
+Agar	아가르
+Vatawna	바타와나
+Vesper	베스퍼
+Ambrose	앰브로즈
+Troyan	트로이안
+Jojosh	조조시
+Wrathmont	래스몬트
+Maximus	막시무스

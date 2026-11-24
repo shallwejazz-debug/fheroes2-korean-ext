@@ -1,0 +1,330 @@
+# 지도 편집기 (editor/)
+Random Castle Name	무작위 성 이름
+Random Town Name	무작위 마을 이름
+BANNED SPELLS	금지 마법
+Click to accept the changes made.	누르면 바꾼 것을 받아들입니다.
+Exit this dialog, discarding the changes made.	바꾼 것을 버리고 이 창을 나갑니다.
+Click to ban spells from appearing in the Mage Guild.	누르면 마법 길드에 나오지 않을 마법을 정합니다.
+Banned Spells	금지 마법
+Select spells that will appear in the Mage Guild.	마법 길드에 나올 마법을 고릅니다.
+SET SPELLS	마법 정하기
+Allow Castle build	성 짓기 허용
+Default Buildings	기본 건물
+RESTRICT	제한
+Default Army	기본 부대
+Castle Army	성 부대
+Town Army	마을 부대
+You have unsaved changes. Do you wish to proceed?	저장하지 않은 바뀐 것이 있습니다. 계속하시겠습니까?
+Click to change the Castle name.	누르면 성 이름을 바꿉니다.
+Enter Castle name:	성 이름 넣기:
+Reset the Castle name.	성 이름을 되돌립니다.
+Allow to build a castle in this town.	이 마을에 성을 지을 수 있게 합니다.
+Toggle the use of default buildings. Custom buildings will be reset!	기본 건물을 쓸지 정합니다. 직접 정한 건물은 초기화됩니다!
+Toggle building construction restriction mode.	건물 짓기 제한 모드를 켜고 끕니다.
+Restrict Building Construction	건물 짓기 제한
+Use default defenders army.	기본 수비 부대를 씁니다.
+Reset the army.	부대를 되돌립니다.
+Set custom Castle Army.	성 부대를 직접 정합니다.
+Set spells to appear in the Mage Guild.	마법 길드에 나올 마법을 정합니다.
+Set Spells	마법 정하기
+Castle Settings	성 설정
+Message Text:	알림 글:
+Reward:	보상:
+Player colors allowed to get event:	이벤트를 받을 수 있는 플레이어 색:
+Computer colors allowed to get event:	이벤트를 받을 수 있는 컴퓨터 색:
+First day of occurrence:	처음 일어나는 날:
+Repeat period (days):	반복 주기(일):
+Allow %{color} human player to get event	%{color} 사람 플레이어가 이벤트를 받음
+If this checkbox is checked, this event will trigger for the %{color} player if they are controlled by a human.	이 칸에 표시하면 %{color} 플레이어를 사람이 조작할 때 이 이벤트가 일어납니다.
+Allow %{color} computer player to get event	%{color} 컴퓨터 플레이어가 이벤트를 받음
+If this checkbox is checked, this event will trigger for the %{color} player if they are controlled by a computer.	이 칸에 표시하면 %{color} 플레이어를 컴퓨터가 조작할 때 이 이벤트가 일어납니다.
+Set %{resource-type} Count:	%{resource-type} 양 정하기:
+Message:	알림:
+Click to save the Event properties.	누르면 이벤트 설정을 저장합니다.
+No resources will be given as a reward.	보상으로 자원을 주지 않습니다.
+Resources	자원
+Resources will be given as a reward.	보상으로 자원을 줍니다.
+Click here to change the event message.	여기를 눌러 이벤트 알림을 바꿉니다.
+Event Message Text	이벤트 알림 글
+Day: %{day}	%{day}일
+Daily events:	날짜 이벤트:
+Click to save the events.	누르면 이벤트를 저장합니다.
+Add Event	이벤트 더하기
+Add an additional event.	이벤트를 하나 더합니다.
+Edit Event	이벤트 고치기
+Edit an existing event.	있는 이벤트를 고칩니다.
+Delete Event	이벤트 지우기
+Delete an existing event.	있는 이벤트를 지웁니다.
+Effects:	효과:
+Conditions:	조건:
+Cancel event after first visit	처음 방문 뒤 이벤트 없애기
+Computer colors allowed to get the event:	이벤트를 받을 수 있는 컴퓨터 색:
+Set Experience value:	경험치 정하기:
+Artifact	아티팩트
+No artifact will be given by the event.	이벤트로 아티팩트를 주지 않습니다.
+Delete Artifact	아티팩트 지우기
+Delete an artifact from the event.	이벤트에서 아티팩트를 지웁니다.
+No Secondary Skill will be given by the event.	이벤트로 보조 기술을 주지 않습니다.
+Secondary Skill	보조 기술
+Delete Secondary Skill	보조 기술 지우기
+Delete the Secondary Skill from the event.	이벤트에서 보조 기술을 지웁니다.
+No resources will be part of this event.	이 이벤트에는 자원이 없습니다.
+These resources will be a part of the event.	이 자원이 이벤트에 들어갑니다.
+If this checkbox is checked, the event will trigger only once. If not checked, the event will trigger every time one of the specified players crosses the event tile.	이 칸에 표시하면 이벤트가 한 번만 일어납니다. 표시하지 않으면 정한 플레이어가 이벤트 칸을 지날 때마다 일어납니다.
+Click to make selection.	누르면 고릅니다.
+SELECT	고르기
+%{objects} cannot be placed on water.	%{objects}은(는) 물 위에 놓을 수 없습니다.
+The Ultimate Artifact can only be placed on terrain where digging is possible.	궁극의 아티팩트는 땅을 팔 수 있는 곳에만 놓을 수 있습니다.
+%{objects} must be placed on water.	%{objects}은(는) 물 위에 놓아야 합니다.
+Action objects cannot be placed outside the map.	방문 오브젝트는 지도 밖에 놓을 수 없습니다.
+Action objects must be placed on clear tiles.	방문 오브젝트는 빈 칸에 놓아야 합니다.
+A maximum of %{count} %{objects} can be placed on the map.	%{objects}은(는) 지도에 %{count}개까지 놓을 수 있습니다.
+To exit fheroes2, press the Home button or swipe up. (Any unsaved changes to the current map will be lost.)	fheroes2를 끝내려면 홈 버튼을 누르거나 위로 쓸어 올리세요. (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Are you sure you want to quit? (Any unsaved changes to the current map will be lost.)	정말 끝내시겠습니까? (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Not able to generate a map with given parameters.	이 설정으로는 지도를 만들 수 없습니다.
+Do you wish to return to the game's Main Menu? All unsaved changes will be lost.	게임 주 메뉴로 돌아가시겠습니까? 저장하지 않은 내용은 모두 사라집니다.
+Editor	편집기
+Are you sure you want to load a new map? (Any unsaved changes to the current map will be lost.)	정말 다른 지도를 불러오시겠습니까? (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Are you sure you want to create a new map? (Any unsaved changes to the current map will be lost.)	정말 새 지도를 만드시겠습니까? (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Main Menu	주 메뉴
+Do you wish to return to the game's Main Menu? (Any unsaved changes to the current map will be lost.)	게임 주 메뉴로 돌아가시겠습니까? (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Start Map	지도 시작
+Do you wish to leave the Editor and start the map? (Any unsaved changes to the current map will be lost.)	편집기를 나가 지도를 시작하시겠습니까? (지금 지도의 저장하지 않은 내용은 사라집니다.)
+Create a new map, either from scratch or using the random map generator.	빈 지도에서 시작하거나 무작위 지도 만들기로 새 지도를 만듭니다.
+New Map	새 지도
+Load Map	지도 불러오기
+Load an existing map.	있는 지도를 불러옵니다.
+Save Map	지도 저장
+Save the current map.	지금 지도를 저장합니다.
+Quit out of the map editor.	지도 편집기를 끝냅니다.
+Auto Playtest	자동 시험 플레이
+Run an automatic playtest of the map.	지도를 자동으로 시험 플레이합니다.
+Return to the game's Main Menu.	게임 주 메뉴로 돌아갑니다.
+Leave the Editor and play the map in the Standard Game mode.	편집기를 나가 일반 게임으로 지도를 플레이합니다.
+Input %{object} text:	%{object} 글 넣기:
+Set Random Ultimate Artifact Radius:	무작위 궁극의 아티팩트 반경 정하기:
+%{object} has no properties to change.	%{object}에는 바꿀 설정이 없습니다.
+This artifact	이 아티팩트
+The total number of obelisks is %{count}.	오벨리스크는 모두 %{count}개입니다.
+There are no players on the map, so no one can own this object.	지도에 플레이어가 없어 아무도 이 오브젝트를 가질 수 없습니다.
+Roads	길
+Streams	개울
+A maximum of %{count} heroes including jailed heroes can be placed on the map.	감옥에 갇힌 영웅을 포함해 영웅은 지도에 %{count}명까지 놓을 수 있습니다.
+A maximum of %{count} heroes of the same color can be placed on the map.	같은 색 영웅은 지도에 %{count}명까지 놓을 수 있습니다.
+Failed to update player information.	플레이어 정보를 바꾸지 못했습니다.
+Only one Random Ultimate Artifact can be placed on the map.	무작위 궁극의 아티팩트는 지도에 하나만 놓을 수 있습니다.
+A maximum of %{count} obelisks can be placed on the map.	오벨리스크는 지도에 %{count}개까지 놓을 수 있습니다.
+The same object exists on the tile.	그 칸에 같은 오브젝트가 있습니다.
+The map is corrupted.	지도가 망가졌습니다.
+Unable to locate data directory to save the map.	지도를 저장할 데이터 폴더를 찾을 수 없습니다.
+Unable to create a directory to save the map.	지도를 저장할 폴더를 만들 수 없습니다.
+Unable to locate a directory to save the map.	지도를 저장할 폴더를 찾을 수 없습니다.
+Are you sure you want to overwrite the existing map?	정말 있는 지도에 덮어쓰시겠습니까?
+Map saved to: 	지도를 저장한 곳:
+Failed to save the map.	지도를 저장하지 못했습니다.
+The selected object has been moved to the top layer.	고른 오브젝트를 맨 위 층으로 옮겼습니다.
+Unsaved Changes	저장하지 않은 내용
+This map has either terrain changes, undo history or has not yet been saved to a file.\n\nDo you wish to save the current map?	이 지도는 지형이 바뀌었거나, 되돌리기 기록이 있거나, 아직 파일로 저장하지 않았습니다.\n\n지금 지도를 저장하시겠습니까?
+This map is not playable. You need at least one human player for the map to be playable.	이 지도는 플레이할 수 없습니다. 사람 플레이어가 적어도 한 명 있어야 합니다.
+Unplayable Map	플레이할 수 없는 지도
+Used to place %{object}.	%{object}을(를) 놓을 때 씁니다.
+Select object type	오브젝트 종류 고르기
+Click here to\nselect a monster.	여기를 눌러\n크리처를 고르세요.
+Click here to\nselect another monster.	여기를 눌러\n다른 크리처를 고르세요.
+Erase	지우기
+Mountains	산
+Rocks	바위
+Trees	나무
+Water Objects	물 오브젝트
+Miscellaneous	기타
+Artifacts	아티팩트
+Dwellings	주거지
+Mines	광산
+Power-ups	능력 강화
+Treasures	보물
+Heroes	영웅
+Towns	마을
+editorDetailMode|Edit	고치기
+editorDetailMode|Move	옮기기
+editorDetailMode|Copy	베끼기
+editorErasure|Mountains	산
+editorErasure|Rocks	바위
+editorErasure|Trees	나무
+editorErasure|Miscellaneous and Water landscape objects	기타, 물 풍경 오브젝트
+editorErasure|Adventure non pickable objects	집을 수 없는 모험 오브젝트
+editorErasure|Castles	성
+editorErasure|Adventure pickable objects	집을 수 있는 모험 오브젝트
+editorErasure|Monsters	괴물
+editorErasure|Heroes	영웅
+editorErasure|Roads	길
+editorErasure|Streams	개울
+Draws terrain in\n%{size} by %{size} square increments.	지형을\n%{size} x %{size}칸씩 그립니다.
+Erases objects in\n%{size} by %{size} square increments.	오브젝트를\n%{size} x %{size}칸씩 지웁니다.
+Small Brush	작은 붓
+Medium Brush	보통 붓
+Large Brush	큰 붓
+Area Fill	영역 채우기
+Used to click and drag for filling in large areas.	눌러서 끌면 넓은 곳을 채웁니다.
+Clear Area	영역 비우기
+Used to click and drag for clearing large areas.	눌러서 끌면 넓은 곳을 비웁니다.
+Costs %{rate} times normal movement for all heroes. (Pathfinding reduces or eliminates the penalty.)	모든 영웅의 이동 비용이 보통의 %{rate}배입니다. (길찾기가 불이익을 줄이거나 없앱니다.)
+Traversable only by boat.	배로만 지나갈 수 있습니다.
+No special modifiers.	특별한 효과 없음.
+Edit objects on the Adventure Map.	모험 지도의 오브젝트를 고칩니다.
+Move objects on the Adventure Map.	모험 지도의 오브젝트를 옮깁니다.
+Copy objects on the Adventure Map.	모험 지도의 오브젝트를 베낍니다.
+Toggle the erasure of %{type} objects.	%{type} 오브젝트를 지울지 정합니다.
+Objects of this type will be deleted with the Erase tool. Left-click here to deselect this type. Press and hold this button to deselect all other object types.	이 종류의 오브젝트는 지우개로 지워집니다. 왼쪽 클릭하면 이 종류를 뺍니다. 길게 누르면 다른 종류를 모두 뺍니다.
+Objects of this type will NOT be deleted with the Erase tool. Left-click here to select this type. Press and hold this button to select all other object types.	이 종류의 오브젝트는 지우개로 지워지지 않습니다. 왼쪽 클릭하면 이 종류를 넣습니다. 길게 누르면 다른 종류를 모두 넣습니다.
+Terrain Mode	지형 모드
+Used to draw the underlying grass, dirt, water, etc. on the map.	지도 바닥의 풀밭, 흙땅, 물 등을 그립니다.
+Landscape Objects Mode	풍경 오브젝트 모드
+Used to place landscape objects (mountains, rocks, trees, etc.) on the map.	지도에 풍경 오브젝트(산, 바위, 나무 등)를 놓습니다.
+Detail Mode	세부 모드
+Used for moving or customizing objects.	오브젝트를 옮기거나 설정합니다.
+Adventure Objects Mode	모험 오브젝트 모드
+Used to place adventure objects (artifacts, dwellings, mines, treasures, etc.) on the map.	지도에 모험 오브젝트(아티팩트, 주거지, 광산, 보물 등)를 놓습니다.
+Kingdom Objects Mode	왕국 오브젝트 모드
+Used to place kingdom objects (towns, castles and heroes) on the map.	지도에 왕국 오브젝트(마을, 성, 영웅)를 놓습니다.
+Monsters Mode	괴물 모드
+Used to place monsters on the map.	지도에 괴물을 놓습니다.
+Allows you to draw streams by clicking and dragging.	눌러서 끌면 개울을 그립니다.
+Stream Mode	개울 모드
+Allows you to draw roads by clicking and dragging.	눌러서 끌면 길을 그립니다.
+Road Mode	길 모드
+Erase Mode	지우개 모드
+Used to erase objects from the map.	지도의 오브젝트를 지웁니다.
+Change between zoom and normal view.	확대 보기와 보통 보기를 바꿉니다.
+Magnify	확대
+Undo	되돌리기
+Undo your last action.	마지막 동작을 되돌립니다.
+Redo	다시 하기
+Redo the last undone action.	되돌린 동작을 다시 합니다.
+Edit map title, description, and other general information.	지도 제목, 설명 같은 일반 정보를 고칩니다.
+Specifications	지도 정보
+File Options	파일 설정
+Open the file options menu, where you can save or load maps, or quit out of the editor.	파일 설정 창을 엽니다. 지도를 저장하거나 불러오고, 편집기를 끝낼 수 있습니다.
+View the editor system options, which let you customize the editor.	편집기 시스템 설정을 엽니다. 편집기를 원하는 대로 바꿀 수 있습니다.
+Supported languages:	지원 언어:
+Language	언어
+This language already exists in the list.	이 언어는 이미 목록에 있습니다.
+A map should have at least one language.	지도에는 언어가 적어도 하나 있어야 합니다.
+Click to apply changes.	누르면 바꾼 것을 적용합니다.
+Add Language	언어 더하기
+Add an additional language.	언어를 하나 더합니다.
+Delete Language	언어 지우기
+Delete an existing language.	있는 언어를 지웁니다.
+Failed to generate a random map with given parameters.	이 설정으로는 무작위 지도를 만들지 못했습니다.
+Exit the Editor and return to the game's Main Menu.	편집기를 나가 게임 주 메뉴로 돌아갑니다.
+From Scratch	빈 지도로
+Start from scratch with a blank map.	빈 지도에서 시작합니다.
+Create a randomly generated map.	무작위로 지도를 만듭니다.
+Random	무작위
+Back	뒤로
+Return to the Editor's main menu options.	편집기 주 메뉴로 돌아갑니다.
+Generate a random map that is %{size} squares wide and %{size} squares high.	가로 %{size}칸, 세로 %{size}칸의 무작위 지도를 만듭니다.
+Create a map that is %{size} squares wide and %{size} squares high.	가로 %{size}칸, 세로 %{size}칸의 지도를 만듭니다.
+Return to the previous menu options.	앞 메뉴로 돌아갑니다.
+No maps available!	지도가 없습니다!
+[%{pos}]: %{race} hero	[%{pos}]: %{race} 영웅
+[%{pos}]: %{name}, %{race} hero	[%{pos}]: %{name}, %{race} 영웅
+[%{pos}]: %{race} castle	[%{pos}]: %{race} 성
+[%{pos}]: %{race} town	[%{pos}]: %{race} 마을
+[%{pos}]: %{name}, %{race} castle	[%{pos}]: %{name}, %{race} 성
+[%{pos}]: %{name}, %{race} town	[%{pos}]: %{name}, %{race} 마을
+None.	없음.
+One side defeats the other.	한쪽이 다른 쪽을 물리칩니다.
+Accumulate gold.	금을 모읍니다.
+Run out of time.	시간이 다 됩니다.
+alliance|1st	첫째
+alliance|2nd	둘째
+alliance|3rd	셋째
+alliance|4th	넷째
+alliance|5th	다섯째
+Special Loss Condition	특별 패배 조건
+Special Victory Condition	특별 승리 조건
+Allow standard victory conditions	기본 승리 조건도 허용
+Allow this condition also for AI	컴퓨터에게도 이 조건 허용
+Set alliances:	동맹 정하기:
+{%number} alliance: 	{%number} 동맹:
+Gold:	금:
+Select a Town to capture to achieve victory	점령하면 이기는 마을 고르기
+Click here to change the town needed to capture to achieve victory.	여기를 눌러 점령하면 이기는 마을을 바꿉니다.
+Select a Hero to defeat to achieve victory	물리치면 이기는 영웅 고르기
+Click here to change the hero needed to defeat to achieve victory.	여기를 눌러 물리치면 이기는 영웅을 바꿉니다.
+Put %{color} player in the %{alliance} alliance	%{color} 플레이어를 %{alliance} 동맹에 넣기
+If this checkbox is checked, the %{color} player will be in the %{alliance} alliance.	이 칸에 표시하면 %{color} 플레이어가 %{alliance} 동맹에 들어갑니다.
+Days:	날 수:
+Select a Town to lose to suffer defeat	잃으면 지는 마을 고르기
+Click here to change the town whose loss would mean defeat.	여기를 눌러 잃으면 지는 마을을 바꿉니다.
+Select a Hero to lose to suffer defeat	잃으면 지는 영웅 고르기
+Click here to change the hero whose loss would mean defeat.	여기를 눌러 잃으면 지는 영웅을 바꿉니다.
+Map Difficulty	지도 난이도
+RUMORS	소문
+EVENTS	이벤트
+LANGUAGE	언어
+map|ABOUT	소개
+Change Map Name:	지도 이름 바꾸기:
+Change Map Description:	지도 설명 바꾸기:
+map|About	소개
+Click to edit custom rumors.	누르면 소문을 고칩니다.
+Rumors	소문
+Click to edit daily events.	누르면 날짜 이벤트를 고칩니다.
+Events	이벤트
+Click to change the language of the map.	누르면 지도 언어를 바꿉니다.
+Click to edit notes from the map creator. These notes are optional and do not appear during gameplay.	누르면 지도 제작자 메모를 고칩니다. 메모는 넣지 않아도 되고 게임 중에는 나오지 않습니다.
+Click to change your map name.	누르면 지도 이름을 바꿉니다.
+Map Name	지도 이름
+Click to change the description of the current map.	누르면 지금 지도의 설명을 바꿉니다.
+Click to change the victory condition of the current map.	누르면 지금 지도의 승리 조건을 바꿉니다.
+Click to change the loss condition of the current map.	누르면 지금 지도의 패배 조건을 바꿉니다.
+Indicates the player types in the scenario. Click to change.	시나리오의 플레이어 종류입니다. 누르면 바꿉니다.
+Player Type	플레이어 종류
+Click to set map difficulty. More difficult maps might include more or stronger enemies, fewer resources, or other special conditions making things tougher for the human player.	누르면 지도 난이도를 정합니다. 어려운 지도일수록 적이 많거나 강하고, 자원이 적거나, 사람 플레이어에게 불리한 다른 조건이 있을 수 있습니다.
+editor|%{object}\n(%{color} player)	%{object}\n(%{color} 플레이어)
+editor|%{count} %{resource}	%{resource} %{count}
+Animation	움직임
+Passability	지나갈 수 있는 곳
+Toggle animation of the objects.	오브젝트의 움직임을 켜고 끕니다.
+Toggle display of objects' passability.	오브젝트의 지나갈 수 있는 곳을 보이거나 숨깁니다.
+Rumors:	소문:
+Rumor:	소문:
+Rumor	소문
+This rumor already exists in the list.	이 소문은 이미 목록에 있습니다.
+Click to save the rumors.	누르면 소문을 저장합니다.
+Add Rumor	소문 더하기
+Add an additional rumor.	소문을 하나 더합니다.
+Edit Rumor	소문 고치기
+Edit an existing rumor.	있는 소문을 고칩니다.
+Delete Rumor	소문 지우기
+Delete an existing rumor.	있는 소문을 지웁니다.
+\n\nLanguage:\n	\n\n언어:\n
+\n\nSize: 	\n\n크기:
+\n\nDescription: 	\n\n설명:
+Save Map:	지도 저장:
+Click to save the current map.	누르면 지금 지도를 저장합니다.
+Click to enable all secondary skills.	누르면 보조 기술을 모두 켭니다.
+Enable All Secondary Skills	보조 기술 모두 켜기
+Click to disable all secondary skills.	누르면 보조 기술을 모두 끕니다.
+Disable All Secondary Skills	보조 기술 모두 끄기
+Click to show only level %{level} spells.	누르면 %{level}단계 마법만 봅니다.
+Spells level	마법 단계
+Click to enable all spells.	누르면 마법을 모두 켭니다.
+Enable All Spells	마법 모두 켜기
+Click to disable all spells.	누르면 마법을 모두 끕니다.
+Disable All Spells	마법 모두 끄기
+Riddle:	수수께끼:
+Answers:	답:
+Answer:	답:
+Answer	답
+This answer exists in the list.	이 답은 이미 목록에 있습니다.
+Click to save the Sphinx properties.	누르면 스핑크스 설정을 저장합니다.
+Add Answer	답 더하기
+Add an additional answer for the question.	수수께끼에 답을 하나 더합니다.
+Edit Answer	답 고치기
+Edit an existing answer for the question.	있는 답을 고칩니다.
+Delete Answer	답 지우기
+Delete an existing answer for the question.	있는 답을 지웁니다.
+Riddle	수수께끼
+No artifact will be given as a reward.	보상으로 아티팩트를 주지 않습니다.
+Delete an artifact from the reward.	보상에서 아티팩트를 지웁니다.

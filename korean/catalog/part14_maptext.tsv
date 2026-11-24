@@ -1,0 +1,351 @@
+# 원작 지도·캠페인 안의 글 (주인 2026-11-18 18:29). 원문 목록 maptext_source.tsv (h2korean/tools/extract_map_text.py). 지도 이름·설명은 뺌, 컴퓨터 전용 날짜 이벤트(fedx 등)·빈 글은 번역 안 함
+# BELTWAY.MP2:bottle
+Beware the edge of the world!	세상의 끝을 조심하라!
+# BELTWAY.MP2:bottle
+Look out!	조심하라!
+# BELTWAY.MP2:event
+Congratulations! After navigating the treacherous coast, you have established trade between the north and south.	축하합니다! 험한 해안을 지나 북쪽과 남쪽 사이에 교역로를 열었습니다.
+# BELTWAY.MP2:riddle
+What turns everything around but does not move?	움직이지 않으면서 모든 것을 돌려놓는 것은?
+# BELTWAY.MP2:day
+Reinforcements have arrived, Gold from the homelands!	지원군이 도착했습니다. 고향에서 금을 보내왔습니다!
+# BELTWAY.MP2:event
+You found something!	무언가를 찾았습니다!
+# BELTWAY.MP2:sign
+Beware the moors and stick to the roads.	황무지를 조심하고 길로만 다녀라.
+# BROKENA.MP2:rumor
+The wizard has an island in the southeast.	위저드의 섬이 남동쪽에 있다고 합니다.
+# BROKENA.MP2:rumor
+The center island is rumored to harbor great spells.	가운데 섬에 강력한 마법이 숨겨져 있다는 소문이 있습니다.
+# BROKENA.MP2:rumor
+Watch out for Purple!	보라를 조심하십시오!
+# CAMPE01.H2C:day
+You face three opponents in this scenario. Capture their castles and their heroes to prove your worthiness to Archibald.	이 시나리오에서는 적 셋과 맞섭니다. 그들의 성과 영웅을 모두 손에 넣어 아치볼드에게 실력을 증명하십시오.
+# CAMPE02.H2C:day
+Well placed bribes have won you a stronghold near the warring Barbarians. Be advised that given their proximity an unguarded castle is an open invitation to defeat.	적절한 뇌물 덕분에 서로 싸우고 있는 바바리안들 가까이에 거점을 얻었습니다. 적이 가까이 있으니, 지키지 않는 성은 패배를 부르는 꼴이라는 것을 명심하십시오.
+# CAMPE03.H2C:day
+The Wizards who have captured the Necromancers' town have wasted no time in building defenses designed to stop you, and their last castle has just been completed. Fortunately only a Captain of the Guard and a small garrison are currently present.  If you hurry, you should be able to capture the castle before they have a chance to reinforce it!	네크로맨서의 마을을 빼앗은 위저드들이 곧바로 당신을 막을 방어 시설을 짓기 시작했고, 마지막 성이 방금 완공되었습니다. 다행히 지금은 경비대장과 적은 수비대만 있습니다. 서두르면 적이 병력을 보강하기 전에 성을 빼앗을 수 있을 것입니다!
+# CAMPE04.H2C:sign
+Danger, Dragons abound!	위험, 용이 우글거림!
+# CAMPE04.H2C:sign
+Dwarf Hall, domain of the dwarf King.	드워프 홀, 드워프 왕의 영지.
+# CAMPE04.H2C:day
+Scouts report the enemy's stronghold lies to the Southwest. Our swift arrival has caught them by surprise. If you move quickly their resistance will be minimal.	정찰병이 적의 거점이 남서쪽에 있다고 보고합니다. 우리가 재빨리 도착해 적이 허를 찔렸습니다. 빨리 움직이면 저항은 미미할 것입니다.
+# CAMPE05.H2C:sign
+Long live Roland the true King!	진정한 왕 롤랜드 만세!
+# CAMPE05.H2C:day
+One of your "Allies" has joined Roland. You are now facing three castles, all belonging to the enemy. Good luck!	당신의 "동맹" 하나가 롤랜드 편에 붙었습니다. 이제 상대할 성은 셋이고, 모두 적의 것입니다. 행운을 빕니다!
+# CAMPE05B.H2C:day
+You have received a message from Archibald.  " HOW DARE YOU BETRAY ME! I will see your head on the block alongside your new master's once I have won.	아치볼드에게서 전갈이 왔습니다. "감히 나를 배신하다니! 내가 이기면 네 목을 새 주인의 목과 나란히 단두대에 올려 주마.
+# CAMPE06.H2C:rumor
+There's a Wizard living in the north who is behind this peasant revolt.	이 농민 반란 뒤에는 북쪽에 사는 위저드가 있다고 합니다.
+# CAMPE06.H2C:day
+You have received a message from Archibald. "General, these peasants deserve punishment. Put them to the sword and let Corlagon have his way with them."	아치볼드에게서 전갈이 왔습니다. "장군, 이 농민들은 벌을 받아 마땅하오. 모두 칼로 베고 코라곤이 마음대로 하게 두시오."
+# CAMPE07.H2C:rumor
+Dragon City lies beyond the Scorpion Hills.	용의 도시는 전갈 언덕 너머에 있습니다.
+# CAMPE07.H2C:rumor
+The guardians of Dragon Isle reside in the jungle.	용의 섬을 지키는 자들은 정글에 산다고 합니다.
+# CAMPE07.H2C:rumor
+Powerful magic lies southwest of here in the Valley of the Kings.	여기서 남서쪽, 왕들의 계곡에 강력한 마법이 있습니다.
+# CAMPE07.H2C:day
+Your arrival here was a surprise to those sworn to guard Dragon Isle, and you were able to quickly capture one of their castles.  Use caution, though, for two other guardians remain in this jungle.	용의 섬을 지키기로 맹세한 자들은 당신이 올 줄 몰랐고, 덕분에 그들의 성 하나를 재빨리 빼앗았습니다. 하지만 조심하십시오. 이 정글에는 아직 다른 수호자 둘이 남아 있습니다.
+# CAMPE07.H2C:sign
+Valley of the Kings.	왕들의 계곡.
+# CAMPE07.H2C:riddle
+What is time spent poorly?	헛되이 보낸 시간은?
+# CAMPE07.H2C:bottle
+After a long search of the island, I have discovered that there is no way for me to escape without help.  I can not steal a ship from one of the coastal castles, and I dare not venture into the desert unless I wish to become Dragon food.  Should anyone find this, I beg of you, please send a ship and get me off this cursed island!  -Sir Christian	섬을 오래 뒤져 본 끝에, 도움 없이는 빠져나갈 길이 없다는 것을 알았소. 해안의 성에서 배를 훔칠 수도 없고, 용의 먹이가 될 생각이 아니라면 사막으로 들어갈 엄두도 나지 않소. 누구든 이 편지를 찾거든 제발 배를 보내 이 저주받은 섬에서 나를 꺼내 주시오! -크리스천 경
+# CAMPE08.H2C:sign
+The North Road to Roland's castle.	롤랜드의 성으로 가는 북쪽 길.
+# CAMPE08.H2C:day
+The country lords have allied and pooled their resources into one command. Not only have they massed their forces in the north, but they have sent a knight to the west to steal your supplies. Scouts report a castle to the east that would be ideal as a base of operations.	시골 영주들이 동맹을 맺고 자원을 모아 하나의 지휘 아래 두었습니다. 북쪽에 병력을 모았을 뿐 아니라, 당신의 보급품을 훔치려고 서쪽으로 기사 하나를 보냈습니다. 정찰병은 동쪽에 작전 거점으로 삼기 좋은 성이 있다고 보고합니다.
+# CAMPE09.H2C:day
+Spies report Roland has sent a hero to search for the Crown. If he finds it first, all is lost!	첩자들의 보고에 따르면 롤랜드가 왕관을 찾으려고 영웅 하나를 보냈습니다. 그가 먼저 찾으면 모든 것을 잃습니다!
+# CAMPE09.H2C:day
+Message from Archibald. " Do not dare to return without my Crown."	아치볼드의 전갈. "내 왕관 없이는 돌아올 생각도 하지 마라."
+# CAMPE10.H2C:day
+You have just 8 weeks to build your army and conquer a town on the other side of a distant river.  There are three paths to take, which will you choose?	군대를 키워 먼 강 건너편의 마을을 정복할 시간이 8주밖에 없습니다. 길은 셋입니다. 어느 길을 고르겠습니까?
+# CAMPE10.H2C:sign
+This way to the Necromancer Forest.	네크로맨서의 숲으로 가는 길.
+# CAMPE10.H2C:event
+You find an old signpost in the midst of a thicket that reads "Warlock Wood, West.  Barbarian Fields, East."	덤불 한가운데서 낡은 이정표를 찾았습니다. "워록의 숲은 서쪽, 바바리안의 들판은 동쪽."
+# CAMPE10.H2C:day
+Just 30 days left!	30일 남았습니다!
+# CAMPE10.H2C:day
+Just ONE week left!	딱 1주 남았습니다!
+# CAMPE11.H2C:bottle
+What are you doing here?	여기서 뭘 하고 있나?
+# CAMPE11.H2C:sign
+Do Not Enter!	들어오지 마시오!
+# CAMPE11.H2C:sign
+Turn Back Now!	당장 돌아가시오!
+# CAMPE11.H2C:sign
+Abandon All Hope!	모든 희망을 버려라!
+# CAMPE11.H2C:sign
+Welcome to your DOOM!	너의 파멸에 온 것을 환영한다!
+# CAMPE11.H2C:sign
+The Queen's Road.	여왕의 길.
+# CAMPE11.H2C:sign
+The Kings Road.	왕의 길.
+# CAMPE11.H2C:sign
+You are now entering the domain of Prince Roland. Have a nice day.	롤랜드 왕자의 영토에 들어섰습니다. 좋은 하루 되십시오.
+# CAMPE11.H2C:sign
+You are now entering the domain of Prince Roland. Have a pleasant stay.	롤랜드 왕자의 영토에 들어섰습니다. 즐거운 시간 되십시오.
+# CAMPE11.H2C:day
+Message from Archibald. " General, thank you for bringing me this lovely gift. I have decided to participate directly in the capture of my brother Roland. Since your military advice has taken us this far, I will follow your orders to the letter."	아치볼드의 전갈. "장군, 이 멋진 선물을 가져다주어 고맙소. 내 동생 롤랜드를 사로잡는 일에 내가 직접 나서기로 했소. 장군의 군사 조언 덕분에 여기까지 왔으니, 장군의 명령을 그대로 따르겠소."
+# CAMPG01.H2C:day
+There are three enemy castles to the north. Capture them in the name of Roland the true king!	북쪽에 적의 성이 셋 있습니다. 진정한 왕 롤랜드의 이름으로 모두 손에 넣으십시오!
+# CAMPG02.H2C:day
+You've received a message from Roland. "In the absence of a strong leader, the local lords have fallen to fighting. Uniting this area is critical to our cause, so we must not fail.  Leaving your castle undefended in this highly contested region will surely lead to defeat. I'm counting on you."	롤랜드에게서 전갈이 왔습니다. "강한 지도자가 없으니 이 지역 영주들이 서로 싸우고 있소. 이 지역을 하나로 묶는 것은 우리 대의에 아주 중요하니 실패해서는 안 되오. 이렇게 다툼이 심한 곳에서 성을 비워 두면 틀림없이 패할 것이오. 장군만 믿겠소."
+# CAMPG03.H2C:sign
+Dwarfhall, Domain of the dwarf King.	드워프홀, 드워프 왕의 영지.
+# CAMPG03.H2C:day
+Your forces are thinly spread in an effort to defend all the dwarf towns (which may not be transformed into castles). Consolidate your forces and smite the enemy before the towns fall.	드워프 마을을 모두 지키려다 보니 병력이 얇게 흩어져 있습니다(이 마을들은 성으로 바꿀 수 없습니다). 마을이 무너지기 전에 병력을 모아 적을 쳐부수십시오.
+# CAMPG04.H2C:sign
+A gift of gold, m'lord, from the people of Enroth, to the people of Enroth.  Good luck, and may God save true King Roland!	엔로스 백성이 엔로스 백성에게 드리는 금입니다, 나리. 행운을 빕니다. 진정한 왕 롤랜드께 신의 가호가 있기를!
+# CAMPG04.H2C:day
+This area is rich in resources. Explore, but beware, a castle left undefended will quickly fall.	이 지역은 자원이 풍부합니다. 둘러보되 조심하십시오. 비워 둔 성은 금세 무너집니다.
+# CAMPG05.H2C:sign
+Long live Roland the true King.	진정한 왕 롤랜드 만세.
+# CAMPG05.H2C:day
+One of your "allies" has joined Archibald.  You now face an opponent with three castles to your one.  Good luck!	당신의 "동맹" 하나가 아치볼드 편에 붙었습니다. 이제 당신의 성 하나에 맞서 적은 성이 셋입니다. 행운을 빕니다!
+# CAMPG05B.H2C:day
+You have received a message from Roland. " I am shocked! I had thought better of you, but I was terribly wrong. Now you'll have to live with your dark decision for the rest of your life."	롤랜드에게서 전갈이 왔습니다. "충격이오! 그대를 더 좋게 보았는데 내가 크게 잘못 보았소. 이제 그대는 평생 그 어두운 선택을 짊어지고 살아야 할 것이오."
+# CAMPG06.H2C:bottle
+Barbarian's castle lies to the south.	바바리안의 성은 남쪽에 있다.
+# CAMPG06.H2C:bottle
+Help!	살려 줘!
+# CAMPG06.H2C:sign
+Welcome to the sorceress' guild. 	소서리스 길드에 오신 것을 환영합니다. 
+# CAMPG06.H2C:sign
+Keep Out!	출입 금지!
+# CAMPG06.H2C:sign
+"8675309"	"8675309"
+# CAMPG06.H2C:sign
+Condemned!	철거 예정!
+# CAMPG06.H2C:sign
+Fantasy Island.	환상의 섬.
+# CAMPG06.H2C:sign
+Murray's resort Isle!	머레이의 휴양 섬!
+# CAMPG06.H2C:sign
+For sale.	팝니다.
+# CAMPG06.H2C:sign
+The Rock Store.	바위 가게.
+# CAMPG06.H2C:rumor
+The islands have much wealth.	섬들에는 재물이 많습니다.
+# CAMPG06.H2C:rumor
+There was a shipreck in the far east waters recently.	최근 먼 동쪽 바다에서 배가 난파했습니다.
+# CAMPG06.H2C:day
+You've received a message from the guild. "Thank God you've arrived! We're under seige from two enemies from the north and one from across the sea. Please save us, you're our only hope."	길드에서 전갈이 왔습니다. "와 주셔서 다행입니다! 북쪽의 두 적과 바다 건너 적 하나에게 포위당했습니다. 제발 구해 주십시오. 당신만이 우리의 희망입니다."
+# CAMPG06.H2C:day
+Scouts report the notorious necromancer "Wyrm" has been sighted to the northeast.	정찰병의 보고에 따르면 악명 높은 네크로맨서 "웜"이 북동쪽에서 목격되었습니다.
+# CAMPG07.H2C:day
+You have just 8 weeks  to build your army and conquer a town on the other side of a distant river.  There are three paths to take, which will you choose?	군대를 키워 먼 강 건너편의 마을을 정복할 시간이 8주밖에 없습니다. 길은 셋입니다. 어느 길을 고르겠습니까?
+# CAMPG07.H2C:sign
+Sorceress Forest.  Show respect for nature!	소서리스의 숲. 자연을 존중하라!
+# CAMPG07.H2C:sign
+Knight's Trail.	기사의 길.
+# CAMPG07.H2C:sign
+Wizardwood.  Magicians welcome!	위저드의 숲. 마법사 환영!
+# CAMPG08.H2C:day
+Archibald has also sent an army to find the Crown, you must find it first or all is lost.	아치볼드도 왕관을 찾으려고 군대를 보냈습니다. 당신이 먼저 찾아야 합니다. 그렇지 않으면 모든 것을 잃습니다.
+# CAMPG08.H2C:day
+Message from Roland. " We cannot hope to defeat Archibald without the Crown, I'm counting on you."	롤랜드의 전갈. "왕관 없이는 아치볼드를 이길 수 없소. 장군만 믿겠소."
+# CAMPG09.H2C:day
+Message from Roland.  "General, I have sent most of our troops and material ahead to the region of the final conflict with Archibald.  Unfortunately, Lord Corlagon has cut us off from the rest of our army.  I will be awaiting your victory in a castle across the west river.  I should be safe from attack."	롤랜드의 전갈. "장군, 우리 병력과 물자 대부분을 아치볼드와의 마지막 싸움이 벌어질 지역으로 먼저 보냈소. 그런데 코라곤 경이 우리와 나머지 군대 사이를 끊어 놓았소. 나는 서쪽 강 건너 성에서 장군의 승리를 기다리겠소. 그곳은 공격받지 않을 것이오."
+# CAMPG10.H2C:riddle
+Who is the true King?	진정한 왕은 누구인가?
+# CAMPG10.H2C:riddle
+A Dragon, A Cyclops, or an Undead. King of the Centaurs, His name is ....?	용도, 싸이클롭스도, 언데드도 아니다. 켄타우로스의 왕, 그의 이름은 ....?
+# CAMPG10.H2C:bottle
+Turn Back or DIE!	돌아가라, 아니면 죽는다!
+# CAMPG10.H2C:bottle
+Turn Back Now or all will be LOST!	당장 돌아가라, 아니면 모든 것을 잃는다!
+# CAMPG10.H2C:bottle
+Restricted Area, Do Not Enter!	제한 구역, 들어오지 마시오!
+# CAMPG10.H2C:bottle
+Trespassers will be EATEN!	무단 침입자는 잡아먹힘!
+# CAMPG10.H2C:bottle
+Is it something I said? Go back and I will forget the whole thing.	내가 뭐 말실수라도 했나? 돌아가면 없던 일로 해 주지.
+# CAMPG10.H2C:bottle
+So you think you're smart?	네가 똑똑한 줄 아나?
+# CAMPG10.H2C:bottle
+Archibald is hiding at the end of the river.	아치볼드는 강 끝에 숨어 있다.
+# CAMPG10.H2C:sign
+The River Styx	스틱스 강
+# CAMPG10.H2C:day
+Message from Roland. "General, circumstances permit me to take a hand in the events of this final conflict. I have your spoils of war with me and I will follow your advice explicitly."	롤랜드의 전갈. "장군, 이 마지막 싸움에는 나도 직접 나설 수 있게 되었소. 장군이 거둔 전리품을 가지고 있으니, 장군의 조언을 그대로 따르겠소."
+# DEATHG.MP2:rumor
+Red player sympathizes with the undead cause.	빨강 플레이어는 언데드 편이라고 합니다.
+# DRAGONR.MP2:sign
+Peasantsville	농민 마을
+# DRAGONR.MP2:sign
+Orcville	오크 마을
+# DRAGONW.MP2:bottle
+Dragons Everywhere!	온통 용이다!
+# DRAGONW.MP2:sign
+Stick to the road!	길로만 다녀라!
+# ENROTH.MP2:riddle
+What goes up and down but never moves?	오르내리지만 움직이지 않는 것은?
+# GOODVS.MP2:bottle
+Ye old fish liver oil.	옛날 생선 간유.
+# HOTSPOT.MP2:sign
+Beyond the door, there be Dragons. BEWARE!	문 너머에 용이 있다. 조심하라!
+# LOSTCON.MP2:day
+You have been ordered here to claim this land in the name of your King and recover any riches that you might find.  However, five other Kings and Queens have also sent their heroes to this land, so you must watch out for them as well as the natives!	당신은 왕의 이름으로 이 땅을 차지하고 찾을 수 있는 재물을 거두라는 명을 받고 왔습니다. 하지만 다른 왕과 여왕 다섯도 이 땅에 영웅을 보냈으니, 원주민뿐 아니라 그들도 조심해야 합니다!
+# LOSTCON.MP2:sign
+Hungry dragons await.  Welcome, food.	굶주린 용들이 기다린다. 어서 오너라, 먹이야.
+# LOSTCON.MP2:sign
+You are a fool to come here!	여기 오다니 어리석구나!
+# LOSTCON.MP2:sign
+Turn back, friend, while you still can!	친구여, 아직 할 수 있을 때 돌아가게!
+# LOSTCON.MP2:sign
+When you think yourself invincible, walk through this gate.  Even then, prepare to meet your bitter end.	자신이 무적이라 생각될 때 이 문을 지나라. 그때도 쓰라린 최후를 맞을 각오를 하라.
+# LOSTCON.MP2:sign
+You will need a stronger army than that, mortal, to step through this portal.	이 차원문을 지나려면 그보다 강한 군대가 필요할 것이다, 인간이여.
+# LOSTCON.MP2:sign
+Beyond here be Dragons!	이 너머에 용이 있다!
+# LOSTCON.MP2:day
+A supply ship has arrived from the homeland!  You send word home that all is well.	고향에서 보급선이 도착했습니다! 모든 것이 순조롭다고 고향에 소식을 보냅니다.
+# LOSTRELI.MP2:sign
+Beware of thieves!	도둑 조심!
+# LOSTRELI.MP2:event
+Robbers have looted your treasury, stealing valuable resources.	도둑들이 금고를 털어 귀중한 자원을 훔쳐 갔습니다.
+# LOSTRELI.MP2:event
+Robbers have looted your treasury and you have lost valuable resources.	도둑들이 금고를 털어 귀중한 자원을 잃었습니다.
+# LOSTRELI.MP2:event
+Your treasury has been looted by robbers and you have lost valuable resources.	금고가 도둑들에게 털려 귀중한 자원을 잃었습니다.
+# LOSTRELI.MP2:event
+Arr' Here be pirates gold buried.	으하하, 여기 해적의 금이 묻혀 있다.
+# LOSTRELI.MP2:event
+Ah, you stumble across something buried in the sand.  As you dig it up you discover a small pile of gems and crystal.	아, 모래 속에 묻힌 무언가에 걸려 넘어집니다. 파 보니 보석과 수정이 조금 쌓여 있습니다.
+# LOSTRELI.MP2:rumor
+It is said that King Zealot found the gods' artifact once and it let him rule for 100 years.	질럿 왕이 한때 신들의 아티팩트를 찾았고, 그 덕분에 100년 동안 다스렸다고 합니다.
+# LOSTRELI.MP2:rumor
+The ancient King Zealot had the artifact of the gods and then hid it in his old age so that it could not be used by others.	옛 질럿 왕은 신들의 아티팩트를 가지고 있다가, 늘그막에 남들이 쓰지 못하도록 숨겼다고 합니다.
+# LOSTRELI.MP2:sign
+Bridge Out!	다리 끊김!
+# LOSTRELI.MP2:sign
+Turn Back or else!	돌아가라, 안 그러면 큰일 난다!
+# LOSTRELI.MP2:sign
+Road Ends	길 끝
+# LOSTRELI.MP2:day
+It has become apparent that if all your enemies were eliminated, you would have all the time you need to find the Ultimate Artifact.	적을 모두 없애면 궁극의 아티팩트를 찾을 시간이 얼마든지 생긴다는 것이 분명해졌습니다.
+# MINERALW.MP2:event
+You see the remains of a burned out sawmill here.  All you can salvage is some ofwood left for scrap.	불탄 제재소의 잔해가 있습니다. 건질 수 있는 것은 남은 목재 부스러기뿐입니다.
+# MINERALW.MP2:event
+There used to be a mine here, but it has long since run out of ore.  You are only able to scavenge 5 units of ore from the old site.	예전에 광산이 있던 곳인데 오래전에 광석이 다 떨어졌습니다. 옛 광산 터에서 철광석 5개만 겨우 건집니다.
+# MINERALW.MP2:event
+It looks like there used to be an ore mine here but all you see now is a hole in the ground and some minerals scattered around.	예전에 철광산이 있던 것 같은데, 지금은 땅에 구멍 하나와 흩어진 광물 조금뿐입니다.
+# MINERALW.MP2:event
+You see the remains of an old sawmill just to realize that it will no longer produce.  You gather the ramains and move on.	낡은 제재소의 잔해를 보니 더는 목재를 만들 수 없겠습니다. 남은 것을 챙겨 길을 떠납니다.
+# MINERALW.MP2:event
+You see the remains of an old sawmill, but it is obvious that you will not be able to make it work again.	낡은 제재소의 잔해가 있지만, 다시 돌아가게 만들 수 없는 것이 분명합니다.
+# MINERALW.MP2:event
+This spot overlooks an old quarry.  This was one of the only places in the world where ore could be taken right out of the ground.  Unfortunately the jungle has reclaimed the quarry and it is unusable.  You collect the last of the ore and depart.	옛 채석장이 내려다보이는 곳입니다. 세상에서 철광석을 땅에서 바로 캘 수 있던 몇 안 되는 곳이었습니다. 안타깝게도 정글이 채석장을 덮어 버려 쓸 수 없습니다. 남은 철광석을 챙겨 떠납니다.
+# MINERALW.MP2:day
+A Gift from your King, and a note that reads "Use these resources wisely, It's all we have left".	왕이 보낸 선물과 쪽지가 있습니다. "이 자원을 아껴 쓰시오. 우리에게 남은 전부요."
+# MOUNT.MP2:sign
+Mt Crodo Elev 5000ft.	크로도 산 높이 5000피트.
+# OVERLORD.MP2:bottle
+Beware the rocks	암초 조심
+# OVERLORD.MP2:event
+You run aground on the rocks and have to use some wood to fix your boat.	암초에 걸려 배를 고치느라 목재를 조금 썼습니다.
+# OVERLORD.MP2:day
+Message from Overlord. "WHERE'S MY GOLD?"	대군주의 전갈. "내 금은 어디 있나?"
+# OVERLORD.MP2:day
+Message from Overlord. "STILL WAITING FOR MY GOLD!"	대군주의 전갈. "아직도 내 금을 기다리고 있다!"
+# OVERLORD.MP2:day
+Final message from Overlord. "The royal executioners are on their way. My gold, the land or your head- it's your choice."	대군주의 마지막 전갈. "왕실 처형인들이 가는 중이다. 내 금이냐, 땅이냐, 네 목이냐. 네가 골라라."
+# PANDAMON.MP2:event
+Buried Treasure!	묻힌 보물!
+# PANDAMON.MP2:day
+My leige, we have established a foothold (which we cannot afford to lose) and all of our Heroes have joined us. The king has made us the offer to purchase this land for 200,000 gold or we may take it by force. The local lords have been fighting and each wants to be the one that defeats us. Now all the local armies have arrived on the beach, creating a state of complete Pandemonium!	주군, 우리는 거점을 마련했고(잃어서는 안 됩니다) 우리 영웅들도 모두 합류했습니다. 왕은 이 땅을 금 200,000에 사거나 힘으로 빼앗으라고 제안했습니다. 이곳 영주들은 서로 싸워 왔고, 저마다 우리를 꺾는 자가 되고 싶어 합니다. 이제 이곳의 군대가 모두 해변에 몰려와 그야말로 대혼란입니다!
+# REVOLU.MP2:day
+For years, you've been able to keep your subjects "appeased."  Now however, you discover not only that your entire kingdom has turned against you, but most of your outer towns have fallen to the different factions.  To make matters worse, all your gold suddenly seems to be missing from the treasury!	오랫동안 백성들을 "달래" 왔습니다. 그런데 이제 온 왕국이 당신에게 등을 돌렸을 뿐 아니라, 바깥쪽 마을 대부분이 여러 세력에게 넘어갔다는 것을 알게 됩니다. 설상가상으로 금고의 금도 몽땅 사라진 것 같습니다!
+# REVOLU.MP2:day
+Rumors abound and your faithful hero Sandro is now highly regarded by the masses. Should Sandro desert you, all will be lost.	소문이 무성한 가운데 충성스러운 영웅 산드로가 백성들의 큰 존경을 받고 있습니다. 산드로가 당신을 떠나면 모든 것을 잃습니다.
+# RIVER.MP2:event
+Our reinforcements were lost in a storm, we salvaged all we could!	지원군이 폭풍에 휩쓸렸습니다. 건질 수 있는 것은 모두 건졌습니다!
+# SCORCH.MP2:day
+Many years ago, your father, the King, died in a freak hunting accident.  Since then, you and your brother have jointly ruled his kingdom, but both of you have been seeking a way to seize the throne for yourself.  You got your wish.  Attackers from across the sea have captured more than half your towns and castles, effectively dividing the continent in two.  Now is the time to repel these invaders and do away with your brother once and for all!	여러 해 전, 왕이던 아버지가 뜻밖의 사냥 사고로 세상을 떠났습니다. 그 뒤로 당신과 형제가 함께 왕국을 다스려 왔지만, 둘 다 왕좌를 혼자 차지할 방법을 찾고 있었습니다. 그 소원이 이루어졌습니다. 바다 건너 침략자들이 마을과 성의 절반 넘게 빼앗아 대륙이 사실상 둘로 갈라졌습니다. 이제 침략자들을 몰아내고 형제도 단번에 없앨 때입니다!
+# SCORCH.MP2:day
+A merchant caravan arrives, bringing gold and supplies, however, no one can seem to remember where they came from.  You silently praise this anonymous benefactor and continue your duties.	상인 행렬이 금과 물자를 가지고 도착했지만, 아무도 그들이 어디서 왔는지 기억하지 못합니다. 이름 모를 은인에게 속으로 감사하며 맡은 일을 계속합니다.
+# SEVENL.MP2:sign
+Welcome to Power Island. He who controls this Isle controls the Seven Lakes!	힘의 섬에 오신 것을 환영합니다. 이 섬을 차지하는 자가 일곱 호수를 차지한다!
+# SEVENL.MP2:riddle
+What walks in the morning on four legs, two in the afternoon and three in the evening?	아침에는 네 발, 낮에는 두 발, 저녁에는 세 발로 걷는 것은?
+# SEVENL.MP2:riddle
+What is always coming but never arrives?	늘 오고 있지만 결코 도착하지 않는 것은?
+# SEVENL.MP2:riddle
+What cannot be seen but only heard, and will not speak until spoken to?	보이지 않고 들리기만 하며, 말을 걸기 전에는 말하지 않는 것은?
+# SEVENL.MP2:riddle
+The more there is the less you see.	많을수록 덜 보이는 것.
+# SEVENL.MP2:bottle
+Four lakes have castles, three have treasure.	호수 넷에는 성이, 셋에는 보물이 있다.
+# SEVENL.MP2:bottle
+Who am I?	나는 누구인가?
+# SEVENL.MP2:bottle
+Find the center island.	가운데 섬을 찾아라.
+# SEVENL.MP2:bottle
+Where am I?	여기는 어디인가?
+# SHIPW.MP2:day
+Your Queen sent you here to explore this newly discovered territory, but a freak storm scattered your fleet and left you stranded.  You gather the survivors and form a small settlement, naming it New Vertigo.  This place is your home now, and survival is your highest priority, but remember, if you are captured or killed, it's over!	여왕의 명으로 새로 발견된 이 땅을 탐험하러 왔지만, 뜻밖의 폭풍에 함대가 흩어져 오도 가도 못하게 되었습니다. 살아남은 이들을 모아 작은 마을을 세우고 뉴 버티고라 이름 붙였습니다. 이제 이곳이 당신의 집이고 살아남는 것이 가장 중요합니다. 하지만 잊지 마십시오. 붙잡히거나 죽으면 끝입니다!
+# SHIPW.MP2:day
+Your scouts return with grim news.  The natives of this land are currently at war with each other, and they like outsiders even less than they like each other!  Congratulations, Commander, you're at war!	정찰병들이 나쁜 소식을 가지고 돌아왔습니다. 이 땅의 원주민들은 지금 서로 싸우고 있고, 서로보다 이방인을 더 싫어합니다! 축하합니다, 지휘관. 전쟁입니다!
+# SHIPW.MP2:sign
+Beware of Warlocks	워록 조심
+# SHIPW.MP2:event
+What good fortune!  You've discovered a long-abandoned settlement.  To your surprise, you discover that the previous inhabitants left some of their resources behind when they departed!	운이 좋군요! 오래전에 버려진 마을을 찾았습니다. 놀랍게도 예전 주민들이 떠나면서 자원 일부를 두고 갔습니다!
+# SHIPW.MP2:sign
+DANGER!  QUICKSAND!	위험! 늪 모래!
+# SHIPW.MP2:sign
+Realm of the Undead.  Fresh blood welcome.	언데드의 왕국. 신선한 피 환영.
+# SHIPW.MP2:sign
+No tresspath...  No tree...  No thresh...  GO AWAY!	무단 침입... 무단 칩입... 무단 팀입... 꺼져!
+# SHIPW.MP2:sign
+GO AWAY!	꺼져!
+# TELEPORT.MP2:event
+You find a gleaming gold medalion buried in the  snow.  As you move to put it on it changes to the Fizbin of Misfortune.	눈 속에 묻힌 번쩍이는 금 메달을 찾았습니다. 걸려고 하자 메달이 불운의 피즈빈으로 바뀝니다.
+# TELEPORT.MP2:event
+You find a beautiful helm buried in the lava.  As you move to put it on your head it turns into the Hideous mask and now you realize that no creature will join you.	용암 속에 묻힌 아름다운 투구를 찾았습니다. 머리에 쓰려 하자 흉측한 가면으로 바뀌고, 이제 어떤 크리처도 합류하지 않으리라는 것을 깨닫습니다.
+# TELEPORT.MP2:event
+A large contingent of the king's guard approaches you.  "Ahh, we have finally caught up to you.  The king requires tribute from all of his vassals and you have been negligent far too long."	왕의 근위대 한 무리가 다가옵니다. "아, 드디어 따라잡았군. 왕께서는 모든 신하에게 공물을 요구하시는데, 너는 너무 오래 게을리했다."
+# TERRAF.MP2:day
+After many years of peace, you discover that your sworn enemy from across the sea has chosen to invade your homeland by raising up the ocean floor to bridge the distance! You must not let them gain a foothold on this continent, in fact, your King has ordered you to establish a foothold on theirs!  To make matters worse, two of your OWN towns have thrown in their lots with the enemy...	오랜 평화 끝에, 바다 건너 숙적이 바다 밑바닥을 끌어올려 길을 이어 고국을 침략하기로 했다는 것을 알게 됩니다! 그들이 이 대륙에 발판을 마련하게 둬서는 안 됩니다. 아니, 왕은 오히려 적의 대륙에 발판을 마련하라고 명령했습니다! 설상가상으로 당신의 마을 둘이 적의 편에 붙었습니다...
+# TERRAF.MP2:rumor
+It is rumored that a bridge of land used to exist between the two continents, but that a wild magic caused it to sink into the sea, taking with it all those who used to inhabit it.  To try to raise this bridge is to invite a curse upon the world!  The spirits of the dead will haunt us all!	예전에는 두 대륙 사이에 땅으로 된 다리가 있었는데, 거친 마법 때문에 바다 밑으로 가라앉으며 그곳에 살던 이들도 모두 함께 사라졌다는 소문이 있습니다. 그 다리를 다시 올리려는 것은 세상에 저주를 부르는 일입니다! 죽은 자들의 영혼이 우리 모두를 괴롭힐 것입니다!
+# TERRAF.MP2:day
+We found a weakness my lord. Capture castle Black Fang and victory is ours.	약점을 찾았습니다, 주군. 블랙 팽 성을 빼앗으면 승리는 우리 것입니다.
+# TERRAF.MP2:day
+Your king has sent supplies to aid the war effort.	왕이 전쟁을 도우려고 물자를 보냈습니다.
+# THEOTHER.MP2:day
+Time is running out! The enemy's reinforcements are almost here.	시간이 얼마 없습니다! 적의 지원군이 거의 다 왔습니다.
+# THEOTHER.MP2:day
+Hurry up! Few days are left before the enemy's army arrives.	서두르십시오! 적의 군대가 도착하기까지 며칠 남지 않았습니다.
+# WARIORK.MP2:sign
+Lost Island.	잃어버린 섬.
+# WASTL.MP2:day
+Your subjects contribute to your war effort!	백성들이 전쟁 비용을 보탭니다!
+# WASTL.MP2:sign
+Detour! Troll bridge ahead!	우회로! 앞에 트롤 다리!
+# WASTL.MP2:sign
+Danger! Troll bridge ahead!	위험! 앞에 트롤 다리!
+# WASTL.MP2:event
+My leige, our scouts report three other lords are attacking from the south. They work in conjuction with each other to eliminate us! We must keep this castle and remove the threat of the enemy. We wish you luck!	주군, 정찰병의 보고에 따르면 남쪽에서 다른 영주 셋이 쳐들어오고 있습니다. 그들은 서로 손잡고 우리를 없애려 합니다! 이 성을 지키고 적의 위협을 없애야 합니다. 행운을 빕니다!
+# WHOAM.MP2:day
+Who am I?...  Where am I?...  Oh no! My Ship!  Well it's consigned to the ghosts of my dead crew now, at least I still have my lucky rabbits foot.	나는 누구지?... 여기는 어디지?... 이런! 내 배! 이제 죽은 선원들의 유령에게 넘어갔군. 그래도 행운의 토끼 발은 아직 있지.
+# WHOAM.MP2:day
+Scouts have reported a town to the North.  They have also heard some disturbing news.  Their seems to be a war raging in this area.	정찰병들이 북쪽에 마을이 있다고 보고했습니다. 불길한 소식도 들었습니다. 이 지역에서 전쟁이 한창인 것 같습니다.
+# WHOAM.MP2:bottle
+Go Home!	집에 가라!
+# WHOAM.MP2:event
+Welcome back general.  Have you finished the conquest of the northern lands?  What? you still have not finished your mission!  Get back there and teach those rebels a lesson!	돌아왔군요, 장군. 북쪽 땅 정복은 끝냈습니까? 뭐라고요? 아직 임무를 못 끝냈다고요! 당장 돌아가서 반란군에게 본때를 보여 주십시오!
+# WHOAM.MP2:day
+The troops have sworn their allegiance, but should lose a battle they will lose faith and our cause will be lost.	병사들이 충성을 맹세했지만, 전투에서 한 번이라도 지면 믿음을 잃고 우리의 대의도 무너질 것입니다.
+# WINTERL.MP2:sign
+Icy lands ahead.	앞에 얼음 땅.
+# WINTERL.MP2:sign
+Bridge out!	다리 끊김!
+# WINTERL.MP2:sign
+Rest stop.	휴게소.

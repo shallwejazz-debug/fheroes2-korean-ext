@@ -1,0 +1,251 @@
+# 모험 지도 방문 글 뒷부분, 모험 마법, 영웅 화면, 보조 기술 (heroes/). 보조 기술 이름은 3편 정품 한글판 용어
+Trolls living under the bridge challenge you. Will you fight them?	다리 밑에 사는 트롤들이 덤벼듭니다. 싸우시겠습니까?
+A few Trolls remain, cowering under the bridge. They approach you and offer to join your forces as mercenaries. Do you want to buy any Trolls?	다리 밑에 웅크린 트롤 몇이 남아 있습니다. 그들이 다가와 용병으로 합류하겠다고 합니다. 트롤을 사시겠습니까?
+The Dragon city has no Dragons willing to join you this week. Perhaps a Dragon will become available next week.	이번 주에는 용의 도시에 합류하려는 드래곤이 없습니다. 다음 주에는 있을지도 모릅니다.
+The Dragon city is willing to offer some Dragons for your army for a price. Do you wish to recruit Dragons?	용의 도시가 값을 치르면 드래곤을 내어 주겠다고 합니다. 드래곤을 모집하시겠습니까?
+You stand before the Dragon City, a place off-limits to mere humans. Do you wish to violate this rule and challenge the Dragons to a fight?	인간은 들어갈 수 없는 용의 도시 앞에 섰습니다. 금기를 어기고 드래곤들에게 싸움을 거시겠습니까?
+Having defeated the Dragon champions, the city's leaders agree to supply some Dragons to your army for a price. Do you wish to recruit Dragons?	드래곤 투사들을 물리치자, 도시의 지도자들이 값을 치르면 드래곤을 내어 주겠다고 합니다. 드래곤을 모집하시겠습니까?
+From the observation tower, you are able to see distant lands.	관측탑에서 먼 땅까지 내다봅니다.
+The spring only refills once a week, and someone's already been here this week.	샘은 일주일에 한 번만 차오르는데, 이번 주에 이미 누가 다녀갔습니다.
+A drink at the spring is supposed to give you twice your normal spell points, but you are already at that level.	샘물을 마시면 마법 점수가 평소의 두 배가 된다지만, 이미 그만큼 있습니다.
+A drink from the spring fills your blood with magic! You have twice your normal spell points in reserve.	샘물을 마시자 핏속에 마법이 가득 찹니다! 마법 점수가 평소의 두 배가 됩니다.
+Recognizing you, the butler refuses to admit you. "The master," he says, "will not see the same student twice."	당신을 알아본 집사가 들여보내지 않습니다. "주인님은 같은 제자를 두 번 만나지 않으십니다."
+The butler admits you to see the master of the house. He trains you in the four skills a hero should know.	집사가 집주인에게 안내합니다. 주인이 영웅이 알아야 할 네 가지 능력을 훈련시켜 줍니다.
+The butler opens the door and looks you up and down. "You are neither famous nor diplomatic enough to be admitted to see my master," he sniffs. "Come back when you think yourself worthy."	집사가 문을 열고 당신을 위아래로 훑어봅니다. "주인님을 뵐 만큼 이름나지도, 말솜씨가 좋지도 않으시군요." 그가 콧방귀를 뀝니다. "자격이 된다 싶을 때 다시 오십시오."
+ and 	,
+All of the %{monsters} you have in your army have been trained by the battle masters of the fort. Your army now contains %{monsters2}.	부대의 %{monsters}이(가) 모두 요새의 전투 교관들에게 훈련을 받았습니다. 이제 부대에 %{monsters2}이(가) 있습니다.
+An unusual alliance of Ogres, Orcs, and Dwarves offer to train (upgrade) any such troops brought to them. Unfortunately, you have none with you.	오우거, 오크, 드워프의 별난 동맹이 데려온 같은 종족 부대를 훈련(업그레이드)해 주겠다고 합니다. 안타깝게도 데려온 부대가 없습니다.
+All of your %{monsters} have been upgraded into %{monsters2}.	%{monsters}이(가) 모두 %{monsters2}(으)로 업그레이드되었습니다.
+A blacksmith working at the foundry offers to convert all Pikemen and Swordsmen's weapons brought to him from iron to steel. He also says that he knows a process that will convert Iron Golems into Steel Golems. Unfortunately, you have none of these troops in your army, so he can't help you.	주조소의 대장장이가 창병과 검사의 무기를 쇠에서 강철로 바꿔 주겠다고 합니다. 아이언 골렘을 스틸 골렘으로 바꾸는 방법도 안다고 합니다. 안타깝게도 그런 부대가 없어서 도와줄 수 없습니다.
+The captain looks at you with surprise and says:\n"You already have all the maps I know about. Let me fish in peace now."	선장이 놀란 얼굴로 말합니다:\n"내가 아는 지도는 이미 다 가지셨소. 이제 조용히 낚시나 하게 해 주시오."
+A retired captain living on this refurbished fishing platform offers to sell you maps of the sea he made in his younger days for 1,000 gold. Do you wish to buy the maps?	손본 낚시 발판에 사는 은퇴한 선장이 젊을 때 만든 바다 지도를 금 1,000에 팔겠다고 합니다. 지도를 사시겠습니까?
+The captain sighs. "You don't have enough money, eh? You can't expect me to give my maps away for free!"	선장이 한숨을 쉽니다. "돈이 모자라는구먼? 내 지도를 공짜로 줄 수는 없지!"
+You come upon an obelisk made from a type of stone you have never seen before. Staring at it intensely, the smooth surface suddenly changes to an inscription. The inscription is a piece of a lost ancient map. Quickly you copy down the piece and the inscription vanishes as abruptly as it appeared.	한 번도 본 적 없는 돌로 만든 오벨리스크를 발견합니다. 뚫어지게 바라보자 매끄러운 표면에 갑자기 글이 떠오릅니다. 잃어버린 옛 지도의 한 조각입니다. 재빨리 베껴 적자 글이 나타날 때처럼 갑자기 사라집니다.
+You have already been to this obelisk.	이 오벨리스크에는 이미 다녀갔습니다.
+Upon your approach, the tree opens its eyes in delight. "It is good to see you, my student. I hope my teachings have helped you."	다가가자 나무가 반가운 듯 눈을 뜹니다. "다시 보니 반갑구나, 제자여. 내 가르침이 도움이 되었기를 바란다."
+Upon your approach, the tree opens its eyes in delight. "Ahh, an adventurer! Allow me to teach you a little of what I have learned over the ages."	다가가자 나무가 반가운 듯 눈을 뜹니다. "아, 모험가로구나! 오랜 세월 내가 배운 것을 조금 가르쳐 주마."
+Upon your approach, the tree opens its eyes in delight.	다가가자 나무가 반가운 듯 눈을 뜹니다.
+"Ahh, an adventurer! I will be happy to teach you a little of what I have learned over the ages for a mere %{count} %{res}."	"아, 모험가로구나! %{res} %{count}만 주면 오랜 세월 내가 배운 것을 기꺼이 조금 가르쳐 주마."
+(Just bury it around my roots.)	(내 뿌리 둘레에 묻어 주기만 하면 된다.)
+Tears brim in the eyes of the tree.	나무의 눈에 눈물이 고입니다.
+"I need %{count} %{res}."	"%{res} %{count}이(가) 필요하다."
+it whispers. (sniff) "Well, come back when you can pay me."	나무가 속삭입니다. (훌쩍) "그럼, 낼 수 있을 때 다시 오너라."
+Nestled among the trees sits a blind seer. After you explain the intent of your journey, the seer activates his crystal ball, allowing you to see the strengths and weaknesses of your opponents.	나무들 사이에 눈먼 예언자가 앉아 있습니다. 여정의 목적을 이야기하자 예언자가 수정 구슬을 움직여, 상대들의 강점과 약점을 보여 줍니다.
+The entrance to the cave is dark, and a foul, sulfurous smell issues from the cave mouth. Will you enter?	동굴 입구는 어둡고, 유황 냄새가 고약하게 풍겨 나옵니다. 들어가시겠습니까?
+Except for evidence of a terrible battle, the cave is empty.	끔찍한 싸움의 흔적 말고는 동굴이 텅 비어 있습니다.
+You find a powerful and grotesque Demon in the cave. "Today," it rasps, "you will fight and surely die. But I will give you a choice of deaths. You may fight me, or you may fight my servants. Do you prefer to fight my servants?"	동굴에서 힘세고 흉측한 악마를 만납니다. 악마가 쉰 목소리로 말합니다. "오늘 너는 싸우다 반드시 죽는다. 하지만 죽는 방법은 고르게 해 주마. 나와 싸우거나, 내 부하들과 싸워라. 부하들과 싸우겠느냐?"
+The Demon screams its challenge and attacks! After a short, desperate battle, you slay the monster and receive %{exp} experience points.	악마가 비명을 지르며 덤벼듭니다! 짧고 필사적인 싸움 끝에 괴물을 쓰러뜨리고 경험치 %{exp}을(를) 얻습니다.
+The Demon screams its challenge and attacks! After a short, desperate battle, you slay the monster and receive %{exp} experience points and %{count} gold.	악마가 비명을 지르며 덤벼듭니다! 짧고 필사적인 싸움 끝에 괴물을 쓰러뜨리고 경험치 %{exp}와(과) 금 %{count}을(를) 얻습니다.
+The Demon screams its challenge and attacks! After a short, desperate battle, you slay the monster and find the %{art} in the back of the cave.	악마가 비명을 지르며 덤벼듭니다! 짧고 필사적인 싸움 끝에 괴물을 쓰러뜨리고 동굴 안쪽에서 %{art}을(를) 찾습니다.
+Seeing that you do not have %{count} gold, the demon slashes you with its claws, and the last thing you see is a red haze.	금 %{count}이(가) 없는 것을 본 악마가 발톱으로 당신을 할퀴고, 당신이 마지막으로 본 것은 붉은 안개입니다.
+The Demon leaps upon you and has its claws at your throat before you can even draw your sword. "Your life is mine," it says. "I will sell it back to you for %{count} gold."	칼을 뽑기도 전에 악마가 덮쳐 목에 발톱을 들이댑니다. "네 목숨은 내 것이다. 금 %{count}에 되팔아 주마."
+Upon defeating the daemon's servants, you find a hidden cache with %{count} gold.	악마의 부하들을 물리치고 금 %{count}이(가) 든 숨겨진 보물을 찾습니다.
+As you enter the Alchemist's Tower, a hobbled, graying man in a brown cloak makes his way towards you.	연금술사의 탑에 들어서자, 갈색 망토를 걸친 절뚝이는 백발 노인이 다가옵니다.
+He checks your pack, and sees that you have 1 cursed item.	그가 짐을 살피더니 저주받은 물건이 1개 있다고 합니다.
+He checks your pack, and sees that you have %{count} cursed items.	그가 짐을 살피더니 저주받은 물건이 %{count}개 있다고 합니다.
+For %{gold} gold, the alchemist will remove it for you. Do you pay?	금 %{gold}을(를) 내면 연금술사가 그것을 없애 줍니다. 내시겠습니까?
+For %{gold} gold, the alchemist will remove them for you. Do you pay?	금 %{gold}을(를) 내면 연금술사가 그것들을 없애 줍니다. 내시겠습니까?
+After you consent to pay the requested amount of gold, the alchemist grabs the cursed artifact and throws it into his magical cauldron.	요구한 금을 내기로 하자, 연금술사가 저주받은 아티팩트를 집어 마법 가마솥에 던져 넣습니다.
+After you consent to pay the requested amount of gold, the alchemist grabs all cursed artifacts and throws them into his magical cauldron.	요구한 금을 내기로 하자, 연금술사가 저주받은 아티팩트를 모두 집어 마법 가마솥에 던져 넣습니다.
+You hear a voice from behind the locked door, "You don't have enough gold to pay for my services."	잠긴 문 뒤에서 목소리가 들립니다. "내 일을 맡길 만큼 금이 없구먼."
+You hear a voice from high above in the tower, "Go away! I can't help you!"	탑 꼭대기에서 목소리가 들립니다. "가 버려! 난 도와줄 수 없어!"
+The head groom speaks to you, "That is a fine looking horse you have. I am afraid we can give you no better, but the horses your cavalry are riding look to be of poor breeding stock. We have many trained war horses which would aid your riders greatly. I insist you take them."	마구간지기 우두머리가 말합니다. "좋은 말을 타고 계시군요. 그보다 나은 말은 없습니다만, 기병들의 말은 혈통이 형편없어 보입니다. 훈련된 군마가 많으니 기병들에게 큰 도움이 될 겁니다. 꼭 데려가십시오."
+As you approach the stables, the head groom appears, leading a fine looking war horse. "This steed will help speed you in your travels. Alas, he will grow tired in a week. You must also let me give better horses to your mounted soldiers, their horses look shoddy and weak."	마구간에 다가가자 우두머리가 멋진 군마를 끌고 나타납니다. "이 말이 여정을 빠르게 해 줄 겁니다. 아쉽게도 일주일이면 지칩니다. 기병들에게도 더 좋은 말을 드리겠습니다. 그들의 말은 볼품없고 약해 보이는군요."
+The head groom approaches you and speaks, "You already have a fine horse, and have no inexperienced cavalry which might make use of our trained war horses."	우두머리가 다가와 말합니다. "이미 좋은 말이 있으시고, 저희 군마를 쓸 만한 미숙한 기병도 없으시군요."
+As you approach the stables, the head groom appears, leading a fine looking war horse. "This steed will help speed you in your travels. Alas, his endurance will wane with a lot of heavy riding, and you must return for a fresh mount in a week. We also have many fine war horses which could benefit mounted soldiers, but you have none we can help."	마구간에 다가가자 우두머리가 멋진 군마를 끌고 나타납니다. "이 말이 여정을 빠르게 해 줄 겁니다. 아쉽게도 많이 타면 지치니, 일주일 뒤에 새 말을 받으러 오셔야 합니다. 기병에게 좋을 군마도 많지만, 도와드릴 기병이 없으시군요."
+The Arena guards turn you away.	투기장 경비들이 당신을 돌려보냅니다.
+You have your crew stop up their ears with wax before the sirens' eerie song has any chance of luring them to a watery grave.	세이렌의 기이한 노래가 선원들을 물속 무덤으로 꾀어내기 전에, 밀랍으로 귀를 막게 합니다.
+As the sirens sing their eerie song, your small, determined army manages to overcome the urge to dive headlong into the sea.	세이렌이 기이한 노래를 부르지만, 작지만 굳센 당신의 부대는 바다로 뛰어들고 싶은 충동을 이겨 냅니다.
+An eerie wailing song emanates from the sirens perched upon the rocks. Many of your crew fall under its spell, and dive into the water where they drown. You are now wiser for the visit, and gain %{exp} experience.	바위에 앉은 세이렌들에게서 기이하게 울부짖는 노래가 흘러나옵니다. 많은 선원이 홀려 물에 뛰어들어 빠져 죽습니다. 이번 일로 지혜로워진 당신은 경험치 %{exp}을(를) 얻습니다.
+In a dazzling display of daring, you break into the local jail and free the hero imprisoned there, who, in return, pledges loyalty to your cause.	눈부신 용기로 감옥에 쳐들어가 갇힌 영웅을 풀어 줍니다. 그 영웅이 보답으로 당신에게 충성을 맹세합니다.
+You already have %{count} heroes, and regretfully must leave the prisoner in this jail to languish in agony for untold days.	이미 영웅이 %{count}명 있어서, 안타깝지만 갇힌 이를 감옥에 남겨 두어야 합니다. 그는 기약 없이 괴로워해야 합니다.
+You enter a rickety hut and talk to the magician who lives there. He tells you of places near and far which may aid you in your journeys.	다 쓰러져 가는 오두막에 들어가 거기 사는 마법사와 이야기합니다. 그가 여정에 도움이 될 가깝고 먼 곳들을 알려 줍니다.
+This eye seems to be intently studying its surroundings.	이 눈은 주변을 뚫어지게 살피는 것 같습니다.
+You come across a giant Sphinx. The Sphinx remains strangely quiet.	거대한 스핑크스를 만납니다. 스핑크스는 이상하게 조용합니다.
+"I have a riddle for you," the Sphinx says. "Answer correctly, and you shall be rewarded. Answer incorrectly, and you shall be eaten. Do you accept the challenge?"	"수수께끼를 내겠다." 스핑크스가 말합니다. "맞히면 상을 주고, 틀리면 잡아먹겠다. 도전하겠느냐?"
+The Sphinx asks you the following riddle:\n\n'	스핑크스가 수수께끼를 냅니다:\n\n'
+sphinx|'\n\nYour answer?	'\n\n답은?
+"You guessed incorrectly," the Sphinx says, smiling. The Sphinx swipes at you with a paw, knocking you to the ground. Another blow makes the world go black, and you know no more.	"틀렸다." 스핑크스가 웃으며 말합니다. 스핑크스의 앞발에 맞아 땅에 쓰러집니다. 한 번 더 맞자 세상이 깜깜해지고, 그 뒤로는 아무것도 기억나지 않습니다.
+Looking somewhat disappointed, the Sphinx sighs. "You've answered my riddle so here's your reward. Now begone."	조금 실망한 듯 스핑크스가 한숨을 쉽니다. "수수께끼를 맞혔으니 상을 주마. 이제 가거라."
+A magical barrier stands tall before you, blocking your way. Runes on the arch read,\n"Speak the key and you may pass."\nAs you speak the magic word, the glowing barrier dissolves into nothingness.	마법 장벽이 높이 솟아 길을 막습니다. 아치의 룬 문자에 이렇게 적혀 있습니다.\n"열쇠를 말하면 지나가리라."\n마법의 말을 하자 빛나는 장벽이 사르르 사라집니다.
+A magical barrier stands tall before you, blocking your way. Runes on the arch read,\n"Speak the key and you may pass."\nYou speak, and nothing happens.	마법 장벽이 높이 솟아 길을 막습니다. 아치의 룬 문자에 이렇게 적혀 있습니다.\n"열쇠를 말하면 지나가리라."\n말해 보지만 아무 일도 없습니다.
+You enter the tent and see an old woman gazing into a magic gem. She looks up and says,\n"In my travels, I have learned much in the way of arcane magic. A great oracle taught me his skill. I have the answer you seek."	천막에 들어가니 노파가 마법 보석을 들여다보고 있습니다. 노파가 고개를 들고 말합니다.\n"떠돌면서 비전 마법을 많이 배웠지. 위대한 예언자가 제 기술을 가르쳐 주었어. 네가 찾는 답이 여기 있다."
+The sting of your previous encounter still lingers, and you keep your distance from the intimidating cat until you have regained your courage in battle.	지난번 일이 아직 따끔해서, 전투로 용기를 되찾을 때까지 무서운 고양이를 멀리합니다.
+You come upon a great cat, purring as it rubs against your leg. Charmed, you reach down, but it bites you and flees. At least the laughter at your misfortune lifts your troops' spirits.	커다란 고양이가 가르랑거리며 다리에 몸을 비빕니다. 귀여워서 손을 뻗자 물고 달아납니다. 그래도 당신의 불운을 보고 웃은 덕분에 부대의 기운이 납니다.
+No spell book is present.	마법서가 없습니다.
+The spell was not found.	마법을 찾을 수 없습니다.
+This spell costs %{mana} spell points. You have no spell points, so you cannot cast it.	이 마법에는 마법 점수가 %{mana} 듭니다. 마법 점수가 없어 쓸 수 없습니다.
+This spell costs %{mana} spell points. You only have %{point} spell points, so you cannot cast it.	이 마법에는 마법 점수가 %{mana} 듭니다. 마법 점수가 %{point}밖에 없어 쓸 수 없습니다.
+Only heroes can cast this spell.	이 마법은 영웅만 쓸 수 있습니다.
+This hero is not able to cast adventure spells.	이 영웅은 모험 마법을 쓸 수 없습니다.
+This spell cannot be cast on a boat.	이 마법은 배 위에서 쓸 수 없습니다.
+Your hero is too tired to cast this spell today. Try again tomorrow.	영웅이 지쳐서 오늘은 이 마법을 쓸 수 없습니다. 내일 다시 해 보세요.
+This spell can only be cast near an ocean.	이 마법은 바다 근처에서만 쓸 수 있습니다.
+There are no boats available and no ocean adjacent to the hero where this spell will work.	쓸 수 있는 배도 없고, 영웅 옆에 이 마법이 통할 바다도 없습니다.
+There are no boats available for this spell.	이 마법에 쓸 수 있는 배가 없습니다.
+There is no ocean adjacent to the hero where this spell will work.	영웅 옆에 이 마법이 통할 바다가 없습니다.
+You do not own any town or castle that is not currently occupied by a hero. This spell will have no effect.	영웅이 없는 마을이나 성을 가지고 있지 않습니다. 이 마법은 효과가 없습니다.
+This hero is already in a town, so this spell will have no effect.	영웅이 이미 마을에 있어서 이 마법은 효과가 없습니다.
+The nearest town is %{town}.\n\nThis town is occupied by your hero %{hero}.	가장 가까운 마을은 %{town}입니다.\n\n이 마을에는 아군 영웅 %{hero}이(가) 있습니다.
+This spell is already in effect.	이 마법은 이미 걸려 있습니다.
+No opponent neither has nor can have any hero under their command anymore. Casting this spell will have no effect.	상대들이 거느린 영웅도 없고 앞으로 거느릴 수도 없습니다. 이 마법은 효과가 없습니다.
+No opponent has a hero under their command at this time. Casting this spell will have no effect.	지금은 거느린 영웅이 있는 상대가 없습니다. 이 마법은 효과가 없습니다.
+You must be within %{count} spaces of a monster for the Visions spell to work.	예견 마법을 쓰려면 괴물에게서 %{count}칸 안에 있어야 합니다.
+You must be standing on the entrance to a mine (sawmills and alchemist labs do not count) to cast this spell.	이 마법을 쓰려면 광산 입구(목재소와 연금술사 연구소는 빼고)에 서 있어야 합니다.
+You must first defeat the ghosts guarding the mine to cast this spell.	이 마법을 쓰려면 먼저 광산을 지키는 유령들을 물리쳐야 합니다.
+There are already at least as many elementals guarding the mine as this hero can generate. Casting this spell will have no effect.	광산을 지키는 정령이 이미 이 영웅이 불러낼 수 있는 수만큼 있습니다. 이 마법은 효과가 없습니다.
+%{name} the %{race} (Level %{level})	%{race} %{name} (%{level}레벨)
+Random hero (Level %{level})	무작위 영웅 (%{level}레벨)
+Random %{race} hero (Level %{level})	무작위 %{race} 영웅 (%{level}레벨)
+Hero class:	영웅 종족:
+Are you sure you want to dismiss this Hero?	정말 이 영웅을 해고하시겠습니까?
+Set custom Experience value. Current value is default.	경험치를 직접 정합니다. 지금은 기본값입니다.
+Change Experience value. Right-click to reset to default value.	경험치를 바꿉니다. 오른쪽 클릭하면 기본값으로 되돌립니다.
+View Experience Info	경험치 정보 보기
+Set custom Spell Points value. Current value is default.	마법 점수를 직접 정합니다. 지금은 기본값입니다.
+Change Spell Points value. Right-click to reset to default value.	마법 점수를 바꿉니다. 오른쪽 클릭하면 기본값으로 되돌립니다.
+Set Spell Points value:	마법 점수 정하기:
+View Spell Points Info	마법 점수 정보 보기
+Sleep Mode	잠자기
+The Hero is currently in sleep mode. When a Hero is in sleep mode, the player will not be reminded of any remaining movement points for this Hero when ending their turn.	영웅이 잠자고 있습니다. 잠자는 영웅은 차례를 마칠 때 남은 이동 점수를 알려 주지 않습니다.
+Set patrol radius in tiles:	순찰 반경(칸):
+Enter hero's name:	영웅 이름 넣기:
+Click to change class.	누르면 종족을 바꿉니다.
+'Spread' combat formation spreads the hero's units from the top to the bottom of the battlefield, with at least one empty space between each unit.	'펼침' 진형은 영웅의 부대를 전장 위에서 아래까지 사이에 적어도 한 칸씩 띄워 늘어놓습니다.
+'Grouped' combat formation bunches the hero's army together in the center of their side of the battlefield.	'모음' 진형은 영웅의 부대를 자기 쪽 전장 한가운데에 모아 둡니다.
+Exit Hero Screen	영웅 화면 나가기
+You cannot dismiss a hero in a castle	성 안에 있는 영웅은 해고할 수 없습니다
+Dismissal of %{name} the %{race} is prohibited by scenario	시나리오에서 %{race} %{name}의 해고를 막아 두었습니다
+Dismiss %{name} the %{race}	%{race} %{name} 해고
+Show previous hero	앞 영웅 보기
+Show next hero	다음 영웅 보기
+Set army combat formation to 'Spread'	부대 진형을 '펼침'으로
+Set army combat formation to 'Grouped'	부대 진형을 '모음'으로
+Set hero's Artifacts. Right-click to reset Artifact.	영웅의 아티팩트를 정합니다. 오른쪽 클릭하면 되돌립니다.
+Set hero's Secondary Skills. Right-click to reset skill.	영웅의 보조 기술을 정합니다. 오른쪽 클릭하면 되돌립니다.
+Set hero's Army. Right-click to reset unit.	영웅의 부대를 정합니다. 오른쪽 클릭하면 되돌립니다.
+Set hero's portrait. Right-click to reset to default.	영웅 초상을 정합니다. 오른쪽 클릭하면 기본으로 되돌립니다.
+Click to change hero's name. Right-click to reset to default.	누르면 영웅 이름을 바꿉니다. 오른쪽 클릭하면 기본으로 되돌립니다.
+Hero is in patrol mode in %{tiles} tiles radius. Click to disable it.	영웅이 %{tiles}칸 반경을 순찰합니다. 누르면 끕니다.
+Click to enable hero's patrol mode.	누르면 영웅이 순찰합니다.
+Do you want to save the changes made?	바꾼 것을 저장하시겠습니까?
+Blood Morale	피의 사기
+%{morale} Morale	사기 %{morale}
+%{luck} Luck	행운 %{luck}
+Current Luck Modifiers:	지금 행운에 영향을 주는 것:
+Current Morale Modifiers:	지금 사기에 영향을 주는 것:
+Entire army is undead, so morale does not apply.	부대가 모두 언데드라 사기가 없습니다.
+Current experience %{exp1}.\n Next level %{exp2}.	지금 경험치 %{exp1}.\n 다음 레벨 %{exp2}.
+million|M	백만
+Level %{level}	%{level}레벨
+%{name} currently has %{point} spell points out of a maximum of %{max}. The maximum number of spell points is 10 times the hero's knowledge. It is occasionally possible for the hero to have more than their maximum spell points via special events.	%{name}의 마법 점수는 최대 %{max} 가운데 지금 %{point}입니다. 마법 점수의 최대는 영웅 지력의 10배입니다. 특별한 일이 있으면 가끔 최대보다 많아지기도 합니다.
+%{name1} meets %{name2}	%{name1}이(가) %{name2}을(를) 만납니다
+hero|Level %{level}	%{level}레벨
+Move all artifacts from %{from_hero_name} to %{to_hero_name}.	%{from_hero_name}의 아티팩트를 모두 %{to_hero_name}에게 옮깁니다.
+Artifact Transfer	아티팩트 옮기기
+Swap Artifacts	아티팩트 바꾸기
+Swap all artifacts between heroes.	두 영웅의 아티팩트를 모두 맞바꿉니다.
+Move army from %{from_hero_name} to %{to_hero_name}.	%{from_hero_name}의 부대를 %{to_hero_name}에게 옮깁니다.
+Army Transfer	부대 옮기기
+Swap Armies	부대 바꾸기
+Swap armies between heroes.	두 영웅의 부대를 맞바꿉니다.
+Enemy heroes are now fully identifiable.	이제 적 영웅의 정보를 모두 볼 수 있습니다.
+Identify Hero	영웅 정찰
+Select town to port to.	돌아갈 마을을 고르세요.
+Town Portal	마을 귀환
+The creatures are willing to join us!	크리처들이 우리 편에 들어오려 합니다!
+All the creatures will join us...	크리처들이 모두 우리 편에 들어옵니다...
+The creature will join us...	크리처가 우리 편에 들어옵니다...
+%{count} of the creatures will join us...	크리처 %{count}마리가 우리 편에 들어옵니다...
+\n for a fee of %{gold} gold.	\n 값은 금 %{gold}.
+These weak creatures will surely flee before us.	이 약한 크리처들은 우리 앞에서 틀림없이 달아날 겁니다.
+I fear these creatures are in the mood for a fight.	이 크리처들은 싸울 기세인 것 같습니다.
+The hero's attack skill is a bonus added to each unit's attack skill.	영웅의 공격력은 각 부대의 공격력에 더해집니다.
+The hero's defense skill is a bonus added to each unit's defense skill.	영웅의 방어력은 각 부대의 방어력에 더해집니다.
+The hero's spell power determines the duration or power of a spell.	영웅의 마법력은 마법의 지속 시간이나 세기를 정합니다.
+The hero's knowledge determines how many spell points the hero may have. Under normal circumstances, a hero is limited to 10 spell points per level of knowledge.	영웅의 지력은 마법 점수를 얼마나 가질 수 있는지 정합니다. 보통 지력 1당 마법 점수 10까지 가질 수 있습니다.
+Current Modifiers:	지금 영향을 주는 것:
+skill|Basic	기본
+skill|Advanced	고급
+skill|Expert	전문
+Pathfinding	길찾기
+Archery	궁술
+Logistics	병참술
+Scouting	정찰
+Diplomacy	외교술
+Navigation	항해술
+Leadership	지휘력
+Wisdom	지혜
+Mysticism	신비술
+Ballistics	탄도학
+Eagle Eye	매의 눈
+Necromancy	사령술
+Estates	재산
+Advanced Archery	고급 궁술
+Advanced Pathfinding	고급 길찾기
+Basic Archery	기본 궁술
+Basic Pathfinding	기본 길찾기
+Expert Pathfinding	전문 길찾기
+Advanced Logistics	고급 병참술
+Basic Logistics	기본 병참술
+Basic Scouting	기본 정찰
+Expert Archery	전문 궁술
+Expert Logistics	전문 병참술
+Advanced Diplomacy	고급 외교술
+Advanced Scouting	고급 정찰
+Basic Diplomacy	기본 외교술
+Expert Diplomacy	전문 외교술
+Expert Scouting	전문 정찰
+Advanced Leadership	고급 지휘력
+Advanced Navigation	고급 항해술
+Basic Leadership	기본 지휘력
+Basic Navigation	기본 항해술
+Expert Navigation	전문 항해술
+Advanced Wisdom	고급 지혜
+Basic Mysticism	기본 신비술
+Basic Wisdom	기본 지혜
+Expert Leadership	전문 지휘력
+Expert Wisdom	전문 지혜
+Advanced Luck	고급 행운
+Advanced Mysticism	고급 신비술
+Basic Luck	기본 행운
+Expert Luck	전문 행운
+Expert Mysticism	전문 신비술
+Advanced Ballistics	고급 탄도학
+Advanced Eagle Eye	고급 매의 눈
+Basic Ballistics	기본 탄도학
+Basic Eagle Eye	기본 매의 눈
+Expert Ballistics	전문 탄도학
+Advanced Necromancy	고급 사령술
+Basic Estates	기본 재산
+Basic Necromancy	기본 사령술
+Expert Eagle Eye	전문 매의 눈
+Expert Necromancy	전문 사령술
+Advanced Estates	고급 재산
+Expert Estates	전문 재산
+%{skill} reduces the movement penalty for rough terrain by %{count} percent.	%{skill}은(는) 험한 땅의 이동 불이익을 %{count}% 줄여 줍니다.
+%{skill} eliminates the movement penalty for rough terrain.	%{skill}은(는) 험한 땅의 이동 불이익을 없애 줍니다.
+%{skill} increases the damage done by the hero's range attacking creatures by %{count} percent, and eliminates the %{penalty} percent penalty when shooting past obstacles (e.g. castle walls).	%{skill}은(는) 영웅의 원거리 크리처가 주는 피해를 %{count}% 늘리고, 장애물(성벽 등) 너머로 쏠 때의 %{penalty}% 불이익을 없애 줍니다.
+%{skill} increases the hero's movement points by %{count} percent.	%{skill}은(는) 영웅의 이동 점수를 %{count}% 늘려 줍니다.
+%{skill} increases the hero's viewable area by one square.	%{skill}은(는) 영웅이 볼 수 있는 범위를 한 칸 넓혀 줍니다.
+%{skill} increases the hero's viewable area by %{count} squares.	%{skill}은(는) 영웅이 볼 수 있는 범위를 %{count}칸 넓혀 줍니다.
+%{skill} allows the hero to negotiate with monsters who are weaker than their army, and reduces the cost of surrender.	%{skill}이(가) 있으면 영웅이 자기 부대보다 약한 괴물과 협상할 수 있고, 항복 비용이 줄어듭니다.
+Approximately %{count} percent of the creatures may offer to join the hero.	크리처의 약 %{count}%가 영웅에게 합류하겠다고 할 수 있습니다.
+All of the creatures may offer to join the hero.	크리처가 모두 영웅에게 합류하겠다고 할 수 있습니다.
+The cost of surrender is reduced to %{percent} percent of the total cost of troops in the army.	항복 비용이 부대 전체 값의 %{percent}%로 줄어듭니다.
+%{skill} increases the hero's movement points over water by %{count} percent.	%{skill}은(는) 영웅의 물 위 이동 점수를 %{count}% 늘려 줍니다.
+%{skill} increases the hero's troops morale by %{count}.	%{skill}은(는) 영웅 부대의 사기를 %{count} 올려 줍니다.
+%{skill} allows the hero to learn third level spells.	%{skill}이(가) 있으면 영웅이 3단계 마법을 배울 수 있습니다.
+%{skill} allows the hero to learn fourth level spells.	%{skill}이(가) 있으면 영웅이 4단계 마법을 배울 수 있습니다.
+%{skill} allows the hero to learn fifth level spells.	%{skill}이(가) 있으면 영웅이 5단계 마법을 배울 수 있습니다.
+%{skill} regenerates one additional spell point per day to the hero.	%{skill}은(는) 영웅의 마법 점수를 날마다 1 더 채워 줍니다.
+%{skill} regenerates %{count} additional spell points per day to the hero.	%{skill}은(는) 영웅의 마법 점수를 날마다 %{count} 더 채워 줍니다.
+%{skill} increases the hero's luck by %{count}.	%{skill}은(는) 영웅의 행운을 %{count} 올려 줍니다.
+%{skill} gives the hero's catapult shots a greater chance to hit and do damage to castle walls.	%{skill}이(가) 있으면 영웅의 투석기가 성벽을 더 잘 맞히고 부숩니다.
+%{skill} gives the hero's catapult an extra shot, and each shot has a greater chance to hit and do damage to castle walls.	%{skill}이(가) 있으면 영웅의 투석기가 한 번 더 쏘고, 성벽을 더 잘 맞히고 부숩니다.
+%{skill} gives the hero's catapult an extra shot, and each shot automatically destroys any wall, except a fortified wall in a Knight castle.	%{skill}이(가) 있으면 영웅의 투석기가 한 번 더 쏘고, 쏠 때마다 성벽을 부숩니다. 단 요새화한 기사 성의 성벽은 빼고.
+%{skill} gives the hero a %{count} percent chance to learn any given 1st or 2nd level spell that was cast by an enemy during combat.	%{skill}이(가) 있으면 전투에서 적이 쓴 1, 2단계 마법을 영웅이 %{count}% 확률로 배웁니다.
+%{skill} gives the hero a %{count} percent chance to learn any given 3rd level spell (or below) that was cast by an enemy during combat.	%{skill}이(가) 있으면 전투에서 적이 쓴 3단계 이하 마법을 영웅이 %{count}% 확률로 배웁니다.
+%{skill} gives the hero a %{count} percent chance to learn any given 4th level spell (or below) that was cast by an enemy during combat.	%{skill}이(가) 있으면 전투에서 적이 쓴 4단계 이하 마법을 영웅이 %{count}% 확률로 배웁니다.
+%{skill} allows %{count} percent of the creatures killed in combat to be brought back from the dead as Skeletons.	%{skill}이(가) 있으면 전투에서 죽은 크리처의 %{count}%를 해골로 되살립니다.
+The hero produces %{count} gold pieces per day as tax revenue from estates.	영웅이 재산에서 거두는 세금으로 날마다 금 %{count}을(를) 법니다.
