@@ -18,12 +18,14 @@ import h2icn
 # 간판 번호 -> (한글 줄들, 글꼴 파일, 크기). 말은 1편 한글판과 같음. 글꼴은 갈무리(주인 18:18), 점 그대로 2배(원래 글자 높이 20~22점에 맞춤).
 # 줄기는 3점(2배 + 오른쪽·아래 1점). 불러오기만 보통 꼴로는 판(글자 자리 64점)에 안 들어가 좁은 꼴(Condensed)
 # 넷째 값: 원래 글자 줄처럼 기울임(종료 판은 휘어 있어 글자가 오른쪽으로 올라감)
-SIGNS = {0: (['새', '게임'], 'Galmuri11.ttf', 12, False), 1: (['불러', '오기'], 'Galmuri9.ttf', 10, False),
+SIGNS = {0: (['새', '게임'], 'Galmuri11.ttf', 12, False), 1: (['불러', '오기'], 'Galmuri11.ttf', 12, False),
          2: (['최고', '기록'], 'Galmuri11.ttf', 12, False), 3: (['제작진'], 'Galmuri9.ttf', 10, False),
          4: (['종료'], 'Galmuri11.ttf', 12, True)}
 # 세로 가운데 = 원래 글자 점들의 평균 높이(종료 판의 꼬리 'ᴛ'처럼 튀어나온 획에 끌리지 않게)
 SCALE = 2
 LINE_GAP = 4
+# 판 가운데에 놓을 간판(주인 2026-11-24 17:44 "중간으로"): 불러오기, 최고 기록. 나머지는 원래 영어 글자 자리의 가운데
+CENTER_ON_BOARD = (1, 2)
 
 
 def lum(c):
@@ -136,6 +138,10 @@ def build(agg_path, font_dir):
         if g.shape[1] > box[2] - box[0] + 5 or g.shape[0] > box[3] - box[1] + 9:
             print('넘침', s, g.shape, box)
         cx, cy = (box[0] + box[2] + 1) / 2, ys.mean() + 0.5
+        if s in CENTER_ON_BOARD:
+            # 글자 줄 높이에서 판(그림이 있는 점)의 왼쪽 끝과 오른쪽 끝의 가운데
+            bx = [x for (x, y) in fs[1]['px'] if box[1] <= y <= box[3]]
+            cx = (min(bx) + max(bx) + 1) / 2
         gx, gy = int(round(cx - g.shape[1] / 2)), int(round(cy - g.shape[0] / 2))
         # 원래 글자 줄이 기울어 있으면(종료 판) 같은 기울기로: 열마다 글자 점 가운데 높이의 기울기
         cols = [(x, ys[xs == x].mean()) for x in range(box[0], box[2] + 1) if (xs == x).any()]
