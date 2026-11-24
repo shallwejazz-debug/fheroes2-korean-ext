@@ -7,6 +7,8 @@
 
 namespace H2Korean
 {
-    constexpr const char * packageVersion = "v1m";
-    constexpr const char * packageDate = "2026-11-23";
+    constexpr const char * packageVersion = "v1n";
+    constexpr const char * packageDate = "2026-11-24";
+    // shown after the date (owner 2026-11-24 16:01 "넣자")
+    constexpr const char * packageAuthor = "여누";
 }

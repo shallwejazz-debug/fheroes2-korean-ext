@@ -111,7 +111,7 @@ namespace fheroes2
 
         if ( Translation::isKorean() && !H1::isH1Mode() ) {
             // H2-KOREAN (owner 2026-11-20 10:36): the package version at the bottom right of the main menu picture.
-            const std::string versionText = std::string( _( "Korean patch and extension mode" ) ) + " " + H2Korean::packageVersion + " (" + H2Korean::packageDate + ")";
+            const std::string versionText = std::string( _( "Korean patch and extension mode" ) ) + " " + H2Korean::packageVersion + " (" + H2Korean::packageDate + ") - " + H2Korean::packageAuthor;
             const Text text( versionText, FontType::smallWhite() );
             text.draw( mainMenuBackground.x() + mainMenuBackground.width() - text.width() - 6, mainMenuBackground.y() + mainMenuBackground.height() - text.height() - 3,
                        display );
