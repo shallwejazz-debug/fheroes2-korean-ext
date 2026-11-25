@@ -3,7 +3,7 @@
 **Heroes of Might and Magic II**(히어로즈 오브 마이트 앤 매직 2)를 한국어로 즐기고, 원작에 없던 **확장 모드**를 더한 판입니다.
 오픈소스 엔진 [fheroes2](https://github.com/ihhub/fheroes2)를 고쳐서 만들었습니다.
 
-- 만든 과정 (블로그): https://blog.naver.com/finepix401
+- 만든 과정 (블로그): https://blog.naver.com/finepix401/224490624708
 - **원작 게임 파일은 들어 있지 않습니다.** 히어로즈 2 원작(정품)을 갖고 계셔야 합니다.
 
 ## 원작과 비교 (왼쪽 원작 / 오른쪽 이 판)
