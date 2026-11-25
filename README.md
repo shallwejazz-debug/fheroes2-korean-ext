@@ -56,7 +56,7 @@
 
 ## 설치 (윈도우)
 
-1. [Releases](../../releases)에서 `fheroes2-korean-ext_win.zip`을 받아 압축을 풉니다.
+1. [Releases](../../releases)에서 가장 최근 `fheroes2-korean-ext_win_….zip`을 받아 압축을 풉니다.
 2. 원작 히어로즈 2 설치 폴더에서 아래를 같은 폴더에 복사합니다.
    - `DATA` 폴더 → `data` (HEROES2.AGG 등)
    - `MAPS` 폴더 → `maps`
